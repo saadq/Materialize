@@ -1,4 +1,4 @@
-# Spacegray Material Theme for Sublime Text 3
+# Material Spacegray Theme
 A fusion between [Material](https://github.com/equinusocio/material-theme) and [Spacegray](https://github.com/kkga/spacegray), two of the most popular themes for Sublime Text.
 
 
@@ -6,12 +6,27 @@ A fusion between [Material](https://github.com/equinusocio/material-theme) and [
 
 ![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material-Spacegray.png?token=AFamZkMOMtkS--ADNagQYSBQuN9JJ3eJks5Vx7zKwA%3D%3D)
 
+*The font used in the screenshot is [__Fira Mono__](https://mozilla.github.io/Fira/).*
+
 ## Easy installation
 You can install this awesome theme through the [Package Control](https://packagecontrol.io/installation). Search for *"Material-Spacegray"*, install, **restart Sublime Text** and enjoy!
 
 --
 
-**Manual installation**
+### Installation
+
+#### Via Package Control
+
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Material Spacegray is listed as `Material-Spacegray`.
+
+1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
+2. Choose `Package Control: Install Package`
+3. Find `Material-Spacegray` and hit <kbd>Enter</kbd>
+
+
+#### Manually
+
+You can also install the theme manually:
 
 1. Download the [latest release](https://github.com/saadq/Material-Spacegray/releases/latest), extract and rename the folder to **"Material-Spacegray"**.
 
@@ -54,8 +69,6 @@ I suggest you to use this custom settings for a better experience with the theme
 "always_show_minimap_viewport": true,
 "bold_folder_labels": true,
 ```
-
-The font used for the code is "[Fira Mono](https://mozilla.github.io/Fira/)".
 
 
 ## Credits
