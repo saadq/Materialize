@@ -302,7 +302,7 @@
     {
       "class": "tab_control", "attributes": ["selected"],
       "layer1.opacity": 1.0,
-      "layer2.opacity": 0.0
+      "layer2.opacity": 0.5
     },
 
       // Hovered current tab
