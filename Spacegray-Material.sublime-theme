@@ -52,10 +52,10 @@
 
     {
       "class": "fold_button_control",
-      "layer0.texture": "Material Theme/assets/commons/fold_right.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/fold_right.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
-      "layer1.texture": "Material Theme/assets/commons/fold_right--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/fold_right--hover.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": 0,
       "content_margin": [9, 7, 8, 6]
@@ -71,8 +71,8 @@
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
-      "layer0.texture": "Material Theme/assets/default/fold_down.png",
-      "layer1.texture": "Material Theme/assets/commons/fold_down--hover.png"
+      "layer0.texture": "Material-Spacegray/assets/default/fold_down.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/fold_down--hover.png"
     },
 
 
@@ -141,10 +141,10 @@
     // Command Panel
      {
         "class": "overlay_control",
-        "layer0.texture": "Material Theme/assets/default/overlay-bg.png",
+        "layer0.texture": "Material-Spacegray/assets/default/overlay-bg.png",
         "layer0.inner_margin": [24, 4, 24, 33],
         "layer0.opacity": 1.0,
-        "layer1.texture": "Material Theme/assets/commons/quick-panel-background.png",
+        "layer1.texture": "Material-Spacegray/assets/commons/quick-panel-background.png",
         "layer1.inner_margin": [16, 0, 16, 25],
         "layer1.opacity": 1.0,
         "content_margin": [13, 13, 13, 33]
@@ -284,7 +284,7 @@
       "layer0.opacity": 1.0,
       "tint_index": 0,
 
-      "layer1.texture": "Material Theme/assets/default/tab_current.png",
+      "layer1.texture": "Material-Spacegray/assets/default/tab_current.png",
       "layer1.inner_margin": [0, 1],
       "layer1.opacity": 0.0,
 
@@ -355,20 +355,20 @@
       "content_margin": [0, 0],
 
        // Close Icon
-      "layer0.texture": "Material Theme/assets/default/close_icon.png",
+      "layer0.texture": "Material-Spacegray/assets/default/close_icon.png",
       "layer0.opacity": 1,
       "layer0.inner_margin": 0,
 
       // Close Icon Hover
-      "layer1.texture": "Material Theme/assets/commons/close_icon--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/close_icon--hover.png",
       "layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
 
        // Dirty Icon
-      "layer2.texture": "Material Theme/assets/default/dirty_icon.png",
+      "layer2.texture": "Material-Spacegray/assets/default/dirty_icon.png",
       "layer2.inner_margin": 0,
 
       // Dirty Icon Hover
-      "layer3.texture": "Material Theme/assets/commons/dirty_icon--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/commons/dirty_icon--hover.png",
       "layer3.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" }
     },
 
@@ -438,10 +438,10 @@
     {
       "class": "scroll_tabs_left_button",
       "content_margin": [14, 7],
-      "layer0.texture": "Material Theme/assets/default/arrow_left.png",
+      "layer0.texture": "Material-Spacegray/assets/default/arrow_left.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
-      "layer1.texture": "Material Theme/assets/commons/arrow_left--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/arrow_left--hover.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": 0,
     },
@@ -455,10 +455,10 @@
     {
       "class": "scroll_tabs_right_button",
       "content_margin": [14, 7],
-      "layer0.texture": "Material Theme/assets/default/arrow_right.png",
+      "layer0.texture": "Material-Spacegray/assets/default/arrow_right.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
-      "layer1.texture": "Material Theme/assets/commons/arrow_right--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/arrow_right--hover.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": 0,
     },
@@ -472,10 +472,10 @@
     {
       "class": "show_tabs_dropdown_button",
       "content_margin": [12, 12],
-      "layer0.texture": "Material Theme/assets/default/overflow_menu.png",
+      "layer0.texture": "Material-Spacegray/assets/default/overflow_menu.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
-      "layer1.texture": "Material Theme/assets/commons/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/overflow_menu--hover.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": 0,
     },
@@ -530,7 +530,7 @@
 
     {
        "class": "tree_row",
-       "layer1.texture": "Material Theme/assets/default/tree_highlight.png",
+       "layer1.texture": "Material-Spacegray/assets/default/tree_highlight.png",
        "layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
        "layer1.inner_margin": [22, 8, 0, 0]
     },
@@ -631,11 +631,11 @@
       "content_margin": [13, 8],
       "layer0.tint": [35, 40, 48],
       "layer0.opacity": 0,
-      "layer1.texture": "Material Theme/assets/default/folder.png",
+      "layer1.texture": "Material-Spacegray/assets/default/folder.png",
       "layer1.opacity": 1,
-      "layer2.texture": "Material Theme/assets/commons/folder--hover.png",
+      "layer2.texture": "Material-Spacegray/assets/commons/folder--hover.png",
       "layer2.opacity": 0.0,
-      "layer3.texture": "Material Theme/assets/commons/folder_opened--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/commons/folder_opened--hover.png",
       "layer3.opacity": 0.0,
     },
 
@@ -671,19 +671,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/commons/folder_opened--hover-0.png",
-          "Material Theme/assets/commons/folder_opened--hover-1.png",
-          "Material Theme/assets/commons/folder_opened--hover-2.png",
-          "Material Theme/assets/commons/folder_opened--hover-3.png",
-          "Material Theme/assets/commons/folder_opened--hover-4.png",
-          "Material Theme/assets/commons/folder_opened--hover-5.png",
-          "Material Theme/assets/commons/folder_opened--hover-5.png",
-          "Material Theme/assets/commons/folder_opened--hover-5.png",
-          "Material Theme/assets/commons/folder_opened--hover-6.png",
-          "Material Theme/assets/commons/folder_opened--hover-6.png",
-          "Material Theme/assets/commons/folder_opened--hover-6.png",
-          "Material Theme/assets/commons/folder_opened--hover-6.png",
-          "Material Theme/assets/commons/folder_opened--hover-7.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-0.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-1.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-2.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-3.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-4.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/commons/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -699,7 +699,7 @@
       [
         { "class": "tree_row", "attributes": ["selected"] }
       ],
-      "layer1.texture": "Material Theme/assets/commons/folder--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/folder--hover.png",
     },
 
       // Folder loading
@@ -710,18 +710,18 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/commons/spinner11.png",
-          "Material Theme/assets/commons/spinner10.png",
-          "Material Theme/assets/commons/spinner9.png",
-          "Material Theme/assets/commons/spinner8.png",
-          "Material Theme/assets/commons/spinner7.png",
-          "Material Theme/assets/commons/spinner6.png",
-          "Material Theme/assets/commons/spinner5.png",
-          "Material Theme/assets/commons/spinner4.png",
-          "Material Theme/assets/commons/spinner3.png",
-          "Material Theme/assets/commons/spinner2.png",
-          "Material Theme/assets/commons/spinner1.png",
-          "Material Theme/assets/commons/spinner.png",
+          "Material-Spacegray/assets/commons/spinner11.png",
+          "Material-Spacegray/assets/commons/spinner10.png",
+          "Material-Spacegray/assets/commons/spinner9.png",
+          "Material-Spacegray/assets/commons/spinner8.png",
+          "Material-Spacegray/assets/commons/spinner7.png",
+          "Material-Spacegray/assets/commons/spinner6.png",
+          "Material-Spacegray/assets/commons/spinner5.png",
+          "Material-Spacegray/assets/commons/spinner4.png",
+          "Material-Spacegray/assets/commons/spinner3.png",
+          "Material-Spacegray/assets/commons/spinner2.png",
+          "Material-Spacegray/assets/commons/spinner1.png",
+          "Material-Spacegray/assets/commons/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -735,7 +735,7 @@
 
     {
       "class": "icon_folder_dup",
-      "layer0.texture": "Material Theme/assets/default/folder_dup.png",
+      "layer0.texture": "Material-Spacegray/assets/default/folder_dup.png",
       "layer0.opacity": 1.0,
       "content_margin": [13, 8]
     },
@@ -744,23 +744,23 @@
       "class": "icon_folder_dup",
       "parents":
       [{ "class": "tree_row", "attributes": ["hover"] }],
-      "layer0.texture": "Material Theme/assets/commons/folder_dup--hover.png"
+      "layer0.texture": "Material-Spacegray/assets/commons/folder_dup--hover.png"
     },
 
     {
       "class": "icon_folder_dup",
       "parents": [{"class": "tree_row", "attributes": ["expanded"] }],
-      "layer0.texture": "Material Theme/assets/commons/folder_dup--hover.png"
+      "layer0.texture": "Material-Spacegray/assets/commons/folder_dup--hover.png"
     },
 
       // Hidden arrow icon before folder
 
     {
       "class": "disclosure_button_control",
-      "layer0.texture": "Material Theme/assets/commons/folder.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/folder.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
-      "layer1.texture": "Material Theme/assets/commons/folder--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/folder--hover.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": 0,
       "content_margin": [0, 0, 0, 0]
@@ -779,7 +779,7 @@
     {
       "class": "disclosure_button_control",
       "attributes": ["expanded"],
-      "layer0.texture": "Material Theme/assets/commons/folder_opened--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/folder_opened--hover.png",
     },
 
     {
@@ -802,12 +802,12 @@
       "content_margin": [8, 8],
 
       // Default Close icon
-      "layer0.texture": "Material Theme/assets/default/close_icon.png",
+      "layer0.texture": "Material-Spacegray/assets/default/close_icon.png",
       "layer0.opacity": { "target": 0.0, "speed": 7.0, "interpolation": "smoothstep" },
       "layer0.inner_margin": [0,0],
 
       // Hover close icon
-      "layer1.texture": "Material Theme/assets/commons/close_icon--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/close_icon--hover.png",
       "layer1.opacity": 0,
       "layer1.inner_margin": [0,0],
     },
@@ -821,7 +821,7 @@
         { "class": "tree_row", "attributes": ["hover"] }
       ],
       // Default Close icon
-      "layer0.texture": "Material Theme/assets/default/close_icon.png",
+      "layer0.texture": "Material-Spacegray/assets/default/close_icon.png",
       "layer0.opacity": { "target": 1.0, "speed": 7.0, "interpolation": "smoothstep" },
       "layer0.inner_margin": [0,0],
     },
@@ -829,7 +829,7 @@
     {
       "class": "close_button",
       "attributes": ["dirty"],
-      "layer0.texture": "Material Theme/assets/commons/dirty_icon--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/dirty_icon--hover.png",
       "layer0.opacity": 1.0
     },
 
@@ -849,7 +849,7 @@
 
     {
       "class": "scroll_bar_control",
-      "layer0.texture": "Material Theme/assets/default/normal_bar_vertical.png",
+      "layer0.texture": "Material-Spacegray/assets/default/normal_bar_vertical.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [0, 6],
       "blur": false
@@ -871,7 +871,7 @@
      {
         "class": "scroll_bar_control",
         "attributes": ["horizontal"],
-        "layer0.texture": "Material Theme/assets/default/normal_bar_horizontal.png",
+        "layer0.texture": "Material-Spacegray/assets/default/normal_bar_horizontal.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [6, 0],
         "blur": false
@@ -893,7 +893,7 @@
 
     {
       "class": "scroll_corner_control",
-      "layer0.texture": "Material Theme/assets/default/normal_bar_corner.png",
+      "layer0.texture": "Material-Spacegray/assets/default/normal_bar_corner.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [1, 1]
     },
@@ -905,7 +905,7 @@
       "layer0.tint": [38, 50, 255, 255],
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [10, 10],
-      "layer1.texture": "Material Theme/assets/default/thumb_vertical.png",
+      "layer1.texture": "Material-Spacegray/assets/default/thumb_vertical.png",
       "layer1.opacity": 1.0,
       "layer1.inner_margin": [8, 8],
       "content_margin": [6, 16],
@@ -917,7 +917,7 @@
     {
       "class": "puck_control",
       "attributes": ["horizontal"],
-      "layer0.texture": "Material Theme/assets/default/thumb_horizontal.png",
+      "layer0.texture": "Material-Spacegray/assets/default/thumb_horizontal.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [10, 0],
       "content_margin": [16, 6],
@@ -954,7 +954,7 @@
     {
       "class": "scroll_bar_control",
       "settings": ["overlay_scroll_bars"],
-      "layer0.texture": "Material Theme/assets/default/normal_bar_vertical.png",
+      "layer0.texture": "Material-Spacegray/assets/default/normal_bar_vertical.png",
       "layer0.inner_margin": [0, 5],
       "blur": true
     },
@@ -963,10 +963,10 @@
       "class": "scroll_bar_control",
       "settings": ["overlay_scroll_bars"],
       "attributes": ["horizontal"],
-      "layer0.texture": "Material Theme/assets/default/normal_bar_horizontal.png",
+      "layer0.texture": "Material-Spacegray/assets/default/normal_bar_horizontal.png",
       "layer0.inner_margin": [5, 0],
       "layer0.opacity": 0.0,
-      "layer1.texture": "Material Theme/assets/default/normal_bar_horizontal.png",
+      "layer1.texture": "Material-Spacegray/assets/default/normal_bar_horizontal.png",
       "layer1.inner_margin": [5, 0],
       "layer1.opacity": 0.0,
       "blur": true
@@ -977,7 +977,7 @@
       "layer0.tint": [35, 40, 48],
       "layer0.opacity": 0.0,
       "layer0.inner_margin": [1, 8, 1, 8],
-      "layer1.texture": "Material Theme/assets/default/thumb_vertical.png",
+      "layer1.texture": "Material-Spacegray/assets/default/thumb_vertical.png",
       "layer1.inner_margin": [1, 8, 1, 8],
       "content_margin": [6, 16],
       "blur": true
@@ -989,7 +989,7 @@
       "layer0.tint": [35, 40, 48],
       "layer0.opacity": 0.0,
       "layer0.inner_margin": [8, 1, 8, 1],
-      "layer1.texture": "Material Theme/assets/default/thumb_horizontal.png",
+      "layer1.texture": "Material-Spacegray/assets/default/thumb_horizontal.png",
       "layer1.inner_margin": [8, 1, 8, 1],
       "content_margin": [16, 6],
       "blur": true
@@ -1110,9 +1110,9 @@
 
     {
       "class": "panel_close_button",
-      "layer0.texture": "Material Theme/assets/default/close_icon.png",
+      "layer0.texture": "Material-Spacegray/assets/default/close_icon.png",
       "layer0.opacity": 0.6,
-      "layer1.texture": "Material Theme/assets/commons/close_icon--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/close_icon--hover.png",
       "layer1.opacity": 0.0,
       "content_margin": [0, 0] // 8,8 to show
     },
@@ -1128,7 +1128,7 @@
 
     {
       "class": "text_line_control",
-      "layer0.texture": "Material Theme/assets/default/input_field_border.png",
+      "layer0.texture": "Material-Spacegray/assets/default/input_field_border.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [20, 5, 20, 5],
       "tint_index": 1,
@@ -1141,7 +1141,7 @@
     {
       "class": "text_line_control",
       "parents": [{"class": "overlay_control"}],
-      "layer0.texture": "Material Theme/assets/default/input_field_border--short.png",
+      "layer0.texture": "Material-Spacegray/assets/default/input_field_border--short.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [32, 0, 32, 2],
       "layer0.draw_center": true,
@@ -1154,10 +1154,10 @@
     {
       "class": "dropdown_button_control",
       "content_margin": [12, 12],
-      "layer0.texture": "Material Theme/assets/default/overflow_menu.png",
+      "layer0.texture": "Material-Spacegray/assets/default/overflow_menu.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [0, 0],
-      "layer1.texture": "Material Theme/assets/commons/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/overflow_menu--hover.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": [0, 0],
     },
@@ -1189,10 +1189,10 @@
       "layer0.tint": [35, 40, 48],
       "layer0.opacity": 0.0,
       "layer0.inner_margin": [6, 6],
-      "layer1.texture": "Material Theme/assets/commons/full_button_indented.png",
+      "layer1.texture": "Material-Spacegray/assets/commons/full_button_indented.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": [6, 6],
-      "layer2.texture": "Material Theme/assets/default/blue_highlight.png",
+      "layer2.texture": "Material-Spacegray/assets/default/blue_highlight.png",
       "layer2.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
       "layer2.inner_margin": [6, 6]
     },
@@ -1231,9 +1231,9 @@
       // Regex Icon
     {
       "class": "icon_regex",
-      "layer0.texture": "Material Theme/assets/commons/find_regex--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/find_regex--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/default/find_regex.png",
+      "layer1.texture": "Material-Spacegray/assets/default/find_regex.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1249,9 +1249,9 @@
 
     {
       "class": "icon_case",
-      "layer0.texture": "Material Theme/assets/commons/find_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/find_case--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/default/find_case.png",
+      "layer1.texture": "Material-Spacegray/assets/default/find_case.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1267,9 +1267,9 @@
 
     {
       "class": "icon_whole_word",
-      "layer0.texture": "Material Theme/assets/commons/find_word--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/find_word--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/default/find_word.png",
+      "layer1.texture": "Material-Spacegray/assets/default/find_word.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1286,9 +1286,9 @@
 
     {
       "class": "icon_wrap",
-      "layer0.texture": "Material Theme/assets/commons/find_wrap--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/find_wrap--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/default/find_wrap.png",
+      "layer1.texture": "Material-Spacegray/assets/default/find_wrap.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1304,9 +1304,9 @@
 
     {
       "class": "icon_in_selection",
-      "layer0.texture": "Material Theme/assets/commons/find_inselection--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/find_inselection--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/default/find_inselection.png",
+      "layer1.texture": "Material-Spacegray/assets/default/find_inselection.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12,12]
     },
@@ -1323,9 +1323,9 @@
 
     {
       "class": "icon_highlight",
-      "layer0.texture": "Material Theme/assets/commons/find_highlight--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/find_highlight--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/default/find_highlight.png",
+      "layer1.texture": "Material-Spacegray/assets/default/find_highlight.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1341,9 +1341,9 @@
 
     {
       "class": "icon_preserve_case",
-      "layer0.texture": "Material Theme/assets/commons/replace_preserve_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/replace_preserve_case--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/default/replace_preserve_case.png",
+      "layer1.texture": "Material-Spacegray/assets/default/replace_preserve_case.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1359,9 +1359,9 @@
 
     {
       "class": "icon_context",
-      "layer0.texture": "Material Theme/assets/commons/find_context--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/find_context--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/default/find_context.png",
+      "layer1.texture": "Material-Spacegray/assets/default/find_context.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1378,9 +1378,9 @@
 
     {
       "class": "icon_use_buffer",
-      "layer0.texture": "Material Theme/assets/commons/use_buffer--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/use_buffer--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/default/use_buffer.png",
+      "layer1.texture": "Material-Spacegray/assets/default/use_buffer.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1396,9 +1396,9 @@
 
     {
       "class": "icon_reverse",
-      "layer0.texture": "Material Theme/assets/commons/find_reverse--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/find_reverse--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/default/find_reverse.png",
+      "layer1.texture": "Material-Spacegray/assets/default/find_reverse.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1434,7 +1434,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/tree_highlight.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-lime/tree_highlight.png",
     },
 
       // Tabs
@@ -1442,7 +1442,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/tab_current.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-lime/tab_current.png",
     },
 
       // Tabs close button
@@ -1450,8 +1450,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-lime/dirty_icon--hover.png"
+      "layer1.texture": "Material-Spacegray/assets/accent-lime/close_icon--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-lime/dirty_icon--hover.png"
     },
 
       // Opened files
@@ -1459,7 +1459,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/close_icon--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-lime/close_icon--hover.png",
     },
 
       // Dirty opened files
@@ -1468,7 +1468,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/dirty_icon--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-lime/dirty_icon--hover.png",
     },
 
     {
@@ -1481,8 +1481,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_lime"],
-      "layer2.texture": "Material Theme/assets/accent-lime/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-lime/folder_opened--hover.png",
+      "layer2.texture": "Material-Spacegray/assets/accent-lime/folder--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-lime/folder_opened--hover.png",
     },
 
     {
@@ -1493,19 +1493,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-lime/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-7.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-0.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-1.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-2.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-3.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-4.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-lime/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -1521,14 +1521,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-lime/spinner7.png",
-          "Material Theme/assets/accent-lime/spinner6.png",
-          "Material Theme/assets/accent-lime/spinner5.png",
-          "Material Theme/assets/accent-lime/spinner4.png",
-          "Material Theme/assets/accent-lime/spinner3.png",
-          "Material Theme/assets/accent-lime/spinner2.png",
-          "Material Theme/assets/accent-lime/spinner1.png",
-          "Material Theme/assets/accent-lime/spinner.png",
+          "Material-Spacegray/assets/accent-lime/spinner7.png",
+          "Material-Spacegray/assets/accent-lime/spinner6.png",
+          "Material-Spacegray/assets/accent-lime/spinner5.png",
+          "Material-Spacegray/assets/accent-lime/spinner4.png",
+          "Material-Spacegray/assets/accent-lime/spinner3.png",
+          "Material-Spacegray/assets/accent-lime/spinner2.png",
+          "Material-Spacegray/assets/accent-lime/spinner1.png",
+          "Material-Spacegray/assets/accent-lime/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -1540,29 +1540,29 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/arrow_left--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-lime/arrow_left--hover.png",
     },
 
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/arrow_right--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-lime/arrow_right--hover.png",
     },
 
 
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/commons/fold_right.png",
-      "layer1.texture": "Material Theme/assets/accent-lime/fold_right--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/fold_right.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-lime/fold_right--hover.png",
     },
 
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-      "layer1.texture": "Material Theme/assets/accent-lime/fold_down--hover.png"
+      "layer0.texture": "Material-Spacegray/assets/darker/fold_down.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-lime/fold_down--hover.png"
     },
 
     // Panel labels
@@ -1611,7 +1611,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-lime/overflow_menu--hover.png",
     },
 
       // Textline input oveflow menu
@@ -1619,7 +1619,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-lime/overflow_menu--hover.png",
     },
 
     /* Buttons icons settings
@@ -1629,7 +1629,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_regex--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-lime/find_regex--hover.png",
     },
 
       // Preserve case sensitive
@@ -1637,14 +1637,14 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-lime/find_case--hover.png",
     },
       // Wholeword
 
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_word--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-lime/find_word--hover.png",
     },
 
       // Wrap
@@ -1652,7 +1652,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_wrap--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-lime/find_wrap--hover.png",
     },
 
       // In selection
@@ -1660,7 +1660,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_inselection--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-lime/find_inselection--hover.png",
     },
 
 
@@ -1669,7 +1669,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_highlight--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-lime/find_highlight--hover.png",
     },
 
       // Preserve Case
@@ -1677,7 +1677,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/replace_preserve_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-lime/replace_preserve_case--hover.png",
     },
 
       // Show context
@@ -1685,7 +1685,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_context--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-lime/find_context--hover.png",
     },
 
       // Use buffer
@@ -1693,7 +1693,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/use_buffer--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-lime/use_buffer--hover.png",
     },
 
       // Reverse direction
@@ -1701,7 +1701,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_reverse--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-lime/find_reverse--hover.png",
     },
 
 
@@ -1713,7 +1713,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/tree_highlight.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-purple/tree_highlight.png",
     },
 
       // Tabs
@@ -1721,7 +1721,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/tab_current.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-purple/tab_current.png",
     },
 
       // Tabs close button
@@ -1729,8 +1729,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-purple/dirty_icon--hover.png"
+      "layer1.texture": "Material-Spacegray/assets/accent-purple/close_icon--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-purple/dirty_icon--hover.png"
     },
 
       // Opened files
@@ -1738,7 +1738,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/close_icon--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-purple/close_icon--hover.png",
     },
 
       // Dirty opened files
@@ -1747,7 +1747,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/dirty_icon--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-purple/dirty_icon--hover.png",
     },
 
     {
@@ -1760,8 +1760,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_purple"],
-      "layer2.texture": "Material Theme/assets/accent-purple/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-purple/folder_opened--hover.png",
+      "layer2.texture": "Material-Spacegray/assets/accent-purple/folder--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-purple/folder_opened--hover.png",
     },
 
     {
@@ -1772,19 +1772,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-purple/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-7.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-0.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-1.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-2.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-3.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-4.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-purple/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -1800,14 +1800,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-purple/spinner7.png",
-          "Material Theme/assets/accent-purple/spinner6.png",
-          "Material Theme/assets/accent-purple/spinner5.png",
-          "Material Theme/assets/accent-purple/spinner4.png",
-          "Material Theme/assets/accent-purple/spinner3.png",
-          "Material Theme/assets/accent-purple/spinner2.png",
-          "Material Theme/assets/accent-purple/spinner1.png",
-          "Material Theme/assets/accent-purple/spinner.png",
+          "Material-Spacegray/assets/accent-purple/spinner7.png",
+          "Material-Spacegray/assets/accent-purple/spinner6.png",
+          "Material-Spacegray/assets/accent-purple/spinner5.png",
+          "Material-Spacegray/assets/accent-purple/spinner4.png",
+          "Material-Spacegray/assets/accent-purple/spinner3.png",
+          "Material-Spacegray/assets/accent-purple/spinner2.png",
+          "Material-Spacegray/assets/accent-purple/spinner1.png",
+          "Material-Spacegray/assets/accent-purple/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -1819,29 +1819,29 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/arrow_left--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-purple/arrow_left--hover.png",
     },
 
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/arrow_right--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-purple/arrow_right--hover.png",
     },
 
 
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/commons/fold_right.png",
-      "layer1.texture": "Material Theme/assets/accent-purple/fold_right--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/fold_right.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-purple/fold_right--hover.png",
     },
 
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-      "layer1.texture": "Material Theme/assets/accent-purple/fold_down--hover.png"
+      "layer0.texture": "Material-Spacegray/assets/darker/fold_down.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-purple/fold_down--hover.png"
     },
 
     // Panel labels
@@ -1890,7 +1890,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-purple/overflow_menu--hover.png",
     },
 
       // Textline input oveflow menu
@@ -1898,7 +1898,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-purple/overflow_menu--hover.png",
     },
 
     /* Buttons icons settings
@@ -1908,7 +1908,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_regex--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-purple/find_regex--hover.png",
     },
 
       // Preserve case sensitive
@@ -1916,14 +1916,14 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-purple/find_case--hover.png",
     },
       // Wholeword
 
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_word--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-purple/find_word--hover.png",
     },
 
       // Wrap
@@ -1931,7 +1931,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_wrap--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-purple/find_wrap--hover.png",
     },
 
       // In selection
@@ -1939,7 +1939,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_inselection--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-purple/find_inselection--hover.png",
     },
 
 
@@ -1948,7 +1948,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_highlight--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-purple/find_highlight--hover.png",
     },
 
       // Preserve Case
@@ -1956,7 +1956,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/replace_preserve_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-purple/replace_preserve_case--hover.png",
     },
 
       // Show context
@@ -1964,7 +1964,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_context--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-purple/find_context--hover.png",
     },
 
       // Use buffer
@@ -1972,7 +1972,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/use_buffer--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-purple/use_buffer--hover.png",
     },
 
       // Reverse direction
@@ -1980,7 +1980,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_reverse--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-purple/find_reverse--hover.png",
     },
 
   /* RED ACCENT
@@ -1991,7 +1991,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/tree_highlight.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-red/tree_highlight.png",
     },
 
       // Tabs
@@ -1999,7 +1999,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/tab_current.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-red/tab_current.png",
     },
 
       // Tabs close button
@@ -2007,8 +2007,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-red/dirty_icon--hover.png"
+      "layer1.texture": "Material-Spacegray/assets/accent-red/close_icon--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-red/dirty_icon--hover.png"
     },
 
       // Opened files
@@ -2016,7 +2016,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/close_icon--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-red/close_icon--hover.png",
     },
 
       // Dirty opened files
@@ -2025,7 +2025,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/dirty_icon--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-red/dirty_icon--hover.png",
     },
 
     {
@@ -2038,8 +2038,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_red"],
-      "layer2.texture": "Material Theme/assets/accent-red/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-red/folder_opened--hover.png",
+      "layer2.texture": "Material-Spacegray/assets/accent-red/folder--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-red/folder_opened--hover.png",
     },
 
     {
@@ -2050,19 +2050,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-red/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-7.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-0.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-1.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-2.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-3.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-4.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-red/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -2078,14 +2078,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-red/spinner7.png",
-          "Material Theme/assets/accent-red/spinner6.png",
-          "Material Theme/assets/accent-red/spinner5.png",
-          "Material Theme/assets/accent-red/spinner4.png",
-          "Material Theme/assets/accent-red/spinner3.png",
-          "Material Theme/assets/accent-red/spinner2.png",
-          "Material Theme/assets/accent-red/spinner1.png",
-          "Material Theme/assets/accent-red/spinner.png",
+          "Material-Spacegray/assets/accent-red/spinner7.png",
+          "Material-Spacegray/assets/accent-red/spinner6.png",
+          "Material-Spacegray/assets/accent-red/spinner5.png",
+          "Material-Spacegray/assets/accent-red/spinner4.png",
+          "Material-Spacegray/assets/accent-red/spinner3.png",
+          "Material-Spacegray/assets/accent-red/spinner2.png",
+          "Material-Spacegray/assets/accent-red/spinner1.png",
+          "Material-Spacegray/assets/accent-red/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -2097,29 +2097,29 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/arrow_left--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-red/arrow_left--hover.png",
     },
 
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/arrow_right--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-red/arrow_right--hover.png",
     },
 
 
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/commons/fold_right.png",
-      "layer1.texture": "Material Theme/assets/accent-red/fold_right--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/fold_right.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-red/fold_right--hover.png",
     },
 
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-      "layer1.texture": "Material Theme/assets/accent-red/fold_down--hover.png"
+      "layer0.texture": "Material-Spacegray/assets/darker/fold_down.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-red/fold_down--hover.png"
     },
 
     // Panel labels
@@ -2168,7 +2168,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-red/overflow_menu--hover.png",
     },
 
       // Textline input oveflow menu
@@ -2176,7 +2176,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-red/overflow_menu--hover.png",
     },
 
     /* Buttons icons settings
@@ -2186,7 +2186,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_regex--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-red/find_regex--hover.png",
     },
 
       // Preserve case sensitive
@@ -2194,14 +2194,14 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-red/find_case--hover.png",
     },
       // Wholeword
 
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_word--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-red/find_word--hover.png",
     },
 
       // Wrap
@@ -2209,7 +2209,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_wrap--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-red/find_wrap--hover.png",
     },
 
       // In selection
@@ -2217,7 +2217,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_inselection--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-red/find_inselection--hover.png",
     },
 
 
@@ -2226,7 +2226,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_highlight--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-red/find_highlight--hover.png",
     },
 
       // Preserve Case
@@ -2234,7 +2234,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/replace_preserve_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-red/replace_preserve_case--hover.png",
     },
 
       // Show context
@@ -2242,7 +2242,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_context--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-red/find_context--hover.png",
     },
 
       // Use buffer
@@ -2250,7 +2250,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/use_buffer--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-red/use_buffer--hover.png",
     },
 
       // Reverse direction
@@ -2258,7 +2258,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_reverse--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-red/find_reverse--hover.png",
     },
 
   /* ORANGE ACCENT
@@ -2269,7 +2269,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/tree_highlight.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-orange/tree_highlight.png",
     },
 
       // Tabs
@@ -2277,7 +2277,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/tab_current.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-orange/tab_current.png",
     },
 
       // Tabs close button
@@ -2285,8 +2285,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-orange/dirty_icon--hover.png"
+      "layer1.texture": "Material-Spacegray/assets/accent-orange/close_icon--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-orange/dirty_icon--hover.png"
     },
 
       // Opened files
@@ -2294,7 +2294,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/close_icon--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-orange/close_icon--hover.png",
     },
 
       // Dirty opened files
@@ -2303,7 +2303,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/dirty_icon--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-orange/dirty_icon--hover.png",
     },
 
     {
@@ -2316,8 +2316,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_orange"],
-      "layer2.texture": "Material Theme/assets/accent-orange/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-orange/folder_opened--hover.png",
+      "layer2.texture": "Material-Spacegray/assets/accent-orange/folder--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-orange/folder_opened--hover.png",
     },
 
     {
@@ -2328,19 +2328,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-orange/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-7.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-0.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-1.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-2.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-3.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-4.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-orange/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -2356,14 +2356,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-orange/spinner7.png",
-          "Material Theme/assets/accent-orange/spinner6.png",
-          "Material Theme/assets/accent-orange/spinner5.png",
-          "Material Theme/assets/accent-orange/spinner4.png",
-          "Material Theme/assets/accent-orange/spinner3.png",
-          "Material Theme/assets/accent-orange/spinner2.png",
-          "Material Theme/assets/accent-orange/spinner1.png",
-          "Material Theme/assets/accent-orange/spinner.png",
+          "Material-Spacegray/assets/accent-orange/spinner7.png",
+          "Material-Spacegray/assets/accent-orange/spinner6.png",
+          "Material-Spacegray/assets/accent-orange/spinner5.png",
+          "Material-Spacegray/assets/accent-orange/spinner4.png",
+          "Material-Spacegray/assets/accent-orange/spinner3.png",
+          "Material-Spacegray/assets/accent-orange/spinner2.png",
+          "Material-Spacegray/assets/accent-orange/spinner1.png",
+          "Material-Spacegray/assets/accent-orange/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -2375,29 +2375,29 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/arrow_left--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-orange/arrow_left--hover.png",
     },
 
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/arrow_right--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-orange/arrow_right--hover.png",
     },
 
 
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/commons/fold_right.png",
-      "layer1.texture": "Material Theme/assets/accent-orange/fold_right--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/fold_right.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-orange/fold_right--hover.png",
     },
 
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-      "layer1.texture": "Material Theme/assets/accent-orange/fold_down--hover.png"
+      "layer0.texture": "Material-Spacegray/assets/darker/fold_down.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-orange/fold_down--hover.png"
     },
 
     // Panel labels
@@ -2446,7 +2446,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-orange/overflow_menu--hover.png",
     },
 
       // Textline input oveflow menu
@@ -2454,7 +2454,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-orange/overflow_menu--hover.png",
     },
 
     /* Buttons icons settings
@@ -2464,7 +2464,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_regex--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-orange/find_regex--hover.png",
     },
 
       // Preserve case sensitive
@@ -2472,14 +2472,14 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-orange/find_case--hover.png",
     },
       // Wholeword
 
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_word--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-orange/find_word--hover.png",
     },
 
       // Wrap
@@ -2487,7 +2487,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_wrap--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-orange/find_wrap--hover.png",
     },
 
       // In selection
@@ -2495,7 +2495,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_inselection--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-orange/find_inselection--hover.png",
     },
 
 
@@ -2504,7 +2504,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_highlight--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-orange/find_highlight--hover.png",
     },
 
       // Preserve Case
@@ -2512,7 +2512,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/replace_preserve_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-orange/replace_preserve_case--hover.png",
     },
 
       // Show context
@@ -2520,7 +2520,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_context--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-orange/find_context--hover.png",
     },
 
       // Use buffer
@@ -2528,7 +2528,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/use_buffer--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-orange/use_buffer--hover.png",
     },
 
       // Reverse direction
@@ -2536,7 +2536,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_reverse--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-orange/find_reverse--hover.png",
     },
 
 
@@ -2550,7 +2550,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/tree_highlight.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-yellow/tree_highlight.png",
     },
 
       // Tabs
@@ -2558,7 +2558,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/tab_current.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-yellow/tab_current.png",
     },
 
       // Tabs close button
@@ -2566,8 +2566,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-yellow/dirty_icon--hover.png"
+      "layer1.texture": "Material-Spacegray/assets/accent-yellow/close_icon--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-yellow/dirty_icon--hover.png"
     },
 
       // Opened files
@@ -2575,7 +2575,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/close_icon--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-yellow/close_icon--hover.png",
     },
 
       // Dirty opened files
@@ -2584,7 +2584,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/dirty_icon--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-yellow/dirty_icon--hover.png",
     },
 
     {
@@ -2597,8 +2597,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_yellow"],
-      "layer2.texture": "Material Theme/assets/accent-yellow/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-yellow/folder_opened--hover.png",
+      "layer2.texture": "Material-Spacegray/assets/accent-yellow/folder--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-yellow/folder_opened--hover.png",
     },
 
     {
@@ -2609,19 +2609,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-yellow/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-7.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-0.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-1.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-2.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-3.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-4.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-5.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-6.png",
+          "Material-Spacegray/assets/accent-yellow/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -2637,14 +2637,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-yellow/spinner7.png",
-          "Material Theme/assets/accent-yellow/spinner6.png",
-          "Material Theme/assets/accent-yellow/spinner5.png",
-          "Material Theme/assets/accent-yellow/spinner4.png",
-          "Material Theme/assets/accent-yellow/spinner3.png",
-          "Material Theme/assets/accent-yellow/spinner2.png",
-          "Material Theme/assets/accent-yellow/spinner1.png",
-          "Material Theme/assets/accent-yellow/spinner.png",
+          "Material-Spacegray/assets/accent-yellow/spinner7.png",
+          "Material-Spacegray/assets/accent-yellow/spinner6.png",
+          "Material-Spacegray/assets/accent-yellow/spinner5.png",
+          "Material-Spacegray/assets/accent-yellow/spinner4.png",
+          "Material-Spacegray/assets/accent-yellow/spinner3.png",
+          "Material-Spacegray/assets/accent-yellow/spinner2.png",
+          "Material-Spacegray/assets/accent-yellow/spinner1.png",
+          "Material-Spacegray/assets/accent-yellow/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -2656,29 +2656,29 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/arrow_left--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-yellow/arrow_left--hover.png",
     },
 
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/arrow_right--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-yellow/arrow_right--hover.png",
     },
 
 
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/commons/fold_right.png",
-      "layer1.texture": "Material Theme/assets/accent-yellow/fold_right--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/commons/fold_right.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-yellow/fold_right--hover.png",
     },
 
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-      "layer1.texture": "Material Theme/assets/accent-yellow/fold_down--hover.png"
+      "layer0.texture": "Material-Spacegray/assets/darker/fold_down.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-yellow/fold_down--hover.png"
     },
 
     // Panel labels
@@ -2727,7 +2727,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-yellow/overflow_menu--hover.png",
     },
 
       // Textline input oveflow menu
@@ -2735,7 +2735,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/overflow_menu--hover.png",
+      "layer1.texture": "Material-Spacegray/assets/accent-yellow/overflow_menu--hover.png",
     },
 
     /* Buttons icons settings
@@ -2745,7 +2745,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_regex--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-yellow/find_regex--hover.png",
     },
 
       // Preserve case sensitive
@@ -2753,14 +2753,14 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-yellow/find_case--hover.png",
     },
       // Wholeword
 
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_word--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-yellow/find_word--hover.png",
     },
 
       // Wrap
@@ -2768,7 +2768,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_wrap--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-yellow/find_wrap--hover.png",
     },
 
       // In selection
@@ -2776,7 +2776,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_inselection--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-yellow/find_inselection--hover.png",
     },
 
 
@@ -2785,7 +2785,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_highlight--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-yellow/find_highlight--hover.png",
     },
 
       // Preserve Case
@@ -2793,7 +2793,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/replace_preserve_case--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-yellow/replace_preserve_case--hover.png",
     },
 
       // Show context
@@ -2801,7 +2801,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_context--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-yellow/find_context--hover.png",
     },
 
       // Use buffer
@@ -2809,7 +2809,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/use_buffer--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-yellow/use_buffer--hover.png",
     },
 
       // Reverse direction
@@ -2817,7 +2817,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_reverse--hover.png",
+      "layer0.texture": "Material-Spacegray/assets/accent-yellow/find_reverse--hover.png",
     },
 
 
@@ -2875,7 +2875,7 @@
       "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
       "layer1.opacity": 0.0,
       "layer2.opacity": 0.0,
-      "layer3.texture": "Material Theme/assets/commons/folder--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/commons/folder--hover.png",
     },
 
       // Folder animation Lime
@@ -2886,7 +2886,7 @@
       "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
       "layer1.opacity": 0.0,
       "layer2.opacity": 0.0,
-      "layer3.texture": "Material Theme/assets/accent-lime/folder--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-lime/folder--hover.png",
     },
 
       // Folder animation Purple
@@ -2897,7 +2897,7 @@
       "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
       "layer1.opacity": 0.0,
       "layer2.opacity": 0.0,
-      "layer3.texture": "Material Theme/assets/accent-purple/folder--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-purple/folder--hover.png",
     },
 
       // Folder animation Red
@@ -2908,7 +2908,7 @@
       "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
       "layer1.opacity": 0.0,
       "layer2.opacity": 0.0,
-      "layer3.texture": "Material Theme/assets/accent-red/folder--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-red/folder--hover.png",
     },
 
       // Folder animation Orange
@@ -2919,7 +2919,7 @@
       "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
       "layer1.opacity": 0.0,
       "layer2.opacity": 0.0,
-      "layer3.texture": "Material Theme/assets/accent-orange/folder--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-orange/folder--hover.png",
     },
 
       // Folder animation Yellow
@@ -2930,7 +2930,7 @@
       "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
       "layer1.opacity": 0.0,
       "layer2.opacity": 0.0,
-      "layer3.texture": "Material Theme/assets/accent-yellow/folder--hover.png",
+      "layer3.texture": "Material-Spacegray/assets/accent-yellow/folder--hover.png",
     },
       // Small status bar
 
