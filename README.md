@@ -1,14 +1,6 @@
-# Material Theme for Sublime Text 3
-This theme brings the [Material Design](http://www.google.com/design/) visual language to your Sublime Text 3. If you have problems first search for a similiar issue and then report with [new one](https://github.com/equinusocio/material-theme/issues).
+# Spacegray Material Theme for Sublime Text 3
+This theme is meant to be a nice blend between [Material]() and [Spacegray](), two of the most popular themes for Sublime Text.
 
-Please read the section [Known Issues](https://github.com/equinusocio/material-theme#known-issues) before send a new one.
-
-## Buy me a beer. (Alcoholist mode ON)
-
-<!-- Pledgie Donation -->
-<a href='https://pledgie.com/campaigns/29452'><img alt='Click here to lend your support to: Material Theme donations and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/29452.png?skin_name=chrome' border='0' ></a>
-
-<a target="_blank" href='https://www.coinbase.com/checkouts/1ApeKqUE3aLp5x3UuGHU3z95F7XoyDvpeF' data-code="1ApeKqUE3aLp5x3UuGHU3z95F7XoyDvpeF" class="coinbase-button"><img alt='Click here to lend your support to: Material Theme donations and make a donation at pledgie.com !' src='https://www.coinbase.com/assets/buttons/donation_small-210ad5fe8fe0846a0c6bc676e1bad3d462ab3fcbdaf2443de8755503d0729847.png' border='0' ></a>
 
 ## Screenshots
 
@@ -40,28 +32,6 @@ You can install this awesome theme through the [Package Control](https://package
 
 ***Note*** : Remember to restart Sublime Text after activating the theme.
 
-## Theme styles
-This theme provides a second style version:
-
-**Darker**
-```json
-"theme": "Material-Theme-Darker.sublime-theme",
-"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-```
-
-**Lighter**
-```json
-"theme": "Material-Theme-Lighter.sublime-theme",
-"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Lighter.tmTheme",
-```
-
-## Known issues
-Please see the issue [#67](https://github.com/equinusocio/material-theme/issues/67) if you can't see the bottom panel (find/replace, rename, move, can't see the box inputs in SidebarEnhancement, etc..). here the quick fix:
-
-![Drag the top edge](https://cloud.githubusercontent.com/assets/474329/8178894/a0dd09c0-1412-11e5-8ecf-f7f9ade439ae.gif)
-
-#### White panels
-If you want to enable the white panels and inputs you can install the addon package through **Package Control**, search for "Material theme white panels". You have to disable it if you want to use the ```Lighter``` theme style.
 
 ## Theme options
 
@@ -77,23 +47,21 @@ If you want to enable the white panels and inputs you can install the addon pack
 "material_theme_accent_red": true,						// set pale red accent color
 "material_theme_accent_orange": true,					// set orange accent color
 "material_theme_accent_yellow": true,					// set yellow accent color
-``` 
+```
 
 ## Recommended UI and font settings
 I suggest you to use this custom settings for a better experience with the theme:
 
 ```json
 "overlay_scroll_bars": "enabled",
-"line_padding_top": 3,
-"line_padding_bottom": 3,
+"line_padding_top": 1,
+"line_padding_bottom": 1,
 "font_options": [ "gray_antialias" ], // On retina Mac
 "always_show_minimap_viewport": true,
 "bold_folder_labels": true,
 ```
 
-The font used for the code is "[Fira Code](https://github.com/tonsky/FiraCode)" with code ligatures (not supported in Sublime Text).
-
-You can also use the official Material Design monospace font, "[Roboto Mono](https://www.google.com/fonts/specimen/Roboto+Mono)"
+The font used for the code is "[Fira Mono]()" with code ligatures (not supported in Sublime Text).
 
 
 ## Other Resources
@@ -102,21 +70,7 @@ You can also use the official Material Design monospace font, "[Roboto Mono](htt
 
 [Download](https://dribbble.com/shots/2104476-Material-Theme-for-Sublime-Text-3/attachments/380650) the official Material Theme icon.
 
-**Vim Porting**
 
-You can now download the [Vim Hybrid Material](https://github.com/kristijanhusak/vim-hybrid-material), Material Theme porting made by @kristijanhusak.
+## Credits
+Thanks to the original creators of the [Material]() and [Spacegray]() theme!
 
-**Terminal Porting**
-
-You can download [Material Theme Terminal](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf), Material Theme porting made by @mvaneijgen
-
-**Default Color Palette**
-
-![Color Palette](http://i.imgur.com/zyIK71j.jpg)
-
-
-## Thanks
-Thanks for all the [contributors](https://github.com/equinusocio/material-theme/graphs/contributors).
-
-Check the video review by **LevelUpTuts**
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6eqgrCxprOI/0.jpg)](http://www.youtube.com/watch?v=6eqgrCxprOI)
