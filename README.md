@@ -4,7 +4,7 @@ A fusion between [Material](https://github.com/equinusocio/material-theme) and [
 
 ## Screenshots
 
-![](http://equinusocio.github.io/material-theme/assets/materialtheme.png)
+![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material-Spacegray.png?token=AFamZkMOMtkS--ADNagQYSBQuN9JJ3eJks5Vx7zKwA%3D%3D)
 
 ## Easy installation
 You can install this awesome theme through the [Package Control](https://packagecontrol.io/installation). Search for *"Material-Spacegray"*, install, **restart Sublime Text** and enjoy!
