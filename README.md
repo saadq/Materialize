@@ -9,26 +9,26 @@ A fusion between [Material](https://github.com/equinusocio/material-theme) and [
 
 ### Via Package Control
 
-The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Material Spacegray is listed as `Material-Spacegray`.
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Material Spacegray is listed as `Material Spacegray`.
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
-3. Find `Material-Spacegray` and hit <kbd>Enter</kbd>
+3. Find `Material Spacegray` and hit <kbd>Enter</kbd>
 
 
 ### Manually
 
 You can also install the theme manually:
 
-1. Download the [latest release](https://github.com/saadq/Material-Spacegray/releases/latest), extract and rename the folder to **"Material-Spacegray"**.
+1. Download the [latest release](https://github.com/saadq/Material-Spacegray/releases/latest), extract and rename the folder to **"Material Spacegray"**.
 
 2. Move the folder inside your sublime Packages directory. **(Preferences > Browse packages...)**
 
 3. Activate the theme with the following preferences at  **(Preferences > Setting - User)**:
 
 ```json
-"theme": "Material-Spacegray.sublime-theme",
-"color_scheme": "Packages/Material-Spacegray/schemes/base16-ocean.tmTheme",
+"theme": "Material Spacegray.sublime-theme",
+"color_scheme": "Packages/Material Spacegray/schemes/base16-ocean.tmTheme",
 ```
 
 ***Note*** : Remember to restart Sublime Text after activating the theme.
