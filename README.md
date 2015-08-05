@@ -5,15 +5,15 @@ A fusion between [Material](https://github.com/equinusocio/material-theme) and [
 
 ### Material Spacegray
 
-![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material-Spacegray.png?token=AFamZkMOMtkS--ADNagQYSBQuN9JJ3eJks5Vx7zKwA%3D%3D)
+![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material%20Spacegray.png)
 
 ### Material Spacegray Darker
 
-![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material-Spacegray.png?token=AFamZkMOMtkS--ADNagQYSBQuN9JJ3eJks5Vx7zKwA%3D%3D)
+![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material%20Spacegray%20Darker.png)
 
 #### You can also mix and match
 
-![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material-Spacegray.png?token=AFamZkMOMtkS--ADNagQYSBQuN9JJ3eJks5Vx7zKwA%3D%3D)
+![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material%20Spacegray%20Mixed.png)
 
 *The font used in the screenshot is [__Fira Mono__](https://mozilla.github.io/Fira/).*
 
@@ -38,9 +38,16 @@ You can also install the theme manually:
 
 3. Activate the theme with the following preferences at  **(Preferences > Setting - User)**:
 
+#### Material Spacegray:
 ```json
 "theme": "Material Spacegray.sublime-theme",
-"color_scheme": "Packages/Material Spacegray/schemes/base16-ocean.tmTheme",
+"color_scheme": "Packages/Material Spacegray/schemes/Material Spacegray.tmTheme",
+```
+
+#### Material Spacegray Darker:
+```json
+"theme": "Material Spacegray Darker.sublime-theme",
+"color_scheme": "Packages/Material Spacegray/schemes/Material Spacegray Darker.tmTheme",
 ```
 
 ***Note*** : Remember to restart Sublime Text after activating the theme.
