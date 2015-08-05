@@ -1,6 +1,18 @@
 # Material Spacegray Theme
 A fusion between [Material](https://github.com/equinusocio/material-theme) and [Spacegray](https://github.com/kkga/spacegray), two of the most popular themes for Sublime Text.
 
+## Screenshots
+
+### Material Spacegray
+
+![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material-Spacegray.png?token=AFamZkMOMtkS--ADNagQYSBQuN9JJ3eJks5Vx7zKwA%3D%3D)
+
+### Material Spacegray Darker
+
+![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material-Spacegray.png?token=AFamZkMOMtkS--ADNagQYSBQuN9JJ3eJks5Vx7zKwA%3D%3D)
+
+#### You can also mix and match
+
 ![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material-Spacegray.png?token=AFamZkMOMtkS--ADNagQYSBQuN9JJ3eJks5Vx7zKwA%3D%3D)
 
 *The font used in the screenshot is [__Fira Mono__](https://mozilla.github.io/Fira/).*

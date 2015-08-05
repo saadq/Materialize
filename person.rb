@@ -1,4 +1,3 @@
-
 # This is a comment
 
 class Person
