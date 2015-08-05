@@ -1,0 +1,17 @@
+NEW UPDATE
+
+The theme has undergone major changes.
+
+There are two themes now, "Material Spacegray.sublime-theme" and "Material Spacegray Darker.sublime-theme".
+
+There are matching color schemes for each, so you will have to use "Material Spacegray.tmTheme" or "Material Spacegray Darker.tmTheme".
+
+You can mix and match, based on your individual preferences. You can have the editor's background color match the rest of the UI, or you can have a slight variation, just like how the original was.
+
+You can check out screenshots at http://github.com/saadq/Material-Spacegray
+
+******************************************************************************
+
+          MAKE SURE TO RESTART SUBLIME AFTER ACTIVATING THE THEME
+
+******************************************************************************
