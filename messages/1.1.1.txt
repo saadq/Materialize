@@ -1,0 +1,4 @@
+Version 1.1.0
+================================================================================================================================
+
+Fixed color inconsistencies for input fields in Material Spacegray.
