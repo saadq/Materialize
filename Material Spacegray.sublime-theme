@@ -141,7 +141,7 @@
     // Command Panel
      {
         "class": "overlay_control",
-        "layer0.texture": "Material Spacegray/assets/default/overlay-bg.png",
+        "layer0.texture": "Material Spacegray/assets/default/overlay-bg-lighter.png",
         "layer0.inner_margin": [24, 4, 24, 33],
         "layer0.opacity": 1.0,
         "layer1.texture": "Material Spacegray/assets/commons/quick-panel-background.png",
