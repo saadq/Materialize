@@ -1128,7 +1128,7 @@
 
     {
       "class": "text_line_control",
-      "layer0.texture": "Material Spacegray/assets/default/input_field_border.png",
+      "layer0.texture": "Material Spacegray/assets/default/input_field_border_lighter.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [20, 5, 20, 5],
       "tint_index": 1,
@@ -1141,7 +1141,7 @@
     {
       "class": "text_line_control",
       "parents": [{"class": "overlay_control"}],
-      "layer0.texture": "Material Spacegray/assets/default/input_field_border--short.png",
+      "layer0.texture": "Material Spacegray/assets/default/input_field_border_lighter--short.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [32, 0, 32, 2],
       "layer0.draw_center": true,
