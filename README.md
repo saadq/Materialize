@@ -9,7 +9,7 @@ Bringing Material to the some of the most popular color schemes for Sublime:
 * Twilight
 * Zenburn
 
-## Click [here](/screenshots.md) to see some screenshots.
+ Click [here](/Screenshots.md) to see some screenshots.
 
 ---
 
