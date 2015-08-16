@@ -1,0 +1,69 @@
+Version 2.0.0
+================================================================================================================================
+
+Introducing Materialize. In addition to Material Spacegray, several new themes and color schemes have been added:
+
+* Material Monokai
+* Material Solarized
+* Material Oceanic Next
+* Material Twilight
+* Material Zenburn
+* Material Seti
+
+Please report any issues here: https://github.com/saadq/Materialize/issues
+
+If you'd like to request a Material version of your favorite color scheme, send an e-mail to saad@saadquadri.com and put "Materialize Request" as the subject.
+
+Hope you enjoy ^.^
+
+================================================================================================================================
+
+Activation
+-----------
+Activate your theme with the corresponding preferences at  **(Preferences > Setting - User)**:
+
+Material Spacegray:
+{
+    "theme": "Material Spacegray.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme"
+}
+
+Material Solarized:
+{
+    "theme": "Material Solarized.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Solarized.tmTheme"
+}
+
+Material Monokai:
+{
+    "theme": "Material Monokai.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme"
+}
+
+Material Oceanic Next:
+{
+    "theme": "Material Oceanic Next.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme"
+}
+
+Material Seti:
+{
+    "theme": "Material Seti.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme"
+}
+
+Material Twilight:
+{
+    "theme": "Material Twilight.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme"
+}
+
+Material Zenburn:
+{
+    "theme": "Material Zenburn.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme"
+}
+
+================================================================================================================================
+
+***Note*** : Remember to restart Sublime Text after activating the theme.

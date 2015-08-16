@@ -1,27 +1,58 @@
-Thanks for installing Material Spacegray Theme!
-Check out https://github.com/saadq/Material-Spacegray for more info.
+Thanks for installing Materialize!
+
+Check out https://github.com/saadq/Materialize for more info and screenshots.
 
 ******************************************************************************
 
+Activation
+-----------
+Activate your theme with the corresponding preferences at  **(Preferences > Setting - User)**:
 
-To activate this awesome theme, add in your current settings this code:
-
+Material Spacegray:
 {
     "theme": "Material Spacegray.sublime-theme",
-    "color_scheme": "Packages/Material Spacegray/schemes/Material Spacegray.tmTheme",
+    "color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme"
 }
 
-OR this:
-
+Material Solarized:
 {
-    "theme": "Material Spacegray Darker.sublime-theme",
-    "color_scheme": "Packages/Material Spacegray/schemes/Material Spacegray Darker.tmTheme",
+    "theme": "Material Solarized.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Solarized.tmTheme"
+}
+
+Material Monokai:
+{
+    "theme": "Material Monokai.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme"
+}
+
+Material Oceanic Next:
+{
+    "theme": "Material Oceanic Next.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme"
+}
+
+Material Seti:
+{
+    "theme": "Material Seti.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme"
+}
+
+Material Twilight:
+{
+    "theme": "Material Twilight.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme"
+}
+
+Material Zenburn:
+{
+    "theme": "Material Zenburn.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme"
 }
 
 
 MAKE SURE TO RESTART SUBLIME AFTER ACTIVATING THE THEME
 ******************************************************************************
-
 
 Recommended UI and font settings:
 I suggest that you use the following custom settings for a better experience with the theme:
