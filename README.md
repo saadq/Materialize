@@ -1,5 +1,5 @@
-# Material Spacegray Theme
-A fusion between [Material](https://github.com/equinusocio/material-theme) and [Spacegray](https://github.com/kkga/spacegray), two of the most popular themes for Sublime Text.
+# Materialize
+Bringing Material to the most popular color schemes for Sublime.
 
 ## Screenshots
 
@@ -21,11 +21,11 @@ A fusion between [Material](https://github.com/equinusocio/material-theme) and [
 
 ### Via Package Control
 
-The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Material Spacegray is listed as `Material Spacegray`.
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), just search for "Materialize".
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
-3. Find `Material Spacegray` and hit <kbd>Enter</kbd>
+3. Find `Materialize` and hit <kbd>Enter</kbd>
 
 
 ### Manually
@@ -41,13 +41,43 @@ You can also install the theme manually:
 #### Material Spacegray:
 ```json
 "theme": "Material Spacegray.sublime-theme",
-"color_scheme": "Packages/Material Spacegray/schemes/Material Spacegray.tmTheme",
+"color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme",
 ```
 
-#### Material Spacegray Darker:
+#### Material Solarized:
 ```json
-"theme": "Material Spacegray Darker.sublime-theme",
-"color_scheme": "Packages/Material Spacegray/schemes/Material Spacegray Darker.tmTheme",
+"theme": "Material Solarized.sublime-theme",
+"color_scheme": "Packages/Materialize/schemes/Material Solarized.tmTheme",
+```
+
+#### Material Monokai:
+```json
+"theme": "Material Monokai.sublime-theme",
+"color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme",
+```
+
+#### Material Oceanic Next:
+```json
+"theme": "Material Oceanic Next.sublime-theme",
+"color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme",
+```
+
+#### Material Seti:
+```json
+"theme": "Material Seti.sublime-theme",
+"color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
+```
+
+#### Material Twilight:
+```json
+"theme": "Material Twilight.sublime-theme",
+"color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme",
+```
+
+#### Material Zenburn:
+```json
+"theme": "Material Zenburn.sublime-theme",
+"color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme",
 ```
 
 ***Note*** : Remember to restart Sublime Text after activating the theme.
@@ -55,17 +85,17 @@ You can also install the theme manually:
 ## Theme options
 
 ```json
-"material_spacegray_small_tab": true,                // Set small tabs
-"material_spacegray_disable_fileicons": true,        // Hide siderbar file type icons
-"material_spacegray_disable_folder_animation": true, // Disable folder animation
-"material_spacegray_small_statusbar": true,          // Set small status bar
-"material_spacegray_disable_tree_indicator": true,   // Disable sidebar file indicator
-"material_spacegray_bold_tab": true,                 // Make the tab labels bolder
-"material_spacegray_accent_lime": true,              // set green lime accent color
-"material_spacegray_accent_purple": true,            // set purple accent color
-"material_spacegray_accent_red": true,               // set pale red accent color
-"material_spacegray_accent_orange": true,            // set orange accent color
-"material_spacegray_accent_yellow": true,            // set yellow accent color
+"material_theme_small_tab": true,                // Set small tabs
+"material_theme_disable_fileicons": true,        // Hide siderbar file type icons
+"material_theme_disable_folder_animation": true, // Disable folder animation
+"material_theme_small_statusbar": true,          // Set small status bar
+"material_theme_disable_tree_indicator": true,   // Disable sidebar file indicator
+"material_theme_bold_tab": true,                 // Make the tab labels bolder
+"material_theme_accent_lime": true,              // set green lime accent color
+"material_theme_accent_purple": true,            // set purple accent color
+"material_theme_accent_red": true,               // set pale red accent color
+"material_theme_accent_orange": true,            // set orange accent color
+"material_theme_accent_yellow": true,            // set yellow accent color
 ```
 
 ## Recommended UI and font settings
@@ -81,4 +111,4 @@ Here are some recommendations for your custom settings to make a better experien
 ```
 
 ## Credits
-Thanks to the original creators of the [Material](https://github.com/equinusocio/material-theme) and [Spacegray](https://github.com/kkga/spacegray) theme.
+Thanks to the original [creator](https://github.com/equinusocio) of the [Material](https://github.com/equinusocio/material-theme) theme.
