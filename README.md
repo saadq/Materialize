@@ -26,7 +26,7 @@ The easiest way to install is using [Sublime Package Control](https://sublime.wb
 
 You can also install the theme manually:
 
-1. Download the [latest release](https://github.com/saadq/Material-Spacegray/releases/latest), extract and rename the folder to **"Material Spacegray"**.
+1. Download the [latest release](https://github.com/saadq/Materialize/releases/latest), extract and rename the folder to **"Materialize"**.
 
 2. Move the folder inside your sublime Packages directory. **(Preferences > Browse packages...)**
 
