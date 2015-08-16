@@ -1,21 +1,17 @@
 # Materialize
-Bringing Material to the most popular color schemes for Sublime.
+Bringing Material to the some of the most popular color schemes for Sublime:
 
-## Screenshots
+* Spacegray
+* Solarized
+* Monokai
+* Oceanic Next
+* Seti
+* Twilight
+* Zenburn
 
-### Material Spacegray
+## Click [here](/screenshots.md) to see some screenshots.
 
-![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material%20Spacegray.png)
-
-### Material Spacegray Darker
-
-![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material%20Spacegray%20Darker.png)
-
-#### You can also mix and match
-
-![](https://raw.githubusercontent.com/saadq/Material-Spacegray/master/screenshots/Material%20Spacegray%20Mixed.png)
-
-*The font used in the screenshot is [__Fira Mono__](https://mozilla.github.io/Fira/).*
+---
 
 ## Installation
 
@@ -36,7 +32,9 @@ You can also install the theme manually:
 
 2. Move the folder inside your sublime Packages directory. **(Preferences > Browse packages...)**
 
-3. Activate the theme with the following preferences at  **(Preferences > Setting - User)**:
+
+## Activation
+Activate the theme with the following preferences at  **(Preferences > Setting - User)**:
 
 #### Material Spacegray:
 ```json
@@ -99,7 +97,7 @@ You can also install the theme manually:
 ```
 
 ## Recommended UI and font settings
-Here are some recommendations for your custom settings to make a better experience with the theme:
+Here are some recommendations for your user settings to make a better experience with the theme:
 
 ```json
 "overlay_scroll_bars": "enabled",
