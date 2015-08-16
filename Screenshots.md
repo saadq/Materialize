@@ -30,4 +30,4 @@
 
 ---
 
-[Go back to the README](../README.md)
+[Go back to the README](/)
