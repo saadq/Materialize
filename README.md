@@ -2,12 +2,15 @@
 Bringing Material to the some of the most popular color schemes for Sublime:
 
 * Spacegray
+* Oceanic Next
 * Solarized
 * Monokai
-* Oceanic Next
+* Cobalt
 * Seti
-* Twilight
 * Zenburn
+* Brogrammer
+* Flatland
+* Twilight
 
 Click [here](/Screenshots.md) to see some screenshots.
 
@@ -42,6 +45,14 @@ Activate the theme with the following preferences at  **(Preferences > Setting -
 }
 ```
 
+#### Material Oceanic Next:
+```json
+{
+    "theme": "Material Oceanic Next.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme"
+}
+```
+
 #### Material Solarized:
 ```json
 {
@@ -58,11 +69,11 @@ Activate the theme with the following preferences at  **(Preferences > Setting -
 }
 ```
 
-#### Material Oceanic Next:
+#### Material Cobalt:
 ```json
 {
-    "theme": "Material Oceanic Next.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme"
+    "theme": "Material Cobalt.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Cobalt.tmTheme"
 }
 ```
 
@@ -74,19 +85,35 @@ Activate the theme with the following preferences at  **(Preferences > Setting -
 }
 ```
 
-#### Material Twilight:
-```json
-{
-    "theme": "Material Twilight.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme"
-}
-```
-
 #### Material Zenburn:
 ```json
 {
     "theme": "Material Zenburn.sublime-theme",
     "color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme"
+}
+```
+
+#### Material Brogrammer:
+```json
+{
+    "theme": "Material Brogrammer.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Brogrammer.tmTheme"
+}
+```
+
+#### Material Flatland:
+```json
+{
+    "theme": "Material Flatland.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Flatland.tmTheme"
+}
+```
+
+#### Material Twilight:
+```json
+{
+    "theme": "Material Twilight.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme"
 }
 ```
 
