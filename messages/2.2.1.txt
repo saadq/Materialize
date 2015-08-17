@@ -1,0 +1,5 @@
+Version 2.1.0
+================================================================================================================================
+Added Langs directory in order to properly support file-type icons.
+
+Please report any problems to https://github.com/saadq/Materialize/issues
