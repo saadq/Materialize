@@ -106,5 +106,8 @@ Here are some recommendations for your user settings to make a better experience
 "bold_folder_labels": true,
 ```
 
+## Custom Request
+If you have a color scheme that you would like me to create a Material theme for, I'd be happy to oblige. Simply create a request in the issues section of this repo or just send me an e-mail saad@saadquadri.com with a subject of "Material Request".
+
 ## Credits
 Thanks to the original [creator](https://github.com/equinusocio) of the [Material](https://github.com/equinusocio/material-theme) theme.
