@@ -10,20 +10,11 @@
 ### Material Monokai
 ![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Monokai.png)
 
-### Material Cobalt
-![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Cobalt.png)
-
 ### Material Seti
 ![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Seti.png)
 
 ### Material Zenburn
 ![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Zenburn.png)
-
-### Material Brogrammer
-![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Brogrammer.png)
-
-### Material Flatland
-![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Flatland.png)
 
 ### Material Twilight
 ![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Twilight.png)
