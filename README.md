@@ -36,44 +36,58 @@ Activate the theme with the following preferences at  **(Preferences > Setting -
 
 #### Material Spacegray:
 ```json
-"theme": "Material Spacegray.sublime-theme",
-"color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme",
+{
+    "theme": "Material Spacegray.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme"
+}
 ```
 
 #### Material Solarized:
 ```json
-"theme": "Material Solarized.sublime-theme",
-"color_scheme": "Packages/Materialize/schemes/Material Solarized.tmTheme",
+{
+    "theme": "Material Solarized.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Solarized.tmTheme"
+}
 ```
 
 #### Material Monokai:
 ```json
-"theme": "Material Monokai.sublime-theme",
-"color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme",
+{
+    "theme": "Material Monokai.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme"
+}
 ```
 
 #### Material Oceanic Next:
 ```json
-"theme": "Material Oceanic Next.sublime-theme",
-"color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme",
+{
+    "theme": "Material Oceanic Next.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme"
+}
 ```
 
 #### Material Seti:
 ```json
-"theme": "Material Seti.sublime-theme",
-"color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
+{
+    "theme": "Material Seti.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme"
+}
 ```
 
 #### Material Twilight:
 ```json
-"theme": "Material Twilight.sublime-theme",
-"color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme",
+{
+    "theme": "Material Twilight.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme"
+}
 ```
 
 #### Material Zenburn:
 ```json
-"theme": "Material Zenburn.sublime-theme",
-"color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme",
+{
+    "theme": "Material Zenburn.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme"
+}
 ```
 
 ***Note*** : Remember to restart Sublime Text after activating the theme.
@@ -81,32 +95,43 @@ Activate the theme with the following preferences at  **(Preferences > Setting -
 ## Theme options
 
 ```json
-"material_theme_small_tab": true,                // Set small tabs
-"material_theme_disable_fileicons": true,        // Hide siderbar file type icons
-"material_theme_disable_folder_animation": true, // Disable folder animation
-"material_theme_small_statusbar": true,          // Set small status bar
-"material_theme_disable_tree_indicator": true,   // Disable sidebar file indicator
-"material_theme_bold_tab": true,                 // Make the tab labels bolder
-"material_theme_accent_lime": true,              // set green lime accent color
-"material_theme_accent_purple": true,            // set purple accent color
-"material_theme_accent_red": true,               // set pale red accent color
-"material_theme_accent_orange": true,            // set orange accent color
-"material_theme_accent_yellow": true,            // set yellow accent color
+{
+    "material_theme_small_tab": true,
+    "material_theme_disable_fileicons": true,
+    "material_theme_disable_folder_animation": true,
+    "material_theme_small_statusbar": true,
+    "material_theme_disable_tree_indicator": true,
+    "material_theme_bold_tab": true,
+    "material_theme_accent_lime": true,
+    "material_theme_accent_purple": true,
+    "material_theme_accent_red": true,
+    "material_theme_accent_orange": true,
+    "material_theme_accent_yellow": true
+}
 ```
 
 ## Recommended UI and font settings
 Here are some recommendations for your user settings to make a better experience with the theme:
 
 ```json
-"overlay_scroll_bars": "enabled",
-"line_padding_top": 1,
-"line_padding_bottom": 1,
-"font_options": [ "gray_antialias" ], // On retina Mac
-"always_show_minimap_viewport": true,
-"bold_folder_labels": true,
+{
+    "overlay_scroll_bars": "enabled",
+    "line_padding_top": 1,
+    "line_padding_bottom": 1,
+    "always_show_minimap_viewport": true,
+    "bold_folder_labels": true
+}
 ```
 
-## Custom Request
+Additionally, if you are on Retina:
+
+```json
+{
+    "font_options": [ "gray_antialias" ]
+}
+```
+
+## Custom Requests
 If you have a color scheme that you would like me to create a Material theme for, I'd be happy to oblige. Simply create a request in the issues section of this repo or just send me an e-mail saad@saadquadri.com with a subject of "Material Request".
 
 ## Credits
