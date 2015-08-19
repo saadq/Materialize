@@ -3,7 +3,8 @@ Bringing Material to the some of the most popular color schemes for Sublime:
 
 * Spacegray
 * Oceanic Next
-* Solarized
+* Solarized Dark
+* Solarized Light
 * Monokai
 * Cobalt
 * Seti
@@ -53,11 +54,19 @@ Activate the theme with the following preferences at  **(Preferences > Setting -
 }
 ```
 
-#### Material Solarized:
+#### Material Solarized Dark:
 ```json
 {
-    "theme": "Material Solarized.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Solarized.tmTheme"
+    "theme": "Material Solarized Dark.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme"
+}
+```
+
+#### Material Solarized Light:
+```json
+{
+    "theme": "Material Solarized Light.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Solarized Light.tmTheme"
 }
 ```
 
