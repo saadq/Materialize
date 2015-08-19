@@ -14,10 +14,16 @@ Material Spacegray:
     "color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme"
 }
 
-Material Solarized:
+Material Solarized Dark:
 {
-    "theme": "Material Solarized.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Solarized.tmTheme"
+    "theme": "Material Solarized Dark.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme"
+}
+
+Material Solarized Light:
+{
+    "theme": "Material Solarized Light.sublime-theme",
+    "color_scheme": "Packages/Materialize/schemes/Material Solarized Light.tmTheme"
 }
 
 Material Monokai:
