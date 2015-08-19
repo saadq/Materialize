@@ -1,11 +1,14 @@
 ### Material Spacegray
 ![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Spacegray.png)
 
+### Material Solarized Dark
+![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Solarized%20Dark.png)
+
+### Material Solarized Light
+![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Solarized%20Light.png)
+
 ### Material Oceanic Next
 ![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Oceanic%20Next.png)
-
-### Material Solarized
-![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Solarized.png)
 
 ### Material Monokai
 ![](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/Material%20Monokai.png)
