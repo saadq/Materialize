@@ -1,7 +1,5 @@
-Version 2.2.2
+Version 2.2.3
 ================================================================================================================================
-* Removed old Material Solarized
-* Added an improved version of Material Solarized Dark
-* Added Material Solarized Light
+* Fixed an issue with SCSS and Sass language definitions
 
 Report any issues to http://github.com/saadq/Materialize/issues
