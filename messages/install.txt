@@ -6,54 +6,78 @@ Check out https://github.com/saadq/Materialize for more info and screenshots.
 
 Activation
 -----------
-Activate your theme with the corresponding preferences at  **(Preferences > Setting - User)**:
+Based on the theme you want to use, update your user preferences at  **(Preferences > Setting - User)** with the following:
 
-Material Spacegray:
+Material Brogrammer
 {
-    "theme": "Material Spacegray.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Brogrammer.tmTheme",
+    "theme": "Material Brogrammer.sublime-theme"
 }
 
-Material Solarized Dark:
+Material Cobalt
 {
-    "theme": "Material Solarized Dark.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Cobalt.tmTheme",
+    "theme": "Material Cobalt.sublime-theme"
 }
 
-Material Solarized Light:
+Material Flatland
 {
-    "theme": "Material Solarized Light.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Solarized Light.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Flatland.tmTheme",
+    "theme": "Material Flatland.sublime-theme"
 }
 
-Material Monokai:
+Material Monokai
 {
-    "theme": "Material Monokai.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme",
+    "theme": "Material Monokai.sublime-theme"
 }
 
-Material Oceanic Next:
+Material Oceanic Next
 {
-    "theme": "Material Oceanic Next.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme",
+    "theme": "Material Oceanic Next.sublime-theme"
 }
 
-Material Seti:
+Material Seti
 {
-    "theme": "Material Seti.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
+    "theme": "Material Seti.sublime-theme"
 }
 
-Material Twilight:
+Material Solarized Dark
 {
-    "theme": "Material Twilight.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
+    "theme": "Material Solarized Dark.sublime-theme"
 }
 
-Material Zenburn:
+Material Solarized Light
 {
-    "theme": "Material Zenburn.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Solarized Light.tmTheme",
+    "theme": "Material Solarized Light.sublime-theme"
+}
+
+Material Spacegray
+{
+    "color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme",
+    "theme": "Material Spacegray.sublime-theme"
+}
+
+Material Stereokai
+{
+    "color_scheme": "Packages/Materialize/schemes/Material Stereokai.tmTheme",
+    "theme": "Material Stereokai.sublime-theme"
+}
+
+Material Twilight
+{
+    "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme",
+    "theme": "Material Twilight.sublime-theme"
+}
+
+Material Zenburn
+{
+    "color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme",
+    "theme": "Material Zenburn.sublime-theme"
 }
 
 

@@ -1,0 +1,7 @@
+Version 2.2.4
+================================================================================================================================
+* Added Material Stereokai
+
+Check out https://github.com/saadq/Materialize/blob/master/Screenshots.md for screenshots
+
+Report any issues to https://github.com/saadq/Materialize/issues

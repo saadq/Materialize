@@ -1,17 +1,18 @@
 # Materialize
 Bringing Material to the some of the most popular color schemes for Sublime:
 
-* Spacegray
+* Brogrammer
+* Cobalt
+* Flatland
+* Monokai
 * Oceanic Next
+* Seti
 * Solarized Dark
 * Solarized Light
-* Monokai
-* Cobalt
-* Seti
-* Zenburn
-* Brogrammer
-* Flatland
+* Spacegray
+* Stereokai
 * Twilight
+* Zenburn
 
 Click [here](/Screenshots.md) to see some screenshots.
 
