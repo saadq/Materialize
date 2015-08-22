@@ -1,0 +1,5 @@
+Version 2.2.5
+===============================================================================================================================
+* Fixed Sass and SCSS syntax highlighting for Material Spacegray
+
+Report any issues to https://github.com/saadq/Materialize/issues
