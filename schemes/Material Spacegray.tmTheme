@@ -2,8 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>author</key>
+  <string>Chris Kempson (http://chriskempson.com)</string>
   <key>name</key>
-  <string>Material Spacegray</string>
+  <string>Base16 Ocean Dark</string>
+  <key>semanticClass</key>
+  <string>base16.ocean.dark</string>
   <key>colorSpaceName</key>
   <string>sRGB</string>
   <key>gutterSettings</key>
@@ -109,28 +113,6 @@
       <string>Variables</string>
       <key>scope</key>
       <string>variable</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#c0c5ce</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>Ruby Variables</string>
-      <key>scope</key>
-      <string>variable.other.readwrite.instance.ruby</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#bf616a</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>JavaScript this keyword</string>
-      <key>scope</key>
-      <string>variable.language.this.js</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
