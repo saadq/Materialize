@@ -168,6 +168,12 @@ Additionally, if you are on Retina:
 }
 ```
 
+## Known Issues
+Please see the issue [#67](https://github.com/equinusocio/material-theme/issues/67) in the original Material theme if you can't see the bottom panel (find/replace, rename, move, can't see the box inputs in SidebarEnhancement, etc..). The quick fix is to just grab the border of the panel and move it:
+
+![Drag the top edge](https://cloud.githubusercontent.com/assets/474329/8178894/a0dd09c0-1412-11e5-8ecf-f7f9ade439ae.gif)
+
+
 ## Custom Requests
 If you have a color scheme that you would like me to create a Material theme for, I'd be happy to oblige. Simply create a request in the issues section of this repo or just send me an e-mail saad@saadquadri.com with a subject of "Material Request".
 
