@@ -39,7 +39,6 @@ You can also install the theme manually:
 ## Activation
 Activate the theme with the following preferences at  **(Preferences > Setting - User)**:
 
-#### Material Spacegray:
 Material Brogrammer
 ```json
 {
@@ -76,8 +75,7 @@ Material Oceanic Next
 ```json
 {
     "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme",
-    "th
-    ```eme": "Material Oceanic Next.sublime-theme"
+    "theme": "Material Oceanic Next.sublime-theme"
 }
 
 Material Seti
@@ -92,16 +90,14 @@ Material Solarized Dark
 ```json
 {
     "color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
-    "th
-    ```eme": "Material Solarized Dark.sublime-theme"
+    "theme": "Material Solarized Dark.sublime-theme"
 }
 
 Material Solarized Light
 ```json
 {
     "color_scheme": "Packages/Materialize/schemes/Material Solarized Light.tmTheme",
-    "th
-    ```eme": "Material Solarized Light.sublime-theme"
+    "theme": "Material Solarized Light.sublime-theme"
 }
 
 Material Spacegray
