@@ -77,6 +77,7 @@ Material Oceanic Next
     "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme",
     "theme": "Material Oceanic Next.sublime-theme"
 }
+```
 
 Material Seti
 ```json
@@ -92,6 +93,7 @@ Material Solarized Dark
     "color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
     "theme": "Material Solarized Dark.sublime-theme"
 }
+```
 
 Material Solarized Light
 ```json
@@ -99,6 +101,7 @@ Material Solarized Light
     "color_scheme": "Packages/Materialize/schemes/Material Solarized Light.tmTheme",
     "theme": "Material Solarized Light.sublime-theme"
 }
+```
 
 Material Spacegray
 ```json
