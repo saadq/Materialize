@@ -40,90 +40,99 @@ You can also install the theme manually:
 Activate the theme with the following preferences at  **(Preferences > Setting - User)**:
 
 #### Material Spacegray:
+Material Brogrammer
 ```json
 {
-    "theme": "Material Spacegray.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Brogrammer.tmTheme",
+    "theme": "Material Brogrammer.sublime-theme"
 }
 ```
 
-#### Material Oceanic Next:
+Material Cobalt
 ```json
 {
-    "theme": "Material Oceanic Next.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Cobalt.tmTheme",
+    "theme": "Material Cobalt.sublime-theme"
 }
 ```
 
-#### Material Solarized Dark:
+Material Flatland
 ```json
 {
-    "theme": "Material Solarized Dark.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Flatland.tmTheme",
+    "theme": "Material Flatland.sublime-theme"
 }
 ```
 
-#### Material Solarized Light:
+Material Monokai
 ```json
 {
-    "theme": "Material Solarized Light.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Solarized Light.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme",
+    "theme": "Material Monokai.sublime-theme"
 }
 ```
 
-#### Material Monokai:
+Material Oceanic Next
 ```json
 {
-    "theme": "Material Monokai.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme",
+    "th
+    ```eme": "Material Oceanic Next.sublime-theme"
+}
+
+Material Seti
+```json
+{
+    "color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
+    "theme": "Material Seti.sublime-theme"
 }
 ```
 
-#### Material Cobalt:
+Material Solarized Dark
 ```json
 {
-    "theme": "Material Cobalt.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Cobalt.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
+    "th
+    ```eme": "Material Solarized Dark.sublime-theme"
+}
+
+Material Solarized Light
+```json
+{
+    "color_scheme": "Packages/Materialize/schemes/Material Solarized Light.tmTheme",
+    "th
+    ```eme": "Material Solarized Light.sublime-theme"
+}
+
+Material Spacegray
+```json
+{
+    "color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme",
+    "theme": "Material Spacegray.sublime-theme"
 }
 ```
 
-#### Material Seti:
+Material Stereokai
 ```json
 {
-    "theme": "Material Seti.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Stereokai.tmTheme",
+    "theme": "Material Stereokai.sublime-theme"
 }
 ```
 
-#### Material Zenburn:
+Material Twilight
 ```json
 {
-    "theme": "Material Zenburn.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme",
+    "theme": "Material Twilight.sublime-theme"
 }
 ```
 
-#### Material Brogrammer:
+Material Zenburn
 ```json
 {
-    "theme": "Material Brogrammer.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Brogrammer.tmTheme"
-}
-```
-
-#### Material Flatland:
-```json
-{
-    "theme": "Material Flatland.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Flatland.tmTheme"
-}
-```
-
-#### Material Twilight:
-```json
-{
-    "theme": "Material Twilight.sublime-theme",
-    "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme"
+    "color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme",
+    "theme": "Material Zenburn.sublime-theme"
 }
 ```
 
