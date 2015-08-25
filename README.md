@@ -10,6 +10,9 @@ Bringing Material to the some of the most popular color schemes for Sublime:
 * Solarized Dark
 * Solarized Light
 * Spacegray
+* Spacegray Eighties
+* Spacegray Light
+* Spacegray Mocha
 * Stereokai
 * Twilight
 * Zenburn
@@ -91,6 +94,24 @@ Material Spacegray
 ```json
     "color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme",
     "theme": "Material Spacegray.sublime-theme"
+```
+
+Material Spacegray Eighties
+```json
+    "color_scheme": "Packages/Materialize/schemes/Material Spacegray Eighties.tmTheme",
+    "theme": "Material Spacegray Eighties.sublime-theme"
+```
+
+Material Spacegray Light
+```json
+    "color_scheme": "Packages/Materialize/schemes/Material Spacegray Light.tmTheme",
+    "theme": "Material Spacegray Light.sublime-theme"
+```
+
+Material Spacegray Mocha
+```json
+    "color_scheme": "Packages/Materialize/schemes/Material Spacegray Mocha.tmTheme",
+    "theme": "Material Spacegray Mocha.sublime-theme"
 ```
 
 Material Stereokai
