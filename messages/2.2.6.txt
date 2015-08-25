@@ -1,0 +1,7 @@
+Version 2.2.5
+===============================================================================================================================
+* Add Material Spacegray Eighties
+* Add Material Spacegray Light
+* Add Material Spacegray Mocha
+
+Report any issues to https://github.com/saadq/Materialize/issues
