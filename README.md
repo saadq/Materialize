@@ -1,5 +1,5 @@
 # Materialize
-Bringing Material to the some of the most popular color schemes for Sublime:
+Bringing [Material theme](https://github.com/equinusocio/material-theme) to the some of the most popular color schemes for Sublime:
 
 * Brogrammer
 * Cobalt
