@@ -174,7 +174,7 @@ Please see the issue [#67](https://github.com/equinusocio/material-theme/issues/
 
 
 ## Custom Requests
-If you have a color scheme that you would like me to create a Material theme for, I'd be happy to oblige. Simply [create a request](https://github.com/saadq/Materialize/issues/new) in the issues section of this repo or just send me an e-mail [saad@saadquadri.com](mailto:saad@saadquadri.com?subject=Material%20Request) with a subject of "Material Request".
+If you have a color scheme that you would like me to create a Material theme for, I'd be happy to oblige. Simply [create a request](https://github.com/saadq/Materialize/issues/new) in the issues section and use the *theme request* label, and I'll try to get to it as soon as possible.
 
 ## Credits
 Thanks to the original [creator](https://github.com/equinusocio) of the [Material](https://github.com/equinusocio/material-theme) theme.
