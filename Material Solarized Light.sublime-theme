@@ -338,8 +338,8 @@
     {
       "class": "tab_label",
       "parents": [{"class": "tab_control", "attributes": ["selected"]}],
-      "fg": [101, 123, 131, 255],
-      "shadow_color": [101, 123, 131, 0],
+      "fg": [128, 203, 196, 255],
+      "shadow_color": [128, 203, 196, 0],
       "shadow_offset": [0, 0]
     },
 
