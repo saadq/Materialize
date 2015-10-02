@@ -2,16 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>author</key>
-  <string>Saad Quadri</string>
   <key>colorSpaceName</key>
   <string>sRGB</string>
   <key>gutterSettings</key>
   <dict>
     <key>background</key>
-    <string>#343d46</string>
+    <string>#2C333B</string>
     <key>divider</key>
-    <string>#343d46</string>
+    <string>#2C333B</string>
     <key>foreground</key>
     <string>#65737e</string>
     <key>selectionBackground</key>
@@ -20,16 +18,16 @@
     <string>#a7adba</string>
   </dict>
   <key>name</key>
-  <string>Material Spacegray</string>
+  <string>Oceanic Next</string>
   <key>semanticClass</key>
-  <string>material.spacegray.dark</string>
+  <string>oceanic.next.dark</string>
   <key>settings</key>
   <array>
     <dict>
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#2b303b</string>
+        <string>#1A1D23</string>
         <key>caret</key>
         <string>#c0c5ce</string>
         <key>foreground</key>
@@ -37,7 +35,7 @@
         <key>invisibles</key>
         <string>#65737e</string>
         <key>lineHighlight</key>
-        <string>#65737e55</string>
+        <string>#2C333B</string>
         <key>selection</key>
         <string>#4f5b66</string>
       </dict>
@@ -72,7 +70,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#b48ead</string>
+        <string>#C594C5</string>
       </dict>
     </dict>
     <dict>
@@ -83,7 +81,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#96b5b4</string>
+        <string>#5FB3B3</string>
       </dict>
     </dict>
     <dict>
@@ -94,7 +92,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#bf616a</string>
+        <string>#EB606B</string>
       </dict>
     </dict>
     <dict>
@@ -105,7 +103,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#8fa1b3</string>
+        <string>#6699CC</string>
       </dict>
     </dict>
     <dict>
@@ -116,7 +114,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#bf616a</string>
+        <string>#F2777A</string>
       </dict>
     </dict>
     <dict>
@@ -127,7 +125,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#d08770</string>
+        <string>#F99157</string>
       </dict>
     </dict>
     <dict>
@@ -140,7 +138,7 @@
         <key>fontStyle</key>
         <string>normal</string>
         <key>foreground</key>
-        <string>#a3be8c</string>
+        <string>#99C794</string>
       </dict>
     </dict>
     <dict>
@@ -151,7 +149,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#ebcb8b</string>
+        <string>#FAC863</string>
       </dict>
     </dict>
     <dict>
@@ -162,8 +160,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>ebcb8b</string>
-        <!-- <string>#EC5F67</string> -->
+        <string>#EC5F67</string>
       </dict>
     </dict>
     <dict>
@@ -253,7 +250,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#96b5b4</string>
+        <string>#5FB3B3</string>
       </dict>
     </dict>
     <dict>
@@ -264,7 +261,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#96b5b4</string>
+        <string>#5FB3B3</string>
       </dict>
     </dict>
     <dict>
@@ -276,8 +273,6 @@
       <dict>
         <key>fontStyle</key>
         <string>underline</string>
-        <key>foreground</key>
-        <string>#d08770</string>
       </dict>
     </dict>
     <dict>
@@ -312,7 +307,7 @@
         <key>fontStyle</key>
         <string>italic</string>
         <key>foreground</key>
-        <string>#8fa1b3</string>
+        <string>#6699CC</string>
       </dict>
     </dict>
     <dict>
