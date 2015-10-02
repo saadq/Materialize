@@ -562,7 +562,7 @@
       "class": "sidebar_label",
       "parents": [{"class": "tree_row", "attributes": ["selected"]}],
       "font.bold": false,
-      "color": [255, 255, 255]
+      "color": [128, 203, 196]
     },
 
     {
@@ -581,7 +581,7 @@
     {
       "class": "sidebar_label",
       "parents": [{"class": "tree_row", "attributes": ["expandable", "selected"]}],
-      "color": [255, 255, 255]
+      "color": [128, 203, 196]
     },
 
     {
