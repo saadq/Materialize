@@ -1,0 +1,9 @@
+Version 2.3.0
+===============================================================================================================================
+* Added Material Spaceblack
+* Added Material Toy Chest
+* Added Material Behave
+* Improved Material Spacegray syntax highlighting for JS
+* Improved Material Spacegray Light colors
+
+Report any issues to https://github.com/saadq/Materialize/issues
