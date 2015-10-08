@@ -215,7 +215,7 @@ A big thanks also goes to the creators of the color schemes:
 * [IceTimux](https://github.com/IceTimux) for creating [One Dark](https://github.com/IceTimux/one-dark-sublime-text-3-color-scheme)
 * [ctf0](https://github.com/ctf0) for creating [Seti](https://github.com/ctf0/Seti_ST3)
 * [TheBaronHimself](https://github.com/TheBaronHimself) for creating [Spaceblack](https://github.com/TheBaronHimself/Spaceblack)
-* [kkga](https://github.com/kkga) for creating [the Spacegray themes](https://github.com/TheBaronHimself/Spaceblack)
+* [kkga](https://github.com/kkga) for creating [the Spacegray themes](https://github.com/kkga/spacegray)
 * [carlcalderon](https://github.com/carlcalderon) for creating [Stereokai](https://github.com/carlcalderon/sublime-color-schemes)
 * [JacksonGariety](https://github.com/JacksonGariety) for creating [Toy Chest](https://github.com/JacksonGariety/Toy-Chest-Theme)
 * [colinta](https://github.com/colinta) for creating [Zenburn](https://github.com/colinta/zenburn)
