@@ -5,6 +5,7 @@ Bringing [Material theme](https://github.com/equinusocio/material-theme) to the 
 * Brogrammer
 * Cobalt
 * Flatland
+* Glacier
 * Monokai
 * Oceanic Next
 * One Dark
@@ -68,6 +69,12 @@ Material Flatland
 ```json
     "color_scheme": "Packages/Materialize/schemes/Material Flatland.tmTheme",
     "theme": "Material Flatland.sublime-theme"
+```
+
+Material Glacier
+```json
+    "color_scheme": "Packages/Materialize/schemes/Material Glacier.tmTheme",
+    "theme": "Material Glacier.sublime-theme"
 ```
 
 Material Monokai
@@ -219,3 +226,4 @@ A big thanks also goes to the creators of the color schemes:
 * [carlcalderon](https://github.com/carlcalderon) for creating [Stereokai](https://github.com/carlcalderon/sublime-color-schemes)
 * [JacksonGariety](https://github.com/JacksonGariety) for creating [Toy Chest](https://github.com/JacksonGariety/Toy-Chest-Theme)
 * [colinta](https://github.com/colinta) for creating [Zenburn](https://github.com/colinta/zenburn)
+* [joeyfigaro](https://github.com/joeyfigaro) for creating [Glacier](https://github.com/shovelandsandbox/glacier-theme)
