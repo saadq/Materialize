@@ -1,0 +1,7 @@
+Version 2.3.2
+===============================================================================================================================
+* Added Material Glacier
+
+Report any issues/theme requests to https://github.com/saadq/Materialize/issues. Use the "theme request" label for a custom request
+
+Want to talk about a theme request or just say hi? Send a message to saad@saadquadri.com :D
