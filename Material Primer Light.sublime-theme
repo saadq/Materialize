@@ -71,7 +71,7 @@
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
-      "layer0.texture": "Materialize/assets/lighter/fold_down.png",
+      "layer0.texture": "Materialize/assets/primer light/fold_down.png",
       "layer1.texture": "Materialize/assets/commons/fold_down--hover.png"
     },
 
@@ -142,7 +142,7 @@
     // Command Panel
      {
         "class": "overlay_control",
-        "layer0.texture": "Materialize/assets/lighter/overlay-bg.png",
+        "layer0.texture": "Materialize/assets/primer light/overlay-bg.png",
         "layer0.inner_margin": [24, 4, 24, 33],
         "layer0.opacity": 1.0,
         "layer1.texture": "Materialize/assets/commons/quick-panel-background.png",
@@ -285,7 +285,7 @@
       "layer0.opacity": 1.0,
       "tint_index": 0,
 
-      "layer1.texture": "Materialize/assets/lighter/tab_current.png",
+      "layer1.texture": "Materialize/assets/primer light/tab_current.png",
       "layer1.inner_margin": [0, 0],
       "layer1.opacity": 0.0,
 
@@ -299,19 +299,19 @@
       "layer3.texture": {
               "keyframes":
               [
-                "Materialize/assets/lighter/tab_animation1.png",
-                "Materialize/assets/lighter/tab_animation2.png",
-                "Materialize/assets/lighter/tab_animation3.png",
-                "Materialize/assets/lighter/tab_animation4.png",
-                "Materialize/assets/lighter/tab_animation5.png",
-                "Materialize/assets/lighter/tab_animation6.png",
-                "Materialize/assets/lighter/tab_animation7.png",
-                "Materialize/assets/lighter/tab_animation8.png",
-                "Materialize/assets/lighter/tab_animation9.png",
-                "Materialize/assets/lighter/tab_animation10.png",
-                "Materialize/assets/lighter/tab_animation11.png",
-                "Materialize/assets/lighter/tab_animation12.png",
-                "Materialize/assets/lighter/tab_animation13.png"
+                "Materialize/assets/primer light/tab_animation1.png",
+                "Materialize/assets/primer light/tab_animation2.png",
+                "Materialize/assets/primer light/tab_animation3.png",
+                "Materialize/assets/primer light/tab_animation4.png",
+                "Materialize/assets/primer light/tab_animation5.png",
+                "Materialize/assets/primer light/tab_animation6.png",
+                "Materialize/assets/primer light/tab_animation7.png",
+                "Materialize/assets/primer light/tab_animation8.png",
+                "Materialize/assets/primer light/tab_animation9.png",
+                "Materialize/assets/primer light/tab_animation10.png",
+                "Materialize/assets/primer light/tab_animation11.png",
+                "Materialize/assets/primer light/tab_animation12.png",
+                "Materialize/assets/primer light/tab_animation13.png"
               ],
               "loop": false,
               "frame_time": 0.015,
@@ -384,7 +384,7 @@
       "content_margin": [0, 0],
 
        // Close Icon
-      "layer0.texture": "Materialize/assets/lighter/close_icon.png",
+      "layer0.texture": "Materialize/assets/primer light/close_icon.png",
       "layer0.opacity": 1,
       "layer0.inner_margin": 0,
 
@@ -393,7 +393,7 @@
       "layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
 
        // Dirty Icon
-      "layer2.texture": "Materialize/assets/lighter/dirty_icon.png",
+      "layer2.texture": "Materialize/assets/primer light/dirty_icon.png",
       "layer2.inner_margin": 0,
 
       // Dirty Icon Hover
@@ -467,7 +467,7 @@
     {
       "class": "scroll_tabs_left_button",
       "content_margin": [14, 7],
-      "layer0.texture": "Materialize/assets/lighter/arrow_left.png",
+      "layer0.texture": "Materialize/assets/primer light/arrow_left.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
       "layer1.texture": "Materialize/assets/commons/arrow_left--hover.png",
@@ -484,7 +484,7 @@
     {
       "class": "scroll_tabs_right_button",
       "content_margin": [14, 7],
-      "layer0.texture": "Materialize/assets/lighter/arrow_right.png",
+      "layer0.texture": "Materialize/assets/primer light/arrow_right.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
       "layer1.texture": "Materialize/assets/commons/arrow_right--hover.png",
@@ -501,7 +501,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "content_margin": [12, 12],
-      "layer0.texture": "Materialize/assets/lighter/overflow_menu.png",
+      "layer0.texture": "Materialize/assets/primer light/overflow_menu.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
       "layer1.texture": "Materialize/assets/commons/overflow_menu--hover.png",
@@ -559,7 +559,7 @@
 
     {
        "class": "tree_row",
-       "layer1.texture": "Materialize/assets/lighter/tree_highlight.png",
+       "layer1.texture": "Materialize/assets/primer light/tree_highlight.png",
        "layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
        "layer1.inner_margin": [22, 8, 0, 0]
     },
@@ -661,7 +661,7 @@
       "content_margin": [10, 8],
       "layer0.tint": [255, 255, 255],
       "layer0.opacity": 0,
-      "layer1.texture": "Materialize/assets/lighter/folder.png",
+      "layer1.texture": "Materialize/assets/primer light/folder.png",
       "layer1.opacity": 1,
       "layer2.texture": "Materialize/assets/commons/folder--hover.png",
       "layer2.opacity": 0.0,
@@ -765,7 +765,7 @@
 
     {
       "class": "icon_folder_dup",
-      "layer0.texture": "Materialize/assets/lighter/folder_dup.png",
+      "layer0.texture": "Materialize/assets/primer light/folder_dup.png",
       "layer0.opacity": 1.0,
       "content_margin": [10, 8]
     },
@@ -787,7 +787,7 @@
 
     {
       "class": "disclosure_button_control",
-      "layer0.texture": "Materialize/assets/lighter/folder.png",
+      "layer0.texture": "Materialize/assets/primer light/folder.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
       "layer1.texture": "Materialize/assets/commons/folder--hover.png",
@@ -830,7 +830,7 @@
       "content_margin": [8, 8],
 
       // Default Close icon
-      "layer0.texture": "Materialize/assets/lighter/close_icon.png",
+      "layer0.texture": "Materialize/assets/primer light/close_icon.png",
       "layer0.opacity": { "target": 0.0, "speed": 7.0, "interpolation": "smoothstep" },
       "layer0.inner_margin": [0,0],
 
@@ -877,7 +877,7 @@
 
     {
       "class": "scroll_bar_control",
-      "layer0.texture": "Materialize/assets/lighter/normal_bar_vertical.png",
+      "layer0.texture": "Materialize/assets/primer light/normal_bar_vertical.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [0, 6],
       "blur": false
@@ -899,7 +899,7 @@
      {
         "class": "scroll_bar_control",
         "attributes": ["horizontal"],
-        "layer0.texture": "Materialize/assets/lighter/normal_bar_horizontal.png",
+        "layer0.texture": "Materialize/assets/primer light/normal_bar_horizontal.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [6, 0],
         "blur": false
@@ -921,7 +921,7 @@
 
     {
       "class": "scroll_corner_control",
-      "layer0.texture": "Materialize/assets/lighter/normal_bar_corner.png",
+      "layer0.texture": "Materialize/assets/primer light/normal_bar_corner.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [1, 1]
     },
@@ -933,7 +933,7 @@
       "layer0.tint": [38, 50, 255, 0],
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [10, 10],
-      "layer1.texture": "Materialize/assets/lighter/thumb_vertical.png",
+      "layer1.texture": "Materialize/assets/primer light/thumb_vertical.png",
       "layer1.opacity": 1.0,
       "layer1.inner_margin": [8, 8],
       "content_margin": [6, 16],
@@ -945,7 +945,7 @@
     {
       "class": "puck_control",
       "attributes": ["horizontal"],
-      "layer0.texture": "Materialize/assets/lighter/thumb_horizontal.png",
+      "layer0.texture": "Materialize/assets/primer light/thumb_horizontal.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [10, 0],
       "content_margin": [16, 6],
@@ -982,7 +982,7 @@
     {
       "class": "scroll_bar_control",
       "settings": ["overlay_scroll_bars"],
-      "layer0.texture": "Materialize/assets/lighter/normal_bar_vertical.png",
+      "layer0.texture": "Materialize/assets/primer light/normal_bar_vertical.png",
       "layer0.inner_margin": [0, 5],
       "blur": true
     },
@@ -991,10 +991,10 @@
       "class": "scroll_bar_control",
       "settings": ["overlay_scroll_bars"],
       "attributes": ["horizontal"],
-      "layer0.texture": "Materialize/assets/lighter/normal_bar_horizontal.png",
+      "layer0.texture": "Materialize/assets/primer light/normal_bar_horizontal.png",
       "layer0.inner_margin": [5, 0],
       "layer0.opacity": 0.0,
-      "layer1.texture": "Materialize/assets/lighter/normal_bar_horizontal.png",
+      "layer1.texture": "Materialize/assets/primer light/normal_bar_horizontal.png",
       "layer1.inner_margin": [5, 0],
       "layer1.opacity": 0.0,
       "blur": true
@@ -1005,7 +1005,7 @@
       "layer0.tint": [255, 255, 255],
       "layer0.opacity": 0.0,
       "layer0.inner_margin": [1, 8, 1, 8],
-      "layer1.texture": "Materialize/assets/lighter/thumb_vertical.png",
+      "layer1.texture": "Materialize/assets/primer light/thumb_vertical.png",
       "layer1.inner_margin": [1, 8, 1, 8],
       "content_margin": [6, 16],
       "blur": true
@@ -1017,7 +1017,7 @@
       "layer0.tint": [255, 255, 255],
       "layer0.opacity": 0.0,
       "layer0.inner_margin": [8, 1, 8, 1],
-      "layer1.texture": "Materialize/assets/lighter/thumb_horizontal.png",
+      "layer1.texture": "Materialize/assets/primer light/thumb_horizontal.png",
       "layer1.inner_margin": [8, 1, 8, 1],
       "content_margin": [16, 6],
       "blur": true
@@ -1138,7 +1138,7 @@
 
     {
       "class": "panel_close_button",
-      "layer0.texture": "Materialize/assets/lighter/close_icon.png",
+      "layer0.texture": "Materialize/assets/primer light/close_icon.png",
       "layer0.opacity": 0.6,
       "layer1.texture": "Materialize/assets/commons/close_icon--hover.png",
       "layer1.opacity": 0.0,
@@ -1156,7 +1156,7 @@
 
     {
       "class": "text_line_control",
-      "layer0.texture": "Materialize/assets/lighter/input_field_border.png",
+      "layer0.texture": "Materialize/assets/primer light/input_field_border.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [20, 5, 20, 5],
       "tint_index": 1,
@@ -1169,7 +1169,7 @@
     {
       "class": "text_line_control",
       "parents": [{"class": "overlay_control"}],
-      "layer0.texture": "Materialize/assets/lighter/input_field_border--short.png",
+      "layer0.texture": "Materialize/assets/primer light/input_field_border--short.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [32, 0, 32, 2],
       "layer0.draw_center": true,
@@ -1182,7 +1182,7 @@
     {
       "class": "dropdown_button_control",
       "content_margin": [12, 12],
-      "layer0.texture": "Materialize/assets/lighter/overflow_menu.png",
+      "layer0.texture": "Materialize/assets/primer light/overflow_menu.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [0, 0],
       "layer1.texture": "Materialize/assets/commons/overflow_menu--hover.png",
@@ -1220,7 +1220,7 @@
       "layer1.texture": "Materialize/assets/commons/full_button_indented.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": [6, 6],
-      "layer2.texture": "Materialize/assets/lighter/blue_highlight.png",
+      "layer2.texture": "Materialize/assets/primer light/blue_highlight.png",
       "layer2.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
       "layer2.inner_margin": [6, 6]
     },
@@ -1261,7 +1261,7 @@
       "class": "icon_regex",
       "layer0.texture": "Materialize/assets/commons/find_regex--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Materialize/assets/lighter/find_regex.png",
+      "layer1.texture": "Materialize/assets/primer light/find_regex.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1279,7 +1279,7 @@
       "class": "icon_case",
       "layer0.texture": "Materialize/assets/commons/find_case--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Materialize/assets/lighter/find_case.png",
+      "layer1.texture": "Materialize/assets/primer light/find_case.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1297,7 +1297,7 @@
       "class": "icon_whole_word",
       "layer0.texture": "Materialize/assets/commons/find_word--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Materialize/assets/lighter/find_word.png",
+      "layer1.texture": "Materialize/assets/primer light/find_word.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1316,7 +1316,7 @@
       "class": "icon_wrap",
       "layer0.texture": "Materialize/assets/commons/find_wrap--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Materialize/assets/lighter/find_wrap.png",
+      "layer1.texture": "Materialize/assets/primer light/find_wrap.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1334,7 +1334,7 @@
       "class": "icon_in_selection",
       "layer0.texture": "Materialize/assets/commons/find_inselection--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Materialize/assets/lighter/find_inselection.png",
+      "layer1.texture": "Materialize/assets/primer light/find_inselection.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12,12]
     },
@@ -1353,7 +1353,7 @@
       "class": "icon_highlight",
       "layer0.texture": "Materialize/assets/commons/find_highlight--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Materialize/assets/lighter/find_highlight.png",
+      "layer1.texture": "Materialize/assets/primer light/find_highlight.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1371,7 +1371,7 @@
       "class": "icon_preserve_case",
       "layer0.texture": "Materialize/assets/commons/replace_preserve_case--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Materialize/assets/lighter/replace_preserve_case.png",
+      "layer1.texture": "Materialize/assets/primer light/replace_preserve_case.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1389,7 +1389,7 @@
       "class": "icon_context",
       "layer0.texture": "Materialize/assets/commons/find_context--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Materialize/assets/lighter/find_context.png",
+      "layer1.texture": "Materialize/assets/primer light/find_context.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1408,7 +1408,7 @@
       "class": "icon_use_buffer",
       "layer0.texture": "Materialize/assets/commons/use_buffer--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Materialize/assets/lighter/use_buffer.png",
+      "layer1.texture": "Materialize/assets/primer light/use_buffer.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1426,7 +1426,7 @@
       "class": "icon_reverse",
       "layer0.texture": "Materialize/assets/commons/find_reverse--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Materialize/assets/lighter/find_reverse.png",
+      "layer1.texture": "Materialize/assets/primer light/find_reverse.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
