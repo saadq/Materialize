@@ -1,6 +1,7 @@
 # Materialize
 
 [![Packagecontrol total downloads](https://img.shields.io/packagecontrol/dt/Materialize.svg?style=flat-square)](https://packagecontrol.io/packages/Materialize/)
+[![GitHub license](https://img.shields.io/github/license/saadq/materialize.svg?style=flat-square)](https://github.com/saadq/materialize/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/saadq/materialize.svg?style=flat-square)](https://github.com/saadq/materialize/issues?utf8=✓&q=is%3Aissue+is%3Aopen)
 [![GitHub watchers](https://img.shields.io/github/watchers/saadq/materialize.svg?style=flat-square)](https://github.com/saadq/materialize/watchers)
 [![GitHub stars](https://img.shields.io/github/stars/saadq/materialize.svg?style=flat-square)](https://github.com/saadq/materialize/stargazers)
