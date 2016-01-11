@@ -53,8 +53,10 @@ Activate the theme with the following preferences at  **(Preferences > Setting -
 
 Material Brogrammer
 ```json
+{
     "color_scheme": "Packages/Materialize/schemes/Material Brogrammer.tmTheme",
     "theme": "Material Brogrammer.sublime-theme"
+}
 ```
 
 ***Note*** : Remember to restart Sublime Text after activating the theme.
