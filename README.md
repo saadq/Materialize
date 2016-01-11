@@ -51,7 +51,6 @@ You can also install the theme manually:
 ## Activation
 Activate the theme with the following preferences at  **(Preferences > Setting - User)**, based on the theme you want to use. If you wanted to use Brogrammer for example, you would need to do:
 
-Material Brogrammer
 ```json
 {
     "color_scheme": "Packages/Materialize/schemes/Material Brogrammer.tmTheme",
