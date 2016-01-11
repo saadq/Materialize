@@ -8,78 +8,20 @@ Activation
 -----------
 Based on the theme you want to use, update your user preferences at  **(Preferences > Setting - User)** with the following:
 
+For example:
+
 Material Brogrammer
 {
     "color_scheme": "Packages/Materialize/schemes/Material Brogrammer.tmTheme",
     "theme": "Material Brogrammer.sublime-theme"
 }
 
-Material Cobalt
+Contrast Mode
+--------------
+You can activate contrast mode by adding the following to your preferences:
 {
-    "color_scheme": "Packages/Materialize/schemes/Material Cobalt.tmTheme",
-    "theme": "Material Cobalt.sublime-theme"
+    "material_theme_contrast_mode": true
 }
-
-Material Flatland
-{
-    "color_scheme": "Packages/Materialize/schemes/Material Flatland.tmTheme",
-    "theme": "Material Flatland.sublime-theme"
-}
-
-Material Monokai
-{
-    "color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme",
-    "theme": "Material Monokai.sublime-theme"
-}
-
-Material Oceanic Next
-{
-    "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme",
-    "theme": "Material Oceanic Next.sublime-theme"
-}
-
-Material Seti
-{
-    "color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
-    "theme": "Material Seti.sublime-theme"
-}
-
-Material Solarized Dark
-{
-    "color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
-    "theme": "Material Solarized Dark.sublime-theme"
-}
-
-Material Solarized Light
-{
-    "color_scheme": "Packages/Materialize/schemes/Material Solarized Light.tmTheme",
-    "theme": "Material Solarized Light.sublime-theme"
-}
-
-Material Spacegray
-{
-    "color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme",
-    "theme": "Material Spacegray.sublime-theme"
-}
-
-Material Stereokai
-{
-    "color_scheme": "Packages/Materialize/schemes/Material Stereokai.tmTheme",
-    "theme": "Material Stereokai.sublime-theme"
-}
-
-Material Twilight
-{
-    "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme",
-    "theme": "Material Twilight.sublime-theme"
-}
-
-Material Zenburn
-{
-    "color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme",
-    "theme": "Material Zenburn.sublime-theme"
-}
-
 
 MAKE SURE TO RESTART SUBLIME AFTER ACTIVATING THE THEME
 ******************************************************************************

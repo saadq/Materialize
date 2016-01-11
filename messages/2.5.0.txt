@@ -1,0 +1,15 @@
+Version 2.5.0
+===============================================================================================================================
+* Added Contrast mode
+* Added Material Primer Light
+* Added Material Vim Blackboard
+
+You can now enable contrast mode by putting the following line in your preferences:
+
+{
+    "material_theme_contrast_mode": true
+}
+
+Report any issues/theme requests to https://github.com/saadq/Materialize/issues.
+
+Want to talk about a theme request or just say hi? Send a message to saad@saadquadri.com :)
