@@ -1,0 +1,110 @@
+Spaceblack
+#1A1D23
+rgb(26, 29, 35)
+
+
+Spacegray
+#2b303b
+rgb(43, 48, 59)
+
+
+Spacegray Eighties
+#2d2d2d
+rgb(45, 45, 45)
+
+
+Spacegray Light
+#eff1f5
+rgb(239, 241, 245)
+
+
+Spacegray Mocha
+#3b3228
+rgb(59, 50, 40)
+
+
+Solarized Dark
+#002B36
+rgb(0, 43, 54)
+
+
+Solarized Light
+#FDF6E3
+rgb(253, 246, 227)
+
+
+Monokai
+#272822
+rgb(39, 40, 34)
+
+
+Stereokai
+#262626
+rgb(38, 38, 38)
+
+
+Zenburn
+#393939
+rgb(57, 57, 57)
+
+
+Twilight
+#141414
+rgb(20, 20, 20)
+
+
+Oceanic Next
+#1B2B34
+rgb(27, 43, 52)
+
+
+Seti
+#0D1011
+rgb(13, 16, 17)
+
+
+Brogrammer
+#1A1A1A
+rgb(26, 26, 26)
+
+
+Cobalt
+#002240
+rgb(0, 34, 64)
+
+
+Flatland
+#26292C
+rgb(38, 41, 44)
+
+
+Behave
+#2C333D
+rgb(44, 51, 61)
+
+
+Toychest
+#2F475D
+rgb(47, 71, 93)
+
+
+One Dark
+#272B33
+rgb(39, 43, 51)
+
+
+Glacier
+#0e151b
+rgb(14, 21, 27)
+
+Primer
+#FFFFFF
+rgb(255, 255, 255)
+
+Vim Blackboard
+#000000
+rgb(0, 0, 0)
+
+sq
+#151515
+rgb(20, 20, 20)
