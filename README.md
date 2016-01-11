@@ -1,5 +1,7 @@
 # Materialize
-Bringing [Material theme](https://github.com/equinusocio/material-theme) to the some of the most popular color schemes for Sublime. Click [here](/Screenshots.md) to see some screenshots.
+Bringing [Material theme](https://github.com/equinusocio/material-theme) to the some of the most popular color schemes for Sublime. Click [here](/Screenshots.md) to see some more screenshots.
+
+![](/screenshots/material-spacegray.png)
 
 * Behave
 * Brogrammer
