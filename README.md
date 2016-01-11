@@ -1,5 +1,5 @@
 # Materialize
-Bringing [Material theme](https://github.com/equinusocio/material-theme) to the some of the most popular color schemes for Sublime:
+Bringing [Material theme](https://github.com/equinusocio/material-theme) to the some of the most popular color schemes for Sublime. Click [here](/Screenshots.md) to see some screenshots.
 
 * Behave
 * Brogrammer
@@ -20,9 +20,9 @@ Bringing [Material theme](https://github.com/equinusocio/material-theme) to the 
 * Stereokai
 * Toy Chest
 * Twilight
+* Vim Blackboard
+* Primer Light
 * Zenburn
-
-Click [here](/Screenshots.md) to see some screenshots.
 
 ## Installation
 
@@ -45,13 +45,7 @@ You can also install the theme manually:
 
 
 ## Activation
-Activate the theme with the following preferences at  **(Preferences > Setting - User)**:
-
-Material Behave
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Behave.tmTheme",
-    "theme": "Material Behave.sublime-theme"
-```
+Activate the theme with the following preferences at  **(Preferences > Setting - User)**, based on the theme you want to use. If you wanted to use Brogrammer for example, you would need to do:
 
 Material Brogrammer
 ```json
@@ -59,119 +53,13 @@ Material Brogrammer
     "theme": "Material Brogrammer.sublime-theme"
 ```
 
-Material Cobalt
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Cobalt.tmTheme",
-    "theme": "Material Cobalt.sublime-theme"
-```
-
-Material Flatland
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Flatland.tmTheme",
-    "theme": "Material Flatland.sublime-theme"
-```
-
-Material Glacier
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Glacier.tmTheme",
-    "theme": "Material Glacier.sublime-theme"
-```
-
-Material Monokai
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme",
-    "theme": "Material Monokai.sublime-theme"
-```
-
-Material One Dark
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material One Dark.tmTheme",
-    "theme": "Material One Dark.sublime-theme"
-```
-
-Material Oceanic Next
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme",
-    "theme": "Material Oceanic Next.sublime-theme"
-```
-
-Material Seti
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
-    "theme": "Material Seti.sublime-theme"
-```
-
-Material Solarized Dark
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
-    "theme": "Material Solarized Dark.sublime-theme"
-```
-
-Material Solarized Light
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Solarized Light.tmTheme",
-    "theme": "Material Solarized Light.sublime-theme"
-```
-
-Material Spaceblack
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Spaceblack.tmTheme",
-    "theme": "Material Spaceblack.sublime-theme"
-```
-
-Material Spacegray
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme",
-    "theme": "Material Spacegray.sublime-theme"
-```
-
-Material Spacegray Eighties
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Spacegray Eighties.tmTheme",
-    "theme": "Material Spacegray Eighties.sublime-theme"
-```
-
-Material Spacegray Light
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Spacegray Light.tmTheme",
-    "theme": "Material Spacegray Light.sublime-theme"
-```
-
-Material Spacegray Mocha
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Spacegray Mocha.tmTheme",
-    "theme": "Material Spacegray Mocha.sublime-theme"
-```
-
-Material Stereokai
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Stereokai.tmTheme",
-    "theme": "Material Stereokai.sublime-theme"
-```
-
-Material Toy Chest
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Toy Chest.tmTheme",
-    "theme": "Material Toy Chest.sublime-theme"
-```
-
-Material Twilight
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme",
-    "theme": "Material Twilight.sublime-theme"
-```
-
-Material Zenburn
-```json
-    "color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme",
-    "theme": "Material Zenburn.sublime-theme"
-```
-
 ***Note*** : Remember to restart Sublime Text after activating the theme.
 
 ## Theme options
 
 ```json
+{
+    "material_theme_contrast_mode": true,
     "material_theme_small_tab": true,
     "material_theme_disable_fileicons": true,
     "material_theme_disable_folder_animation": true,
@@ -183,23 +71,28 @@ Material Zenburn
     "material_theme_accent_red": true,
     "material_theme_accent_orange": true,
     "material_theme_accent_yellow": true
+}
 ```
 
 ## Recommended UI and font settings
 Here are some recommendations for your user settings to make a better experience with the theme:
 
 ```json
+{
     "overlay_scroll_bars": "enabled",
     "line_padding_top": 1,
     "line_padding_bottom": 1,
     "always_show_minimap_viewport": true,
     "bold_folder_labels": true
+}
 ```
 
 Additionally, if you are on Retina:
 
 ```json
+{
     "font_options": [ "gray_antialias" ]
+}
 ```
 
 ## Known Issues
