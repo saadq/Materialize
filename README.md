@@ -3,6 +3,8 @@ Bringing [Material theme](https://github.com/equinusocio/material-theme) to the 
 
 ![](/screenshots/material-spacegray.png)
 
+Availabile themes/color schemes:
+
 * Behave
 * Brogrammer
 * Cobalt
