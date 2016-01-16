@@ -1,0 +1,13 @@
+Version 2.5.1
+===============================================================================================================================
+* Added indigo theme accent
+
+You can now use an indigo accent for any Materialize theme by adding the following to your preferences:
+
+{
+    "material_theme_accent_indigo": true
+}
+
+Report any issues/theme requests to https://github.com/saadq/Materialize/issues.
+
+Want to talk about a theme request or just say hi? Send a message to saad@saadquadri.com :)

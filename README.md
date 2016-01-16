@@ -11,11 +11,11 @@ Bringing [Material theme](https://github.com/equinusocio/material-theme) to the 
 
 ![Material Spacegray](/screenshots/material-spacegray.png)
 
-#### `Materialize` is based upon the [Material](https://github.com/equinusocio/material-theme) theme (thanks [@equinusocio](https://github.com/equinusocio)) and the following themes / color schemes:
+**Materialize** is based upon the [Material](https://github.com/equinusocio/material-theme) theme created by [@equinusocio](https://github.com/equinusocio) and the following themes / color schemes:
 
 * [Behave](https://github.com/fnky/behave-theme) (thanks [@fnky](https://github.com/fnky))
 * [Brogrammer](https://github.com/kenwheeler/brogrammer-theme) (thanks [@kenwheeler](https://github.com/kenwheeler))
-* [Cobalt](https://github.com/wesbos/cobalt2) (thanks [@wesbos](https://github.com/wesbos), [@kyleknighted](https://github.com/kyleknighted))
+* [Cobalt](https://github.com/wesbos/cobalt2) (thanks [@kyleknighted](https://github.com/kyleknighted))
 * [Flatland](https://github.com/thinkpixellab/flatland) (thanks [@thinkpixellab](https://github.com/thinkpixellab))
 * [Glacier](https://github.com/shovelandsandbox/glacier-theme) (thanks [@joeyfigaro](https://github.com/joeyfigaro))
 * [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme) (thanks [@sublimehq](https://github.com/sublimehq), [Wimer Hazenberg](http://www.monokai.nl))
@@ -74,7 +74,8 @@ Activate the theme with the following preferences at  **(Preferences > Setting -
     "material_theme_accent_purple": true,
     "material_theme_accent_red": true,
     "material_theme_accent_orange": true,
-    "material_theme_accent_yellow": true
+    "material_theme_accent_yellow": true,
+    "material_theme_accent_indigo": true
 ```
 
 ## Recommended UI and font settings

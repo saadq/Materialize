@@ -17,8 +17,8 @@
 
     {
       "class": "grid_layout_control",
-      "border_size": 2,
-      "border_color": [39, 53, 60]
+      "border_size": 1,
+      "border_color": [34, 45, 51]
     },
 
 
@@ -112,7 +112,7 @@
     {
       "class": "table_row",
       "attributes": ["selected"],
-      "layer0.opacity": 10
+      "layer0.opacity": 1.0
     },
 
 
@@ -176,7 +176,7 @@
       "layer0.opacity": 1.0
     },
 
-      // Quick Panel row solarized dark style (project manager)
+      // Quick Panel row default style (project manager)
 
     {
       "class": "quick_panel_row",
@@ -263,7 +263,7 @@
       "tint_index": 1,
       "layer0.inner_margin": [2, 6],
       "layer0.opacity": 1.0,
-      "content_margin": [12, -8, 8, 0],
+      "content_margin": [12, -10, 8, 0],
       "tab_overlap": 0,
       "tab_width": 180,
       "tab_min_width": 64,
@@ -275,7 +275,9 @@
       "settings": ["mouse_wheel_switches_tabs", "!enable_tab_scrolling"],
       "mouse_wheel_switch": true
     },
+
       // Tabs
+
     {
       "class": "tab_control",
 
@@ -292,7 +294,7 @@
       "layer2.inner_margin": [0, 0],
       "layer2.opacity": { "target": 0.0, "speed": 3.0, "interpolation": "smoothstep" },
 
-      "content_margin": [18, 8, 11, 4],
+      "content_margin": [18, 12, 11, 4],
       "max_margin_trim": 0,
       "hit_test_level": 0.4
     },
@@ -372,7 +374,7 @@
       "layer3.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" }
     },
 
-      //solarized dark
+      // Default
     {
       "class": "tab_close_button",
       "settings": ["show_tab_close_buttons"],
@@ -386,7 +388,7 @@
       "layer0.opacity": 0, // Close Icon
       "layer1.opacity": 1, // Close Icon Hover
     },
-      // solarized dark hover
+      // Default hover
     {
       "class": "tab_close_button",
       "settings": ["show_tab_close_buttons"],
@@ -546,16 +548,16 @@
       "color": [96, 125, 139],
       "font.bold": false,
       "font.italic": false,
-      "shadow_color": [0, 0, 0, 0],
-      "shadow_offset": [0, 1]
+      "shadow_color": [255, 255, 255, 0],
+      "shadow_offset": [0, 0]
     },
 
     {
       "class": "sidebar_label",
       "parents": [{"class": "tree_row", "attributes": ["hover"]}],
       "color": [175, 189, 196],
-      "shadow_color": [0, 0, 0, 0],
-      "shadow_offset": [0, 1]
+      "shadow_color": [255, 255, 255, 0],
+      "shadow_offset": [0, 0]
     },
 
     {
@@ -628,7 +630,7 @@
 
     {
       "class": "icon_folder",
-      "content_margin": [13, 8],
+      "content_margin": [10, 8],
       "layer0.tint": [0, 43, 54],
       "layer0.opacity": 0,
       "layer1.texture": "Materialize/assets/solarized dark/folder.png",
@@ -757,7 +759,7 @@
 
     {
       "class": "disclosure_button_control",
-      "layer0.texture": "Materialize/assets/commons/folder.png",
+      "layer0.texture": "Materialize/assets/solarized dark/folder.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
       "layer1.texture": "Materialize/assets/commons/folder--hover.png",
@@ -801,7 +803,7 @@
       "class": "close_button",
       "content_margin": [8, 8],
 
-      // solarized dark Close icon
+      // Default Close icon
       "layer0.texture": "Materialize/assets/solarized dark/close_icon.png",
       "layer0.opacity": { "target": 0.0, "speed": 7.0, "interpolation": "smoothstep" },
       "layer0.inner_margin": [0,0],
@@ -820,7 +822,7 @@
       [
         { "class": "tree_row", "attributes": ["hover"] }
       ],
-      // solarized dark Close icon
+      // Default Close icon
       "layer0.texture": "Materialize/assets/solarized dark/close_icon.png",
       "layer0.opacity": { "target": 1.0, "speed": 7.0, "interpolation": "smoothstep" },
       "layer0.inner_margin": [0,0],
@@ -1260,7 +1262,7 @@
         "class": "icon_case",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
         "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
-          "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
+        "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
      },
 
       // Wholeword
@@ -1427,7 +1429,7 @@
 
 
   /* LIME ACCENT
-   *  =================================================================== */
+   * =================================================================== */
 
       // Sidebar tree highlight
 
@@ -1706,7 +1708,7 @@
 
 
   /* PURPLE ACCENT
-   *  =================================================================== */
+   * =================================================================== */
 
       // Sidebar tree highlight
 
@@ -1984,7 +1986,7 @@
     },
 
   /* RED ACCENT
-   *  =================================================================== */
+   * =================================================================== */
 
       // Sidebar tree highlight
 
@@ -2262,7 +2264,7 @@
     },
 
   /* ORANGE ACCENT
-   *  =================================================================== */
+   * =================================================================== */
 
       // Sidebar tree highlight
 
@@ -2543,7 +2545,7 @@
 
 
   /* YELLOW ACCENT
-   *  =================================================================== */
+   * =================================================================== */
 
       // Sidebar tree highlight
 
@@ -2738,6 +2740,312 @@
       "layer1.texture": "Materialize/assets/accent-yellow/overflow_menu--hover.png",
     },
 
+    /* INDIGO ACCENT
+     * =================================================================== */
+
+      // Tooltip
+
+      {
+        "class": "tool_tip_control",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.tint": [92, 107, 192],
+      },
+
+      {
+        "class": "progress_gauge_control",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.tint": [92, 107, 192]
+      },
+
+      {
+        "class": "auto_complete_label",
+        "settings": ["material_theme_accent_indigo"],
+        "match_fg": [92, 107, 192],
+        "selected_match_fg": [92, 107, 192]
+      },
+
+      {
+        "class": "tool_tip_label_control",
+        "settings": ["material_theme_accent_indigo"],
+        "color": [0, 0, 0, 150]
+      },
+
+        // Sidebar tree highlight
+
+      {
+        "class": "tree_row",
+        "settings": ["material_theme_accent_indigo"],
+        "layer1.texture": "Materialize/assets/accent-indigo/tree_highlight.png",
+      },
+
+        // Tabs
+
+      {
+        "class": "tab_control",
+        "settings": ["material_theme_accent_indigo"],
+        "layer1.texture": "Materialize/assets/accent-indigo/tab_current.png",
+      },
+
+        // Tabs close button
+
+      {
+        "class": "tab_close_button",
+        "settings": ["material_theme_accent_indigo"],
+        "layer1.texture": "Materialize/assets/accent-indigo/close_icon--hover.png",
+        "layer3.texture": "Materialize/assets/accent-indigo/dirty_icon--hover.png"
+      },
+
+        // Opened files
+
+      {
+        "class": "close_button",
+        "settings": ["material_theme_accent_indigo"],
+        "layer1.texture": "Materialize/assets/accent-indigo/close_icon--hover.png",
+      },
+
+        // Dirty opened files
+
+      {
+        "class": "close_button",
+        "attributes": ["dirty"],
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/accent-indigo/dirty_icon--hover.png",
+      },
+
+      {
+        "class": "sidebar_label",
+        "settings": ["material_theme_accent_indigo"],
+        "parents": [{"class": "tree_row", "attributes": ["expanded"]}],
+        "color": [121, 134, 203]
+      },
+
+      {
+        "class": "icon_folder",
+        "settings": ["material_theme_accent_indigo"],
+        "layer2.texture": "Materialize/assets/accent-indigo/folder--hover.png",
+        "layer3.texture": "Materialize/assets/accent-indigo/folder_opened--hover.png",
+      },
+
+      {
+        "class": "icon_folder",
+        "settings": ["material_theme_accent_indigo"],
+        "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
+        "layer3.texture":
+        {
+          "keyframes":
+          [
+            "Materialize/assets/accent-indigo/folder_opened--hover-0.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-1.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-2.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-3.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-4.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-5.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-5.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-5.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-6.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-6.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-6.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-6.png",
+            "Materialize/assets/accent-indigo/folder_opened--hover-7.png",
+          ],
+          "loop": false,
+          "frame_time": 0.020,
+        }
+      },
+
+        // Folder loading
+
+      {
+        "class": "icon_folder_loading",
+        "settings": ["material_theme_accent_indigo"],
+        "layer1.texture":
+        {
+          "keyframes":
+          [
+            "Materialize/assets/accent-indigo/spinner7.png",
+            "Materialize/assets/accent-indigo/spinner6.png",
+            "Materialize/assets/accent-indigo/spinner5.png",
+            "Materialize/assets/accent-indigo/spinner4.png",
+            "Materialize/assets/accent-indigo/spinner3.png",
+            "Materialize/assets/accent-indigo/spinner2.png",
+            "Materialize/assets/accent-indigo/spinner1.png",
+            "Materialize/assets/accent-indigo/spinner.png",
+          ],
+          "loop": true,
+          "frame_time": 0.075,
+        },
+      },
+
+        // tab set scroll left | scroll right
+
+      {
+        "class": "scroll_tabs_left_button",
+        "settings": ["material_theme_accent_indigo"],
+        "layer1.texture": "Materialize/assets/accent-indigo/arrow_left--hover.png",
+      },
+
+      {
+        "class": "scroll_tabs_right_button",
+        "settings": ["material_theme_accent_indigo"],
+        "layer1.texture": "Materialize/assets/accent-indigo/arrow_right--hover.png",
+      },
+
+
+      {
+        "class": "fold_button_control",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/commons/fold_right.png",
+        "layer1.texture": "Materialize/assets/accent-indigo/fold_right--hover.png",
+      },
+
+      {
+        "class": "fold_button_control",
+        "attributes": ["expanded"],
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/darker/fold_down.png",
+        "layer1.texture": "Materialize/assets/accent-indigo/fold_down--hover.png"
+      },
+
+      // Panel labels
+
+      {
+        "class": "quick_panel_label",
+        "settings": ["material_theme_accent_indigo"],
+        "fg": [176, 190, 197, 255],
+        "match_fg": [121, 134, 203],
+        "selected_fg": [255, 255, 255, 255],
+        "selected_match_fg": [121, 134, 203]
+      },
+
+        // Panel labels
+
+      {
+        "class": "quick_panel_label",
+        "settings": ["material_theme_accent_indigo"],
+        "parents": [{"class": "overlay_control"}],
+        "fg": [176, 190, 197, 255],
+        "match_fg": [121, 134, 203],
+        "selected_fg": [255, 255, 255, 255],
+        "selected_match_fg": [121, 134, 203]
+      },
+
+        // Panels sublabels
+
+      {
+        "class": "quick_panel_path_label",
+        "settings": ["material_theme_accent_indigo"],
+        "fg": [97, 97, 97, 255],
+        "match_fg": [121, 134, 203],
+        "selected_fg": [255, 255, 255, 255],
+        "selected_match_fg": [121, 134, 203]
+      },
+
+        // Panels data / score
+
+      {
+        "class": "quick_panel_score_label",
+        "settings": ["material_theme_accent_indigo"],
+        "fg": [121, 134, 203],
+        "selected_fg": [255, 255, 255, 255]
+      },
+
+      {
+        "class": "show_tabs_dropdown_button",
+        "settings": ["material_theme_accent_indigo"],
+        "layer1.texture": "Materialize/assets/accent-indigo/overflow_menu--hover.png",
+      },
+
+        // Textline input oveflow menu
+
+      {
+        "class": "dropdown_button_control",
+        "settings": ["material_theme_accent_indigo"],
+        "layer1.texture": "Materialize/assets/accent-indigo/overflow_menu--hover.png",
+      },
+
+      /* Buttons icons settings
+      ===================================================================== */
+
+        // Regex Icon
+      {
+        "class": "icon_regex",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/accent-indigo/find_regex--hover.png",
+      },
+
+        // Preserve case sensitive
+
+      {
+        "class": "icon_case",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/accent-indigo/find_case--hover.png",
+      },
+        // Wholeword
+
+      {
+        "class": "icon_whole_word",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/accent-indigo/find_word--hover.png",
+      },
+
+        // Wrap
+
+      {
+        "class": "icon_wrap",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/accent-indigo/find_wrap--hover.png",
+      },
+
+        // In selection
+
+      {
+        "class": "icon_in_selection",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/accent-indigo/find_inselection--hover.png",
+      },
+
+
+        // Highlight Result
+
+      {
+        "class": "icon_highlight",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/accent-indigo/find_highlight--hover.png",
+      },
+
+        // Preserve Case
+
+      {
+        "class": "icon_preserve_case",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/accent-indigo/replace_preserve_case--hover.png",
+      },
+
+        // Show context
+
+      {
+        "class": "icon_context",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/accent-indigo/find_context--hover.png",
+      },
+
+        // Use buffer
+
+      {
+        "class": "icon_use_buffer",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/accent-indigo/use_buffer--hover.png",
+      },
+
+        // Reverse direction
+
+      {
+        "class": "icon_reverse",
+        "settings": ["material_theme_accent_indigo"],
+        "layer0.texture": "Materialize/assets/accent-indigo/find_reverse--hover.png",
+      },
+
+
     /* Buttons icons settings
     ===================================================================== */
 
@@ -2841,6 +3149,12 @@
       "settings": ["material_theme_small_tab"],
       "tab_height": 36,
       "content_margin": [12, -4, 8, 0]
+    },
+
+    {
+      "class": "tabset_control",
+      "settings": ["material_theme_tabs_autowidth"],
+      "tab_width": 0
     },
 
     {
@@ -2966,24 +3280,27 @@
       "layer1.opacity": 0.2,
       "layer1.inner_margin": [2, 2, 2, 2],
     },
+
+      // Contrast mode
+
     {
       "class": "sidebar_container",
       "settings": ["material_theme_contrast_mode"],
-      "layer0.tint": [0, 39, 48]
+      "layer0.tint": [33, 45, 52]
     },
     {
       "class": "sidebar_tree",
       "settings": ["material_theme_contrast_mode"],
-      "layer0.tint": [0, 39, 48]
+      "layer0.tint": [33, 45, 52]
     },
     {
       "class": "status_bar",
       "settings": ["material_theme_contrast_mode"],
-      "layer1.tint": [0, 39, 48]
+      "layer1.tint": [33, 45, 52]
     },
     {
       "class": "panel_control",
       "settings": ["material_theme_contrast_mode"],
-      "layer1.tint": [0, 39, 48]
+      "layer1.tint": [33, 45, 52]
     },
 ]
