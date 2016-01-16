@@ -1,0 +1,7 @@
+Version 2.5.2
+===============================================================================================================================
+* Fixed contrast mode
+
+Restart your editor if you see any graphic corruption. Report any issues/theme requests to https://github.com/saadq/Materialize/issues.
+
+Want to talk about a theme request or just say hi? Send a message to saad@saadquadri.com :)

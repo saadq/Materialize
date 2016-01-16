@@ -3286,21 +3286,21 @@
     {
       "class": "sidebar_container",
       "settings": ["material_theme_contrast_mode"],
-      "layer0.tint": [33, 45, 52]
+      "layer0.tint": [231, 233, 236]
     },
     {
       "class": "sidebar_tree",
       "settings": ["material_theme_contrast_mode"],
-      "layer0.tint": [33, 45, 52]
+      "layer0.tint": [231, 233, 236]
     },
     {
       "class": "status_bar",
       "settings": ["material_theme_contrast_mode"],
-      "layer1.tint": [33, 45, 52]
+      "layer1.tint": [231, 233, 236]
     },
     {
       "class": "panel_control",
       "settings": ["material_theme_contrast_mode"],
-      "layer1.tint": [33, 45, 52]
-    },
+      "layer1.tint": [231, 233, 236]
+    }
 ]

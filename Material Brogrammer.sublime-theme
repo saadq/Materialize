@@ -3283,24 +3283,24 @@
 
       // Contrast mode
 
-    {
-      "class": "sidebar_container",
-      "settings": ["material_theme_contrast_mode"],
-      "layer0.tint": [33, 45, 52]
-    },
-    {
-      "class": "sidebar_tree",
-      "settings": ["material_theme_contrast_mode"],
-      "layer0.tint": [33, 45, 52]
-    },
-    {
-      "class": "status_bar",
-      "settings": ["material_theme_contrast_mode"],
-      "layer1.tint": [33, 45, 52]
-    },
-    {
-      "class": "panel_control",
-      "settings": ["material_theme_contrast_mode"],
-      "layer1.tint": [33, 45, 52]
-    },
+           {
+             "class": "sidebar_container",
+             "settings": ["material_theme_contrast_mode"],
+             "layer0.tint": [20, 20, 20]
+           },
+           {
+             "class": "sidebar_tree",
+             "settings": ["material_theme_contrast_mode"],
+             "layer0.tint": [20, 20, 20]
+           },
+           {
+             "class": "status_bar",
+             "settings": ["material_theme_contrast_mode"],
+             "layer1.tint": [20, 20, 20]
+           },
+           {
+             "class": "panel_control",
+             "settings": ["material_theme_contrast_mode"],
+             "layer1.tint": [20, 20, 20]
+           }
 ]
