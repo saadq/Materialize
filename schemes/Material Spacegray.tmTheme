@@ -7,7 +7,7 @@
   <key>colorSpaceName</key>
   <string>sRGB</string>
   <key>gutterSettings</key>
-  <dict>
+<dict>
     <key>background</key>
     <string>#343d46</string>
     <key>divider</key>
@@ -62,6 +62,17 @@
       <dict>
         <key>foreground</key>
         <string>#c0c5ce</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Ruby Variable</string>
+      <key>scope</key>
+      <string>variable.other.readwrite.instance.ruby</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#bf616a</string>
       </dict>
     </dict>
     <dict>
@@ -163,7 +174,7 @@
       <dict>
         <key>foreground</key>
         <string>ebcb8b</string>
-        <!-- <string>#EC5F67</string> -->
+        <!-- <string>#bf616a</string> -->
       </dict>
     </dict>
     <dict>
@@ -176,7 +187,7 @@
         <key>fontStyle</key>
         <string>italic</string>
         <key>foreground</key>
-        <string>#EC5F67</string>
+        <string>#bf616a</string>
       </dict>
     </dict>
     <dict>
@@ -231,7 +242,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#EC5F67</string>
+        <string>#bf616a</string>
       </dict>
     </dict>
     <dict>
@@ -325,7 +336,7 @@
         <key>fontStyle</key>
         <string>italic</string>
         <key>foreground</key>
-        <string>#EC5F67</string>
+        <string>#bf616a</string>
       </dict>
     </dict>
   </array>
@@ -333,3 +344,4 @@
   <string>21a3a5f5-e82f-48a8-bc8b-9aef307f6131</string>
 </dict>
 </plist>
+
