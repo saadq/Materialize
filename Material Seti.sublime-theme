@@ -1090,6 +1090,20 @@
       "min_size": [75, 0],
     },
 
+    // panel switcher
+    {
+      "class": "panel_button_control",
+      "layer0.texture": "Materialize/assets/default/overflow_menu.png",
+      "layer0.opacity": 1.0,
+      "content_margin": [10, 10]
+    },
+
+    {
+      "class": "panel_button_control",
+      "attributes": ["hover"],
+      "layer0.texture": "Materialize/assets/commons/overflow_menu--hover.png",
+    },
+
 
   /* @ WIDGET PANEL
    * Widget, input, buttons settings and behavioring
@@ -1431,6 +1445,13 @@
   /* LIME ACCENT
    * =================================================================== */
 
+   {
+    "class": "panel_button_control",
+    "settings": ["material_theme_accent_lime"],
+    "attributes": ["hover"],
+    "layer0.texture": "Materialize/assets/accent-lime/overflow_menu--hover.png",
+   },
+
       // Sidebar tree highlight
 
     {
@@ -1710,6 +1731,13 @@
   /* PURPLE ACCENT
    * =================================================================== */
 
+   {
+     "class": "panel_button_control",
+     "settings": ["material_theme_accent_purple"],
+     "attributes": ["hover"],
+     "layer0.texture": "Materialize/assets/accent-purple/overflow_menu--hover.png",
+   },
+
       // Sidebar tree highlight
 
     {
@@ -1988,6 +2016,13 @@
   /* RED ACCENT
    * =================================================================== */
 
+   {
+     "class": "panel_button_control",
+     "settings": ["material_theme_accent_red"],
+     "attributes": ["hover"],
+     "layer0.texture": "Materialize/assets/accent-red/overflow_menu--hover.png",
+   },
+
       // Sidebar tree highlight
 
     {
@@ -2265,6 +2300,13 @@
 
   /* ORANGE ACCENT
    * =================================================================== */
+
+   {
+     "class": "panel_button_control",
+     "settings": ["material_theme_accent_orange"],
+     "attributes": ["hover"],
+     "layer0.texture": "Materialize/assets/accent-orange/overflow_menu--hover.png",
+   },
 
       // Sidebar tree highlight
 
@@ -2547,6 +2589,13 @@
   /* YELLOW ACCENT
    * =================================================================== */
 
+   {
+     "class": "panel_button_control",
+     "settings": ["material_theme_accent_yellow"],
+     "attributes": ["hover"],
+     "layer0.texture": "Materialize/assets/accent-yellow/overflow_menu--hover.png",
+   },
+
       // Sidebar tree highlight
 
     {
@@ -2742,6 +2791,13 @@
 
     /* INDIGO ACCENT
      * =================================================================== */
+
+     {
+       "class": "panel_button_control",
+       "settings": ["material_theme_accent_indigo"],
+       "attributes": ["hover"],
+       "layer0.texture": "Materialize/assets/accent-indigo/overflow_menu--hover.png",
+     },
 
       // Tooltip
 
