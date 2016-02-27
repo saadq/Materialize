@@ -3342,21 +3342,21 @@
     {
       "class": "sidebar_container",
       "settings": ["material_theme_contrast_mode"],
-      "layer0.tint": [25, 25, 25]
+      "layer0.tint": [30, 30, 30]
     },
     {
       "class": "sidebar_tree",
       "settings": ["material_theme_contrast_mode"],
-      "layer0.tint": [25, 25, 25]
+      "layer0.tint": [30, 30, 30]
     },
     {
       "class": "status_bar",
       "settings": ["material_theme_contrast_mode"],
-      "layer1.tint": [25, 25, 25]
+      "layer1.tint": [30, 30, 30]
     },
     {
       "class": "panel_control",
       "settings": ["material_theme_contrast_mode"],
-      "layer1.tint": [25, 25, 25]
+      "layer1.tint": [30, 30, 30]
     }
 ]
