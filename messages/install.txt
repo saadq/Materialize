@@ -1,6 +1,16 @@
+___  ___      _            _       _  _
+|  \/  |     | |          (_)     | |(_)
+| .  . | __ _| |_ ___ _ __ _  __ _| | _  _____  ___
+| |\/| |/ _` | __/ _ \ '__| |/ _` | || ||/ / / / _ \
+| |  | | (_| | ||  __/ |  | | (_| | || |  / / |  __/
+\_|  |_/\__,_|\__\___|_|  |_|\__,_|_||_| //_|/ \___|
+
+Materialize
+https://github.com/saadq/Materialize
+
 Thanks for installing Materialize!
 
-Check out https://github.com/saadq/Materialize for more info and screenshots.
+Check out https://github.com/saadq/Materialize/screenshots.md for more visuals.
 
 ******************************************************************************
 
