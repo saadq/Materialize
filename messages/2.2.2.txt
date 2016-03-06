@@ -1,7 +1,0 @@
-Version 2.2.2
-================================================================================================================================
-* Removed old Material Solarized
-* Added an improved version of Material Solarized Dark
-* Added Material Solarized Light
-
-Report any issues to http://github.com/saadq/Materialize/issues

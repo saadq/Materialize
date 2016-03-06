@@ -1,3 +1,0 @@
-Version 2.1.0
-================================================================================================================================
-Fixed an issue with the line numbers arrows that occurred when using theme accents.

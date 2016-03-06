@@ -1,6 +1,0 @@
-Version 2.2.0
-================================================================================================================================
-Added new themes:
- * Material Cobalt
- * Material Brogrammer
- * Material Flatland

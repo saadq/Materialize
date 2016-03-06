@@ -1,5 +1,0 @@
-Version 2.2.3
-================================================================================================================================
-* Fixed an issue with SCSS and Sass language definitions
-
-Report any issues to http://github.com/saadq/Materialize/issues
