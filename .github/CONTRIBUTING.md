@@ -17,32 +17,34 @@ Before adding a theme, make sure that the color scheme you are using has an open
 Be sure to update the credits page in the README as well as updating the `themes.json` with the new theme (make sure it remains in alphabetical order).
 
 ## Changing existing themes
-It is important that any change you make to a theme is consistent across all themes. A `themes.json` file has been added for convenience. It's generally advised to use a script with the `themes.json` file when making changes in order to make sure all the themes are changed consistently. 
+It is important that any change you make to a theme is consistent across all themes. It's generally advised to use a script when making changes in order to ensure consistency.
 
-Here is an example script that will change the sidebar padding for every theme:
+Here is an example script written in Node that will change the sidebar padding for every theme:
 
 ```javascript
 const fs = require('fs')
-const themeFiles = require('./themes.json')
 
 // Old setting for each theme
 const currentPadding = `
       "class": "sidebar_tree",
-      "row_padding": [24, 8],
+      "row_padding": [24, 12],
 `
 
 // New setting for each theme
 const newPadding = `
       "class": "sidebar_tree",
-      "row_padding": [24, 12],
+      "row_padding": [24, 8],
 `
 
-// Loop through each file in themeFiles and
-// replace the old padding with the new padding
-themeFiles.forEach(file => {
-  fs.readFile(file, 'utf8', (_, data) => {
-    const newData = data.replace(currentPadding, newPadding)
-    fs.writeFile(file, newData)
+// Loop through each file in the themes folder, 
+// replace the padding, and then save the file
+fs.readdir('./themes', (_, files) => {
+  files.forEach(file => {
+    const filePath = `./themes/${file}`
+    fs.readFile(filePath, 'utf8', (_, data) => {
+      const newData = data.replace(currentPadding, newPadding)
+      fs.writeFile(filePath, newData)
+    })
   })
 })
 ```
