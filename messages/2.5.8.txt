@@ -1,7 +1,8 @@
-Version 2.5.7
+Version 2.5.8
 ===============================================================================================================================
-* Add Material Facebook
-* Increase padding in sidebar
+
+* Add material_theme_compact_panel option
+* Add material_theme_compact_sidebar option
 
 Restart your editor if you see any graphical corruption. Report any issues/theme requests to https://github.com/saadq/Materialize/issues
 
