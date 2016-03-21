@@ -61,6 +61,9 @@ Activate the theme with the following preferences at  **(Preferences > Setting -
 
 ***Note*** : Remember to restart Sublime Text after activating the theme.
 
+## Theme Addons
+Be sure to check out [Materialize-Appbar](https://github.com/saadq/Materialize-Appbar) and [Materialize-White-Panels](https://github.com/saadq/Materialize-White-Panels) to add even more customization to your theme!
+
 ## Theme options
 
 ```json
@@ -116,4 +119,4 @@ Please see the issue [equinusocio/material-theme#67](https://github.com/equinuso
 
 ## Custom requests
 
-If you have a color scheme that you would like me to create a Material theme for, I'd be happy to oblige. Simply [create a new issue using this link](https://github.com/saadq/Materialize/issues/new?labels[]=theme%20request&&body=%23%23%23%20Issue%20Summary%0A%0A%23%23%23%20Steps%20to%20reproduce%0A%0A1.%20This%20is%20the%20first%20step%0A2.%20This%20is%20the%20second%20step%0A3.%20This%20is%20the%20third%20step%0A%0AThis%20is%20a%20bug%20because...%0A%0A%23%23%23%20Technical%20details%0A%0A*%20Sublime%20version%3A%0A*%20Materialize%20version%3A), and I'll try to get to it as soon as possible.
+If you have a color scheme that you would like me to create a Material theme for, I'd be happy to oblige. Simply [create a new issue](https://github.com/saadq/Materialize/issues/new) and use the theme request template provided, and I'll try to get to it as soon as possible.
