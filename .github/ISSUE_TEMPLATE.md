@@ -1,6 +1,6 @@
 Thanks for submitting an issue! 
 
-Before you continue, please check the [past issues](https://github.com/saadq/Materialize/issues?utf8=%E2%9C%93&q=is%3Aissue+) and make sure that you aren't creating a duplicate. 
+Before you continue, please check the past issues and make sure you aren't creating a duplicate. 
 
 ### Theme Issue:
 
