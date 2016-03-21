@@ -9,8 +9,8 @@ When changing documentation, please make sure that any links you add are not bro
 
 Before adding a theme, make sure that the color scheme you are using has an open source license (please message the author of the color scheme if you are unsure). After that, make sure you stay consistent with the format of a theme. Assuming that the theme we wanted to add was Material Monokai, we would want to create the following: 
 
-* A theme file (Material Monokai.sublime-theme)
-* A color scheme file (Material Monokai.tmTheme)
+* A theme file (themes/Material Monokai.sublime-theme)
+* A color scheme file (schemes/Material Monokai.tmTheme)
 * An assets folder with appropriately colored assets for the theme (assets/monokai/)
 * A widgets folder (widgets/monokai/)
 
