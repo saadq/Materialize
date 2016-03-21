@@ -27,13 +27,13 @@ const fs = require('fs')
 // Old setting for each theme
 const currentPadding = `
       "class": "sidebar_tree",
-      "row_padding": [24, 12],
+      "row_padding": [24, 8],
 `
 
 // New setting for each theme
 const newPadding = `
       "class": "sidebar_tree",
-      "row_padding": [24, 8],
+      "row_padding": [24, 12],
 `
 
 // Loop through each file in the themes folder, 
