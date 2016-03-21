@@ -3340,23 +3340,37 @@
       // Contrast mode
 
     {
-          "class": "sidebar_container",
-          "settings": ["material_theme_contrast_mode"],
-          "layer0.tint": [33, 34, 28]
-        },
-        {
-          "class": "sidebar_tree",
-          "settings": ["material_theme_contrast_mode"],
-          "layer0.tint": [33, 34, 28]
-        },
-        {
-          "class": "status_bar",
-          "settings": ["material_theme_contrast_mode"],
-          "layer1.tint": [33, 34, 28]
-        },
-        {
-          "class": "panel_control",
-          "settings": ["material_theme_contrast_mode"],
-          "layer1.tint": [33, 34, 28]
-        }
+      "class": "sidebar_container",
+      "settings": ["material_theme_contrast_mode"],
+      "layer0.tint": [33, 34, 28]
+    },
+    {
+      "class": "sidebar_tree",
+      "settings": ["material_theme_contrast_mode"],
+      "layer0.tint": [33, 34, 28]
+    },
+    {
+      "class": "status_bar",
+      "settings": ["material_theme_contrast_mode"],
+      "layer1.tint": [33, 34, 28]
+    },
+    {
+      "class": "panel_control",
+      "settings": ["material_theme_contrast_mode"],
+      "layer1.tint": [33, 34, 28]
+    },
+
+    // Compact mode
+    {
+      "class": "sidebar_tree",
+      "settings": ["material_theme_compact_sidebar"],
+      "row_padding": [24, 5]
+    },
+
+    // Compact Panel
+    {
+      "class": "panel_control",
+      "settings": ["material_theme_compact_panel"],
+      "content_margin": [0, 0, 0, 0],
+    }
 ]
