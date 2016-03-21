@@ -68,6 +68,8 @@ Be sure to check out [Materialize-Appbar](https://github.com/saadq/Materialize-A
 
 ```json
     "material_theme_contrast_mode": true,
+    "material_theme_compact_sidebar": true,
+    "material_theme_compact_panel": true,
     "material_theme_small_tab": true,
     "material_theme_disable_fileicons": true,
     "material_theme_disable_folder_animation": true,
