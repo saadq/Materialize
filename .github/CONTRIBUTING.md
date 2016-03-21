@@ -46,3 +46,9 @@ themeFiles.forEach(file => {
   })
 })
 ```
+
+## Creating a Theme Request
+When making a theme request, make sure to do the following:
+1. Make sure the theme doesn't already exist.
+2. Make sure that the color scheme you are requesting has an open source license.
+3. Provide a link to the color scheme you want a theme for.
