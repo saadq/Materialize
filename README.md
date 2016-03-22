@@ -13,6 +13,7 @@ Bringing [Material theme](https://github.com/equinusocio/material-theme) to the 
 
 **Materialize** is based upon the [Material](https://github.com/equinusocio/material-theme) theme created by [@equinusocio](https://github.com/equinusocio) and the following themes / color schemes:
 
+* [Augmented Reaction](https://github.com/ESWAT/augmentedreaction-theme) by [ESWAT](https://github.com/ESWAT)
 * [Behave](https://github.com/fnky/behave-theme) by [@fnky](https://github.com/fnky)
 * [Brogrammer](https://github.com/kenwheeler/brogrammer-theme) by [@kenwheeler](https://github.com/kenwheeler)
 * [Cobalt](https://github.com/wesbos/cobalt2) by [@kyleknighted](https://github.com/kyleknighted)
