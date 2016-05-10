@@ -77,6 +77,28 @@
     </dict>
     <dict>
       <key>name</key>
+      <string>Handlebars Constants</string>
+      <key>scope</key>
+      <string>meta.function.block.start.handlebars support.constant.handlebars, meta.function.block.end.handlebars support.constant.handlebars, text.html.handlebars meta.function.inline.other.handlebars variable.parameter.handlebars, text.html.handlebars meta.function.inline.other.handlebars support.constant.handlebars</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#8fa1b3</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Handlebars Properties</string>
+      <key>scope</key>
+      <string>entity.other.attribute-name.handlebars variable.parameter.handlebars</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#bf616a</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
       <string>Keyword, Storage</string>
       <key>scope</key>
       <string>keyword, storage.type</string>
