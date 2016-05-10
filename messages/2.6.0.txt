@@ -1,0 +1,9 @@
+Version 2.6.0
+=========================================================================
+
+* Change grid border for each theme to make it match the colors
+* Improve syntax highlighting for Handlebars in Spacegray themes
+
+Restart your editor if you see any graphical corruption. Report any issues/theme requests to https://github.com/saadq/Materialize/issues
+
+Want to talk about a theme request or just say hi? Send a message to saad@saadquadri.com :)
