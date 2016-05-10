@@ -68,6 +68,7 @@ Be sure to check out [Materialize-Appbar](https://github.com/saadq/Materialize-A
 ## Theme options
 
 ```json
+    "material_theme_tabs_autowidth" : true,
     "material_theme_contrast_mode": true,
     "material_theme_compact_sidebar": true,
     "material_theme_compact_panel": true,
