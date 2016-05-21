@@ -14,4 +14,6 @@ Before you continue, please check the past issues and make sure you aren't creat
 ### Theme Request:
 
 1. Theme Name:
-2. Link to the color scheme:
+2. Author Name:
+3. Link to the color scheme:
+4. License of color scheme:
