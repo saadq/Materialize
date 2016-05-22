@@ -17,6 +17,7 @@ Bringing [Material theme](https://github.com/equinusocio/material-theme) to the 
 * [Behave](https://github.com/fnky/behave-theme) by [@fnky](https://github.com/fnky)
 * [Brogrammer](https://github.com/kenwheeler/brogrammer-theme) by [@kenwheeler](https://github.com/kenwheeler)
 * [Cobalt](https://github.com/wesbos/cobalt2) by [@kyleknighted](https://github.com/kyleknighted)
+* [Dracula](https://github.com/zenorocha/dracula-theme) by [@Zeno Rocha](http://zenorocha.com)
 * [Facebook](https://github.com/mbixby/facebook-color-scheme) by [@mbixby](https://github.com/mbixby)
 * [Flatland](https://github.com/thinkpixellab/flatland) by [@thinkpixellab](https://github.com/thinkpixellab)
 * [Glacier](https://github.com/shovelandsandbox/glacier-theme) by [@joeyfigaro](https://github.com/joeyfigaro)
