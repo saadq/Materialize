@@ -2,3 +2,5 @@
 templates
 dev
 materialize.rb
+.babelrc
+node_modules
