@@ -1,6 +1,6 @@
-## Material Theme for Sublime Text 3
+## Materialize for Sublime Text 3
 
-For more information on the Material Theme: https://github.com/equinusocio/material-theme
+For more information on the Materialize: https://github.com/equinusocio/material-theme
 
 **********************************************************************************************
 
@@ -8,14 +8,14 @@ For more information on the Material Theme: https://github.com/equinusocio/mater
 
 You can active this theme from:
 - Command palette `Tools > Command Palette` (or <kbd>cmd/ctrl</kbd>+ <kbd>↑</kbd>+<kbd>p</
-kbd>) by typing `Material Theme: Activate theme`. 
-- Context menu (Right click on the editor) and choose `Material Theme > Activate Material Theme`
-- `Preferences > Packages Settings` and choose `Material Theme > Activate Material Theme`
+kbd>) by typing `Materialize: Activate theme`. 
+- Context menu (Right click on the editor) and choose `Materialize > Activate Materialize`
+- `Preferences > Packages Settings` and choose `Materialize > Activate Materialize`
 
 You can also manually activate this theme by adding these lines to your user settings (**Preferences > Settings - User**):
 
 ```json
-"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+"color_scheme": "Packages/Materialize/schemes/Material-Theme.tmTheme",
 "theme": "Material-Theme.sublime-theme",
 ```
 ```
@@ -53,7 +53,7 @@ You can also manually activate this theme by adding these lines to your user set
 "material_theme_tabs_autowidth"           : true , // Enable autowidth for tabs
 "material_theme_tabs_separator"           : true , // Show tabs separator, this disables tab hover animation
 
-// If you use Material Theme - Appbar addon you can use additional settings:
+// If you use Materialize - Appbar addon you can use additional settings:
 "material_theme_tree_headings"            : true , // Show sidebar headings
 ```
 

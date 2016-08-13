@@ -6,10 +6,10 @@
   // Command Panel
    {
       "class": "overlay_control",
-      "layer0.texture": "Material Theme/assets/darker/overlay-bg.png",
+      "layer0.texture": "Materialize/assets/darker/overlay-bg.png",
       "layer0.inner_margin": [16, 4, 16, 33],
       "layer0.opacity": 1.0,
-      "layer1.texture": "Material Theme/assets/commons/quick-panel-background.png",
+      "layer1.texture": "Materialize/assets/commons/quick-panel-background.png",
       "layer1.inner_margin": [16, 0, 16, 25],
       "layer1.opacity": 1.0,
       "content_margin": [13, 13, 13, 33]

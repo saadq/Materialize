@@ -56,10 +56,10 @@
   
     {
       "class": "fold_button_control",
-      "layer0.texture": "Material Theme/assets/commons/fold_right.png",
+      "layer0.texture": "Materialize/assets/commons/fold_right.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
-      "layer1.texture": "Material Theme/assets/commons/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/commons/fold_right--hover.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": 0,
       "content_margin": [9, 7, 8, 6]
@@ -75,9 +75,10 @@
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
-      "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-      "layer1.texture": "Material Theme/assets/commons/fold_down--hover.png"
+      "layer0.texture": "Materialize/assets/darker/fold_down.png",
+      "layer1.texture": "Materialize/assets/commons/fold_down--hover.png"
     },
+  
   
   /* @AUTOCOMPLETE
    * Autocomplete popup setting and behavioring
@@ -143,10 +144,10 @@
     // Command Panel
      {
         "class": "overlay_control",
-        "layer0.texture": "Material Theme/assets/darker/overlay-bg.png",
+        "layer0.texture": "Materialize/assets/darker/overlay-bg.png",
         "layer0.inner_margin": [16, 4, 16, 33],
         "layer0.opacity": 1.0,
-        "layer1.texture": "Material Theme/assets/commons/quick-panel-background.png",
+        "layer1.texture": "Materialize/assets/commons/quick-panel-background.png",
         "layer1.inner_margin": [16, 0, 16, 25],
         "layer1.opacity": 1.0,
         "content_margin": [13, 13, 13, 33]
@@ -292,7 +293,7 @@
       "layer0.opacity": 1.0,
       "tint_index": 0,
   
-      "layer1.texture": "Material Theme/assets/darker/tab_current.png",
+      "layer1.texture": "Materialize/assets/darker/tab_current.png",
       "layer1.inner_margin": [0, 0],
       "layer1.opacity": 0.0,
   
@@ -305,19 +306,19 @@
       "layer3.texture": {
               "keyframes":
               [
-                "Material Theme/assets/darker/tab_animation1.png",
-                "Material Theme/assets/darker/tab_animation2.png",
-                "Material Theme/assets/darker/tab_animation3.png",
-                "Material Theme/assets/darker/tab_animation4.png",
-                "Material Theme/assets/darker/tab_animation5.png",
-                "Material Theme/assets/darker/tab_animation6.png",
-                "Material Theme/assets/darker/tab_animation7.png",
-                "Material Theme/assets/darker/tab_animation8.png",
-                "Material Theme/assets/darker/tab_animation9.png",
-                "Material Theme/assets/darker/tab_animation10.png",
-                "Material Theme/assets/darker/tab_animation11.png",
-                "Material Theme/assets/darker/tab_animation12.png",
-                "Material Theme/assets/darker/tab_animation13.png"
+                "Materialize/assets/darker/tab_animation1.png",
+                "Materialize/assets/darker/tab_animation2.png",
+                "Materialize/assets/darker/tab_animation3.png",
+                "Materialize/assets/darker/tab_animation4.png",
+                "Materialize/assets/darker/tab_animation5.png",
+                "Materialize/assets/darker/tab_animation6.png",
+                "Materialize/assets/darker/tab_animation7.png",
+                "Materialize/assets/darker/tab_animation8.png",
+                "Materialize/assets/darker/tab_animation9.png",
+                "Materialize/assets/darker/tab_animation10.png",
+                "Materialize/assets/darker/tab_animation11.png",
+                "Materialize/assets/darker/tab_animation12.png",
+                "Materialize/assets/darker/tab_animation13.png"
               ],
               "loop": false,
               "frame_time": 0.015,
@@ -390,20 +391,20 @@
       "content_margin": [0, 0],
   
        // Close Icon
-      "layer0.texture": "Material Theme/assets/darker/close_icon.png",
+      "layer0.texture": "Materialize/assets/darker/close_icon.png",
       "layer0.opacity": 1,
       "layer0.inner_margin": 0,
   
       // Close Icon Hover
-      "layer1.texture": "Material Theme/assets/commons/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/commons/close_icon--hover.png",
       "layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
   
        // Dirty Icon
-      "layer2.texture": "Material Theme/assets/darker/dirty_icon.png",
+      "layer2.texture": "Materialize/assets/darker/dirty_icon.png",
       "layer2.inner_margin": 0,
   
       // Dirty Icon Hover
-      "layer3.texture": "Material Theme/assets/commons/dirty_icon--hover.png",
+      "layer3.texture": "Materialize/assets/commons/dirty_icon--hover.png",
       "layer3.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" }
     },
       // Default
@@ -471,10 +472,10 @@
     {
       "class": "scroll_tabs_left_button",
       "content_margin": [14, 7],
-      "layer0.texture": "Material Theme/assets/darker/arrow_left.png",
+      "layer0.texture": "Materialize/assets/darker/arrow_left.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
-      "layer1.texture": "Material Theme/assets/commons/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/commons/arrow_left--hover.png",
       "layer1.opacity": { "target": 0.0, "speed": 8.0, "interpolation": "smoothstep" },
       "layer1.inner_margin": 0,
     },
@@ -488,10 +489,10 @@
     {
       "class": "scroll_tabs_right_button",
       "content_margin": [14, 7],
-      "layer0.texture": "Material Theme/assets/darker/arrow_right.png",
+      "layer0.texture": "Materialize/assets/darker/arrow_right.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
-      "layer1.texture": "Material Theme/assets/commons/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/commons/arrow_right--hover.png",
       "layer1.opacity": { "target": 0.0, "speed": 8.0, "interpolation": "smoothstep" },
       "layer1.inner_margin": 0,
     },
@@ -505,10 +506,10 @@
     {
       "class": "show_tabs_dropdown_button",
       "content_margin": [12, 12],
-      "layer0.texture": "Material Theme/assets/darker/overflow_menu.png",
+      "layer0.texture": "Materialize/assets/darker/overflow_menu.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
-      "layer1.texture": "Material Theme/assets/commons/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/commons/overflow_menu--hover.png",
       "layer1.opacity": { "target": 0.0, "speed": 8.0, "interpolation": "smoothstep" },
       "layer1.inner_margin": 0
     },
@@ -562,7 +563,7 @@
   
     {
        "class": "tree_row",
-       "layer1.texture": "Material Theme/assets/commons/tree_highlight.png",
+       "layer1.texture": "Materialize/assets/commons/tree_highlight.png",
        "layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
        "layer1.inner_margin": [22, 8, 0, 0]
     },
@@ -657,11 +658,11 @@
       "content_margin": [10, 8],
       "layer0.tint": [38, 50, 56],
       "layer0.opacity": 0,
-      "layer1.texture": "Material Theme/assets/darker/folder.png",
+      "layer1.texture": "Materialize/assets/darker/folder.png",
       "layer1.opacity": 1,
-      "layer2.texture": "Material Theme/assets/commons/folder--hover.png",
+      "layer2.texture": "Materialize/assets/commons/folder--hover.png",
       "layer2.opacity": 0.0,
-      "layer3.texture": "Material Theme/assets/commons/folder_opened--hover.png",
+      "layer3.texture": "Materialize/assets/commons/folder_opened--hover.png",
       "layer3.opacity": 0.0,
     },
   
@@ -697,19 +698,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/commons/folder_opened--hover-0.png",
-          "Material Theme/assets/commons/folder_opened--hover-1.png",
-          "Material Theme/assets/commons/folder_opened--hover-2.png",
-          "Material Theme/assets/commons/folder_opened--hover-3.png",
-          "Material Theme/assets/commons/folder_opened--hover-4.png",
-          "Material Theme/assets/commons/folder_opened--hover-5.png",
-          "Material Theme/assets/commons/folder_opened--hover-5.png",
-          "Material Theme/assets/commons/folder_opened--hover-5.png",
-          "Material Theme/assets/commons/folder_opened--hover-6.png",
-          "Material Theme/assets/commons/folder_opened--hover-6.png",
-          "Material Theme/assets/commons/folder_opened--hover-6.png",
-          "Material Theme/assets/commons/folder_opened--hover-6.png",
-          "Material Theme/assets/commons/folder_opened--hover-7.png",
+          "Materialize/assets/commons/folder_opened--hover-0.png",
+          "Materialize/assets/commons/folder_opened--hover-1.png",
+          "Materialize/assets/commons/folder_opened--hover-2.png",
+          "Materialize/assets/commons/folder_opened--hover-3.png",
+          "Materialize/assets/commons/folder_opened--hover-4.png",
+          "Materialize/assets/commons/folder_opened--hover-5.png",
+          "Materialize/assets/commons/folder_opened--hover-5.png",
+          "Materialize/assets/commons/folder_opened--hover-5.png",
+          "Materialize/assets/commons/folder_opened--hover-6.png",
+          "Materialize/assets/commons/folder_opened--hover-6.png",
+          "Materialize/assets/commons/folder_opened--hover-6.png",
+          "Materialize/assets/commons/folder_opened--hover-6.png",
+          "Materialize/assets/commons/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -725,7 +726,7 @@
       [
         { "class": "tree_row", "attributes": ["selected"] }
       ],
-      "layer1.texture": "Material Theme/assets/commons/folder--hover.png",
+      "layer1.texture": "Materialize/assets/commons/folder--hover.png",
     },
   
       // Folder loading
@@ -736,14 +737,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/commons/spinner7.png",
-          "Material Theme/assets/commons/spinner6.png",
-          "Material Theme/assets/commons/spinner5.png",
-          "Material Theme/assets/commons/spinner4.png",
-          "Material Theme/assets/commons/spinner3.png",
-          "Material Theme/assets/commons/spinner2.png",
-          "Material Theme/assets/commons/spinner1.png",
-          "Material Theme/assets/commons/spinner.png",
+          "Materialize/assets/commons/spinner7.png",
+          "Materialize/assets/commons/spinner6.png",
+          "Materialize/assets/commons/spinner5.png",
+          "Materialize/assets/commons/spinner4.png",
+          "Materialize/assets/commons/spinner3.png",
+          "Materialize/assets/commons/spinner2.png",
+          "Materialize/assets/commons/spinner1.png",
+          "Materialize/assets/commons/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -757,7 +758,7 @@
   
     {
       "class": "icon_folder_dup",
-      "layer0.texture": "Material Theme/assets/darker/folder_dup.png",
+      "layer0.texture": "Materialize/assets/darker/folder_dup.png",
       "layer0.opacity": 1.0,
       "content_margin": [10, 8]
     },
@@ -766,23 +767,23 @@
       "class": "icon_folder_dup",
       "parents":
       [{ "class": "tree_row", "attributes": ["hover"] }],
-      "layer0.texture": "Material Theme/assets/commons/folder_dup--hover.png"
+      "layer0.texture": "Materialize/assets/commons/folder_dup--hover.png"
     },
   
     {
       "class": "icon_folder_dup",
       "parents": [{"class": "tree_row", "attributes": ["expanded"] }],
-      "layer0.texture": "Material Theme/assets/commons/folder_dup--hover.png"
+      "layer0.texture": "Materialize/assets/commons/folder_dup--hover.png"
     },
   
       // Hidden arrow icon before folder
   
     {
       "class": "disclosure_button_control",
-      "layer0.texture": "Material Theme/assets/darker/folder.png",
+      "layer0.texture": "Materialize/assets/darker/folder.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
-      "layer1.texture": "Material Theme/assets/commons/folder--hover.png",
+      "layer1.texture": "Materialize/assets/commons/folder--hover.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": 0,
       "content_margin": [0, 0, 0, 0]
@@ -801,7 +802,7 @@
     {
       "class": "disclosure_button_control",
       "attributes": ["expanded"],
-      "layer0.texture": "Material Theme/assets/commons/folder_opened--hover.png",
+      "layer0.texture": "Materialize/assets/commons/folder_opened--hover.png",
     },
   
     {
@@ -822,12 +823,12 @@
       "content_margin": [8, 8],
   
       // Default Close icon
-      "layer0.texture": "Material Theme/assets/darker/close_icon.png",
+      "layer0.texture": "Materialize/assets/darker/close_icon.png",
       "layer0.opacity": { "target": 0.0, "speed": 7.0, "interpolation": "smoothstep" },
       "layer0.inner_margin": [0,0],
   
       // Hover close icon
-      "layer1.texture": "Material Theme/assets/commons/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/commons/close_icon--hover.png",
       "layer1.opacity": 0,
       "layer1.inner_margin": [0,0],
     },
@@ -841,7 +842,7 @@
         { "class": "tree_row", "attributes": ["hover"] }
       ],
       // Default Close icon
-      "layer0.texture": "Material Theme/assets/default/close_icon.png",
+      "layer0.texture": "Materialize/assets/default/close_icon.png",
       "layer0.opacity": { "target": 1.0, "speed": 7.0, "interpolation": "smoothstep" },
       "layer0.inner_margin": [0,0],
     },
@@ -849,7 +850,7 @@
     {
       "class": "close_button",
       "attributes": ["dirty"],
-      "layer0.texture": "Material Theme/assets/commons/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/commons/dirty_icon--hover.png",
       "layer0.opacity": 1.0,
     },
   
@@ -869,7 +870,7 @@
   
     {
       "class": "scroll_bar_control",
-      "layer0.texture": "Material Theme/assets/darker/normal_bar_vertical.png",
+      "layer0.texture": "Materialize/assets/darker/normal_bar_vertical.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [0, 6],
       "blur": false
@@ -891,7 +892,7 @@
      {
         "class": "scroll_bar_control",
         "attributes": ["horizontal"],
-        "layer0.texture": "Material Theme/assets/darker/normal_bar_horizontal.png",
+        "layer0.texture": "Materialize/assets/darker/normal_bar_horizontal.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [6, 0],
         "blur": false
@@ -913,7 +914,7 @@
   
     {
       "class": "scroll_corner_control",
-      "layer0.texture": "Material Theme/assets/darker/normal_bar_corner.png",
+      "layer0.texture": "Materialize/assets/darker/normal_bar_corner.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [1, 1]
     },
@@ -925,7 +926,7 @@
       "layer0.tint": [38, 50, 255, 255],
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [10, 10],
-      "layer1.texture": "Material Theme/assets/darker/thumb_vertical.png",
+      "layer1.texture": "Materialize/assets/darker/thumb_vertical.png",
       "layer1.opacity": 1.0,
       "layer1.inner_margin": [8, 8],
       "content_margin": [6, 16],
@@ -937,7 +938,7 @@
     {
       "class": "puck_control",
       "attributes": ["horizontal"],
-      "layer0.texture": "Material Theme/assets/darker/thumb_horizontal.png",
+      "layer0.texture": "Materialize/assets/darker/thumb_horizontal.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [10, 0],
       "content_margin": [16, 6],
@@ -974,7 +975,7 @@
     {
       "class": "scroll_bar_control",
       "settings": ["overlay_scroll_bars"],
-      "layer0.texture": "Material Theme/assets/darker/normal_bar_vertical.png",
+      "layer0.texture": "Materialize/assets/darker/normal_bar_vertical.png",
       "layer0.inner_margin": [0, 5],
       "blur": true
     },
@@ -983,10 +984,10 @@
       "class": "scroll_bar_control",
       "settings": ["overlay_scroll_bars"],
       "attributes": ["horizontal"],
-      "layer0.texture": "Material Theme/assets/darker/normal_bar_horizontal.png",
+      "layer0.texture": "Materialize/assets/darker/normal_bar_horizontal.png",
       "layer0.inner_margin": [5, 0],
       "layer0.opacity": 0.0,
-      "layer1.texture": "Material Theme/assets/darker/normal_bar_horizontal.png",
+      "layer1.texture": "Materialize/assets/darker/normal_bar_horizontal.png",
       "layer1.inner_margin": [5, 0],
       "layer1.opacity": 0.0,
       "blur": true
@@ -997,7 +998,7 @@
       "layer0.tint": [38, 50, 56],
       "layer0.opacity": 0.0,
       "layer0.inner_margin": [1, 8, 1, 8],
-      "layer1.texture": "Material Theme/assets/darker/thumb_vertical.png",
+      "layer1.texture": "Materialize/assets/darker/thumb_vertical.png",
       "layer1.inner_margin": [1, 8, 1, 8],
       "content_margin": [6, 16],
       "blur": true
@@ -1009,11 +1010,12 @@
       "layer0.tint": [38, 50, 56],
       "layer0.opacity": 0.0,
       "layer0.inner_margin": [8, 1, 8, 1],
-      "layer1.texture": "Material Theme/assets/darker/thumb_horizontal.png",
+      "layer1.texture": "Materialize/assets/darker/thumb_horizontal.png",
       "layer1.inner_margin": [8, 1, 8, 1],
       "content_margin": [16, 6],
       "blur": true
     },
+  
   
   /* @MINIMAP
    * Minimap settings and behavioring
@@ -1108,7 +1110,7 @@
     // panel switcher
     {
       "class": "panel_button_control",
-      "layer0.texture": "Material Theme/assets/darker/overflow_menu.png",
+      "layer0.texture": "Materialize/assets/darker/overflow_menu.png",
       "layer0.opacity": 1.0,
       "content_margin": [10, 10]
     },
@@ -1116,8 +1118,9 @@
     {
       "class": "panel_button_control",
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/commons/overflow_menu--hover.png",
+      "layer0.texture": "Materialize/assets/commons/overflow_menu--hover.png",
     },
+  
   
   /* @WIDGET PANEL
    * Widget, input, buttons settings and behavioring
@@ -1140,9 +1143,9 @@
   
     {
       "class": "panel_close_button",
-      "layer0.texture": "Material Theme/assets/darker/close_icon.png",
+      "layer0.texture": "Materialize/assets/darker/close_icon.png",
       "layer0.opacity": 0.6,
-      "layer1.texture": "Material Theme/assets/commons/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/commons/close_icon--hover.png",
       "layer1.opacity": 0.0,
       "content_margin": [0, 0] // 8,8 to show
     },
@@ -1158,7 +1161,7 @@
   
     {
       "class": "text_line_control",
-      "layer0.texture": "Material Theme/assets/darker/input_field_border.png",
+      "layer0.texture": "Materialize/assets/darker/input_field_border.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [20, 5, 20, 5],
       "tint_index": 1,
@@ -1170,7 +1173,7 @@
     {
       "class": "text_line_control",
       "parents": [{"class": "overlay_control"}],
-      "layer0.texture": "Material Theme/assets/darker/input_field_border--short.png",
+      "layer0.texture": "Materialize/assets/darker/input_field_border--short.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [32, 2, 32, 2],
       "layer0.draw_center": true,
@@ -1183,10 +1186,10 @@
     {
       "class": "dropdown_button_control",
       "content_margin": [12, 12],
-      "layer0.texture": "Material Theme/assets/darker/overflow_menu.png",
+      "layer0.texture": "Materialize/assets/darker/overflow_menu.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": [0, 0],
-      "layer1.texture": "Material Theme/assets/commons/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/commons/overflow_menu--hover.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": [0, 0],
     },
@@ -1218,10 +1221,10 @@
       "layer0.tint": [33, 33, 33],
       "layer0.opacity": 0.0,
       "layer0.inner_margin": [6, 6],
-      "layer1.texture": "Material Theme/assets/commons/full_button_indented.png",
+      "layer1.texture": "Materialize/assets/commons/full_button_indented.png",
       "layer1.opacity": 0.0,
       "layer1.inner_margin": [6, 6],
-      "layer2.texture": "Material Theme/assets/darker/blue_highlight.png",
+      "layer2.texture": "Materialize/assets/darker/blue_highlight.png",
       "layer2.opacity": { "target": 0.0, "speed": 2.0, "interpolation": "smoothstep" },
       "layer2.inner_margin": [6, 6]
     },
@@ -1260,9 +1263,9 @@
       // Regex Icon
     {
       "class": "icon_regex",
-      "layer0.texture": "Material Theme/assets/commons/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/commons/find_regex--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/darker/find_regex.png",
+      "layer1.texture": "Materialize/assets/darker/find_regex.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1278,9 +1281,9 @@
   
     {
       "class": "icon_case",
-      "layer0.texture": "Material Theme/assets/commons/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/commons/find_case--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/darker/find_case.png",
+      "layer1.texture": "Materialize/assets/darker/find_case.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1296,9 +1299,9 @@
   
     {
       "class": "icon_whole_word",
-      "layer0.texture": "Material Theme/assets/commons/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/commons/find_word--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/darker/find_word.png",
+      "layer1.texture": "Materialize/assets/darker/find_word.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1315,9 +1318,9 @@
   
     {
       "class": "icon_wrap",
-      "layer0.texture": "Material Theme/assets/commons/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/commons/find_wrap--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/darker/find_wrap.png",
+      "layer1.texture": "Materialize/assets/darker/find_wrap.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1333,9 +1336,9 @@
   
     {
       "class": "icon_in_selection",
-      "layer0.texture": "Material Theme/assets/commons/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/commons/find_inselection--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/darker/find_inselection.png",
+      "layer1.texture": "Materialize/assets/darker/find_inselection.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12,12]
     },
@@ -1352,9 +1355,9 @@
   
     {
       "class": "icon_highlight",
-      "layer0.texture": "Material Theme/assets/commons/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/commons/find_highlight--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/darker/find_highlight.png",
+      "layer1.texture": "Materialize/assets/darker/find_highlight.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1370,9 +1373,9 @@
   
     {
       "class": "icon_preserve_case",
-      "layer0.texture": "Material Theme/assets/commons/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/commons/replace_preserve_case--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/darker/replace_preserve_case.png",
+      "layer1.texture": "Materialize/assets/darker/replace_preserve_case.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1388,9 +1391,9 @@
   
     {
       "class": "icon_context",
-      "layer0.texture": "Material Theme/assets/commons/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/commons/find_context--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/darker/find_context.png",
+      "layer1.texture": "Materialize/assets/darker/find_context.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1407,9 +1410,9 @@
   
     {
       "class": "icon_use_buffer",
-      "layer0.texture": "Material Theme/assets/commons/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/commons/use_buffer--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/darker/use_buffer.png",
+      "layer1.texture": "Materialize/assets/darker/use_buffer.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1425,9 +1428,9 @@
   
     {
       "class": "icon_reverse",
-      "layer0.texture": "Material Theme/assets/commons/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/commons/find_reverse--hover.png",
       "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.texture": "Material Theme/assets/darker/find_reverse.png",
+      "layer1.texture": "Materialize/assets/darker/find_reverse.png",
       "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "content_margin": [12, 12]
     },
@@ -1447,7 +1450,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_lime"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-lime/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-lime/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -1482,7 +1485,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-lime/tree_highlight.png",
     },
   
       // Tabs
@@ -1490,7 +1493,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-lime/tab_current.png",
     },
   
       // Tabs close button
@@ -1498,8 +1501,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-lime/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-lime/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-lime/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -1507,7 +1510,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-lime/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -1516,7 +1519,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-lime/dirty_icon--hover.png",
     },
   
     {
@@ -1529,8 +1532,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_lime"],
-      "layer2.texture": "Material Theme/assets/accent-lime/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-lime/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-lime/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-lime/folder_opened--hover.png",
     },
   
     {
@@ -1541,19 +1544,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-lime/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-lime/folder_opened--hover-7.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-0.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-1.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-2.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-3.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-4.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-5.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-5.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-5.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-6.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-6.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-6.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-6.png",
+          "Materialize/assets/accent-lime/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -1569,14 +1572,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-lime/spinner7.png",
-          "Material Theme/assets/accent-lime/spinner6.png",
-          "Material Theme/assets/accent-lime/spinner5.png",
-          "Material Theme/assets/accent-lime/spinner4.png",
-          "Material Theme/assets/accent-lime/spinner3.png",
-          "Material Theme/assets/accent-lime/spinner2.png",
-          "Material Theme/assets/accent-lime/spinner1.png",
-          "Material Theme/assets/accent-lime/spinner.png",
+          "Materialize/assets/accent-lime/spinner7.png",
+          "Materialize/assets/accent-lime/spinner6.png",
+          "Materialize/assets/accent-lime/spinner5.png",
+          "Materialize/assets/accent-lime/spinner4.png",
+          "Materialize/assets/accent-lime/spinner3.png",
+          "Materialize/assets/accent-lime/spinner2.png",
+          "Materialize/assets/accent-lime/spinner1.png",
+          "Materialize/assets/accent-lime/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -1588,27 +1591,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-lime/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-lime/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-lime/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-lime/fold_down--hover.png"
     },
   
       // Panel labels
@@ -1654,7 +1657,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-lime/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -1662,7 +1665,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_lime"],
-      "layer1.texture": "Material Theme/assets/accent-lime/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-lime/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -1672,7 +1675,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-lime/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -1680,7 +1683,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-lime/find_case--hover.png",
     },
   
       // Wholeword
@@ -1688,7 +1691,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-lime/find_word--hover.png",
     },
   
       // Wrap
@@ -1696,7 +1699,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-lime/find_wrap--hover.png",
     },
   
       // In selection
@@ -1704,7 +1707,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-lime/find_inselection--hover.png",
     },
   
   
@@ -1713,7 +1716,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-lime/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -1721,7 +1724,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-lime/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -1729,7 +1732,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-lime/find_context--hover.png",
     },
   
       // Use buffer
@@ -1737,7 +1740,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-lime/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -1745,7 +1748,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_lime"],
-      "layer0.texture": "Material Theme/assets/accent-lime/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-lime/find_reverse--hover.png",
     },
   
   // Purple Accent Color
@@ -1755,7 +1758,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_purple"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-purple/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-purple/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -1790,7 +1793,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-purple/tree_highlight.png",
     },
   
       // Tabs
@@ -1798,7 +1801,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-purple/tab_current.png",
     },
   
       // Tabs close button
@@ -1806,8 +1809,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-purple/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-purple/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-purple/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -1815,7 +1818,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-purple/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -1824,7 +1827,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-purple/dirty_icon--hover.png",
     },
   
     {
@@ -1837,8 +1840,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_purple"],
-      "layer2.texture": "Material Theme/assets/accent-purple/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-purple/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-purple/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-purple/folder_opened--hover.png",
     },
   
     {
@@ -1849,19 +1852,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-purple/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-purple/folder_opened--hover-7.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-0.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-1.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-2.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-3.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-4.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-5.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-5.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-5.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-6.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-6.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-6.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-6.png",
+          "Materialize/assets/accent-purple/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -1877,14 +1880,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-purple/spinner7.png",
-          "Material Theme/assets/accent-purple/spinner6.png",
-          "Material Theme/assets/accent-purple/spinner5.png",
-          "Material Theme/assets/accent-purple/spinner4.png",
-          "Material Theme/assets/accent-purple/spinner3.png",
-          "Material Theme/assets/accent-purple/spinner2.png",
-          "Material Theme/assets/accent-purple/spinner1.png",
-          "Material Theme/assets/accent-purple/spinner.png",
+          "Materialize/assets/accent-purple/spinner7.png",
+          "Materialize/assets/accent-purple/spinner6.png",
+          "Materialize/assets/accent-purple/spinner5.png",
+          "Materialize/assets/accent-purple/spinner4.png",
+          "Materialize/assets/accent-purple/spinner3.png",
+          "Materialize/assets/accent-purple/spinner2.png",
+          "Materialize/assets/accent-purple/spinner1.png",
+          "Materialize/assets/accent-purple/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -1896,27 +1899,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-purple/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-purple/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-purple/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-purple/fold_down--hover.png"
     },
   
       // Panel labels
@@ -1962,7 +1965,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-purple/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -1970,7 +1973,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_purple"],
-      "layer1.texture": "Material Theme/assets/accent-purple/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-purple/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -1980,7 +1983,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-purple/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -1988,7 +1991,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-purple/find_case--hover.png",
     },
   
       // Wholeword
@@ -1996,7 +1999,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-purple/find_word--hover.png",
     },
   
       // Wrap
@@ -2004,7 +2007,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-purple/find_wrap--hover.png",
     },
   
       // In selection
@@ -2012,7 +2015,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-purple/find_inselection--hover.png",
     },
   
   
@@ -2021,7 +2024,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-purple/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -2029,7 +2032,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-purple/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -2037,7 +2040,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-purple/find_context--hover.png",
     },
   
       // Use buffer
@@ -2045,7 +2048,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-purple/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -2053,7 +2056,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_purple"],
-      "layer0.texture": "Material Theme/assets/accent-purple/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-purple/find_reverse--hover.png",
     },
   
   // Red Accent Color
@@ -2063,7 +2066,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_red"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-red/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-red/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -2098,7 +2101,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-red/tree_highlight.png",
     },
   
       // Tabs
@@ -2106,7 +2109,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-red/tab_current.png",
     },
   
       // Tabs close button
@@ -2114,8 +2117,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-red/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-red/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-red/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -2123,7 +2126,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-red/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -2132,7 +2135,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-red/dirty_icon--hover.png",
     },
   
     {
@@ -2145,8 +2148,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_red"],
-      "layer2.texture": "Material Theme/assets/accent-red/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-red/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-red/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-red/folder_opened--hover.png",
     },
   
     {
@@ -2157,19 +2160,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-red/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-red/folder_opened--hover-7.png",
+          "Materialize/assets/accent-red/folder_opened--hover-0.png",
+          "Materialize/assets/accent-red/folder_opened--hover-1.png",
+          "Materialize/assets/accent-red/folder_opened--hover-2.png",
+          "Materialize/assets/accent-red/folder_opened--hover-3.png",
+          "Materialize/assets/accent-red/folder_opened--hover-4.png",
+          "Materialize/assets/accent-red/folder_opened--hover-5.png",
+          "Materialize/assets/accent-red/folder_opened--hover-5.png",
+          "Materialize/assets/accent-red/folder_opened--hover-5.png",
+          "Materialize/assets/accent-red/folder_opened--hover-6.png",
+          "Materialize/assets/accent-red/folder_opened--hover-6.png",
+          "Materialize/assets/accent-red/folder_opened--hover-6.png",
+          "Materialize/assets/accent-red/folder_opened--hover-6.png",
+          "Materialize/assets/accent-red/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -2185,14 +2188,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-red/spinner7.png",
-          "Material Theme/assets/accent-red/spinner6.png",
-          "Material Theme/assets/accent-red/spinner5.png",
-          "Material Theme/assets/accent-red/spinner4.png",
-          "Material Theme/assets/accent-red/spinner3.png",
-          "Material Theme/assets/accent-red/spinner2.png",
-          "Material Theme/assets/accent-red/spinner1.png",
-          "Material Theme/assets/accent-red/spinner.png",
+          "Materialize/assets/accent-red/spinner7.png",
+          "Materialize/assets/accent-red/spinner6.png",
+          "Materialize/assets/accent-red/spinner5.png",
+          "Materialize/assets/accent-red/spinner4.png",
+          "Materialize/assets/accent-red/spinner3.png",
+          "Materialize/assets/accent-red/spinner2.png",
+          "Materialize/assets/accent-red/spinner1.png",
+          "Materialize/assets/accent-red/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -2204,27 +2207,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-red/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-red/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-red/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-red/fold_down--hover.png"
     },
   
       // Panel labels
@@ -2270,7 +2273,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-red/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -2278,7 +2281,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_red"],
-      "layer1.texture": "Material Theme/assets/accent-red/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-red/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -2288,7 +2291,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-red/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -2296,7 +2299,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-red/find_case--hover.png",
     },
   
       // Wholeword
@@ -2304,7 +2307,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-red/find_word--hover.png",
     },
   
       // Wrap
@@ -2312,7 +2315,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-red/find_wrap--hover.png",
     },
   
       // In selection
@@ -2320,7 +2323,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-red/find_inselection--hover.png",
     },
   
   
@@ -2329,7 +2332,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-red/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -2337,7 +2340,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-red/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -2345,7 +2348,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-red/find_context--hover.png",
     },
   
       // Use buffer
@@ -2353,7 +2356,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-red/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -2361,7 +2364,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_red"],
-      "layer0.texture": "Material Theme/assets/accent-red/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-red/find_reverse--hover.png",
     },
   
   // Orange Accent Color
@@ -2371,7 +2374,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_orange"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-orange/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-orange/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -2406,7 +2409,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-orange/tree_highlight.png",
     },
   
       // Tabs
@@ -2414,7 +2417,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-orange/tab_current.png",
     },
   
       // Tabs close button
@@ -2422,8 +2425,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-orange/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-orange/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-orange/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -2431,7 +2434,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-orange/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -2440,7 +2443,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-orange/dirty_icon--hover.png",
     },
   
     {
@@ -2453,8 +2456,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_orange"],
-      "layer2.texture": "Material Theme/assets/accent-orange/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-orange/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-orange/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-orange/folder_opened--hover.png",
     },
   
     {
@@ -2465,19 +2468,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-orange/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-orange/folder_opened--hover-7.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-0.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-1.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-2.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-3.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-4.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-5.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-5.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-5.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-6.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-6.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-6.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-6.png",
+          "Materialize/assets/accent-orange/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -2493,14 +2496,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-orange/spinner7.png",
-          "Material Theme/assets/accent-orange/spinner6.png",
-          "Material Theme/assets/accent-orange/spinner5.png",
-          "Material Theme/assets/accent-orange/spinner4.png",
-          "Material Theme/assets/accent-orange/spinner3.png",
-          "Material Theme/assets/accent-orange/spinner2.png",
-          "Material Theme/assets/accent-orange/spinner1.png",
-          "Material Theme/assets/accent-orange/spinner.png",
+          "Materialize/assets/accent-orange/spinner7.png",
+          "Materialize/assets/accent-orange/spinner6.png",
+          "Materialize/assets/accent-orange/spinner5.png",
+          "Materialize/assets/accent-orange/spinner4.png",
+          "Materialize/assets/accent-orange/spinner3.png",
+          "Materialize/assets/accent-orange/spinner2.png",
+          "Materialize/assets/accent-orange/spinner1.png",
+          "Materialize/assets/accent-orange/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -2512,27 +2515,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-orange/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-orange/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-orange/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-orange/fold_down--hover.png"
     },
   
       // Panel labels
@@ -2578,7 +2581,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-orange/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -2586,7 +2589,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_orange"],
-      "layer1.texture": "Material Theme/assets/accent-orange/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-orange/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -2596,7 +2599,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-orange/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -2604,7 +2607,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-orange/find_case--hover.png",
     },
   
       // Wholeword
@@ -2612,7 +2615,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-orange/find_word--hover.png",
     },
   
       // Wrap
@@ -2620,7 +2623,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-orange/find_wrap--hover.png",
     },
   
       // In selection
@@ -2628,7 +2631,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-orange/find_inselection--hover.png",
     },
   
   
@@ -2637,7 +2640,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-orange/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -2645,7 +2648,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-orange/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -2653,7 +2656,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-orange/find_context--hover.png",
     },
   
       // Use buffer
@@ -2661,7 +2664,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-orange/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -2669,7 +2672,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_orange"],
-      "layer0.texture": "Material Theme/assets/accent-orange/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-orange/find_reverse--hover.png",
     },
   
   // Yellow Accent Color
@@ -2679,7 +2682,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_yellow"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-yellow/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -2714,7 +2717,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-yellow/tree_highlight.png",
     },
   
       // Tabs
@@ -2722,7 +2725,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-yellow/tab_current.png",
     },
   
       // Tabs close button
@@ -2730,8 +2733,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-yellow/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-yellow/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-yellow/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -2739,7 +2742,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-yellow/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -2748,7 +2751,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-yellow/dirty_icon--hover.png",
     },
   
     {
@@ -2761,8 +2764,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_yellow"],
-      "layer2.texture": "Material Theme/assets/accent-yellow/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-yellow/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-yellow/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-yellow/folder_opened--hover.png",
     },
   
     {
@@ -2773,19 +2776,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-yellow/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-yellow/folder_opened--hover-7.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-0.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-1.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-2.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-3.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-4.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-5.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-5.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-5.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-6.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-6.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-6.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-6.png",
+          "Materialize/assets/accent-yellow/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -2801,14 +2804,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-yellow/spinner7.png",
-          "Material Theme/assets/accent-yellow/spinner6.png",
-          "Material Theme/assets/accent-yellow/spinner5.png",
-          "Material Theme/assets/accent-yellow/spinner4.png",
-          "Material Theme/assets/accent-yellow/spinner3.png",
-          "Material Theme/assets/accent-yellow/spinner2.png",
-          "Material Theme/assets/accent-yellow/spinner1.png",
-          "Material Theme/assets/accent-yellow/spinner.png",
+          "Materialize/assets/accent-yellow/spinner7.png",
+          "Materialize/assets/accent-yellow/spinner6.png",
+          "Materialize/assets/accent-yellow/spinner5.png",
+          "Materialize/assets/accent-yellow/spinner4.png",
+          "Materialize/assets/accent-yellow/spinner3.png",
+          "Materialize/assets/accent-yellow/spinner2.png",
+          "Materialize/assets/accent-yellow/spinner1.png",
+          "Materialize/assets/accent-yellow/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -2820,27 +2823,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-yellow/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-yellow/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-yellow/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-yellow/fold_down--hover.png"
     },
   
       // Panel labels
@@ -2886,7 +2889,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-yellow/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -2894,7 +2897,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_yellow"],
-      "layer1.texture": "Material Theme/assets/accent-yellow/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-yellow/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -2904,7 +2907,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-yellow/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -2912,7 +2915,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-yellow/find_case--hover.png",
     },
   
       // Wholeword
@@ -2920,7 +2923,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-yellow/find_word--hover.png",
     },
   
       // Wrap
@@ -2928,7 +2931,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-yellow/find_wrap--hover.png",
     },
   
       // In selection
@@ -2936,7 +2939,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-yellow/find_inselection--hover.png",
     },
   
   
@@ -2945,7 +2948,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-yellow/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -2953,7 +2956,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-yellow/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -2961,7 +2964,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-yellow/find_context--hover.png",
     },
   
       // Use buffer
@@ -2969,7 +2972,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-yellow/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -2977,7 +2980,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_yellow"],
-      "layer0.texture": "Material Theme/assets/accent-yellow/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-yellow/find_reverse--hover.png",
     },
   
   // Indigo Accent Color
@@ -2987,7 +2990,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_indigo"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-indigo/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -3022,7 +3025,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_indigo"],
-      "layer1.texture": "Material Theme/assets/accent-indigo/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-indigo/tree_highlight.png",
     },
   
       // Tabs
@@ -3030,7 +3033,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_indigo"],
-      "layer1.texture": "Material Theme/assets/accent-indigo/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-indigo/tab_current.png",
     },
   
       // Tabs close button
@@ -3038,8 +3041,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_indigo"],
-      "layer1.texture": "Material Theme/assets/accent-indigo/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-indigo/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-indigo/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-indigo/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -3047,7 +3050,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_indigo"],
-      "layer1.texture": "Material Theme/assets/accent-indigo/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-indigo/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -3056,7 +3059,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_indigo"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-indigo/dirty_icon--hover.png",
     },
   
     {
@@ -3069,8 +3072,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_indigo"],
-      "layer2.texture": "Material Theme/assets/accent-indigo/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-indigo/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-indigo/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-indigo/folder_opened--hover.png",
     },
   
     {
@@ -3081,19 +3084,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-indigo/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-indigo/folder_opened--hover-7.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-0.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-1.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-2.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-3.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-4.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-5.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-5.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-5.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-6.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-6.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-6.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-6.png",
+          "Materialize/assets/accent-indigo/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -3109,14 +3112,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-indigo/spinner7.png",
-          "Material Theme/assets/accent-indigo/spinner6.png",
-          "Material Theme/assets/accent-indigo/spinner5.png",
-          "Material Theme/assets/accent-indigo/spinner4.png",
-          "Material Theme/assets/accent-indigo/spinner3.png",
-          "Material Theme/assets/accent-indigo/spinner2.png",
-          "Material Theme/assets/accent-indigo/spinner1.png",
-          "Material Theme/assets/accent-indigo/spinner.png",
+          "Materialize/assets/accent-indigo/spinner7.png",
+          "Materialize/assets/accent-indigo/spinner6.png",
+          "Materialize/assets/accent-indigo/spinner5.png",
+          "Materialize/assets/accent-indigo/spinner4.png",
+          "Materialize/assets/accent-indigo/spinner3.png",
+          "Materialize/assets/accent-indigo/spinner2.png",
+          "Materialize/assets/accent-indigo/spinner1.png",
+          "Materialize/assets/accent-indigo/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -3128,27 +3131,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_indigo"],
-      "layer1.texture": "Material Theme/assets/accent-indigo/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-indigo/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_indigo"],
-      "layer1.texture": "Material Theme/assets/accent-indigo/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-indigo/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_indigo"],
-      "layer1.texture": "Material Theme/assets/accent-indigo/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-indigo/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_indigo"],
-      "layer1.texture": "Material Theme/assets/accent-indigo/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-indigo/fold_down--hover.png"
     },
   
       // Panel labels
@@ -3194,7 +3197,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_indigo"],
-      "layer1.texture": "Material Theme/assets/accent-indigo/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-indigo/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -3202,7 +3205,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_indigo"],
-      "layer1.texture": "Material Theme/assets/accent-indigo/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-indigo/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -3212,7 +3215,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_indigo"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-indigo/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -3220,7 +3223,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_indigo"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-indigo/find_case--hover.png",
     },
   
       // Wholeword
@@ -3228,7 +3231,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_indigo"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-indigo/find_word--hover.png",
     },
   
       // Wrap
@@ -3236,7 +3239,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_indigo"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-indigo/find_wrap--hover.png",
     },
   
       // In selection
@@ -3244,7 +3247,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_indigo"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-indigo/find_inselection--hover.png",
     },
   
   
@@ -3253,7 +3256,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_indigo"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-indigo/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -3261,7 +3264,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_indigo"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-indigo/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -3269,7 +3272,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_indigo"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-indigo/find_context--hover.png",
     },
   
       // Use buffer
@@ -3277,7 +3280,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_indigo"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-indigo/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -3285,7 +3288,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_indigo"],
-      "layer0.texture": "Material Theme/assets/accent-indigo/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-indigo/find_reverse--hover.png",
     },
   
   // Pink Accent Color
@@ -3295,7 +3298,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_pink"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-pink/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-pink/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -3330,7 +3333,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_pink"],
-      "layer1.texture": "Material Theme/assets/accent-pink/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-pink/tree_highlight.png",
     },
   
       // Tabs
@@ -3338,7 +3341,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_pink"],
-      "layer1.texture": "Material Theme/assets/accent-pink/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-pink/tab_current.png",
     },
   
       // Tabs close button
@@ -3346,8 +3349,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_pink"],
-      "layer1.texture": "Material Theme/assets/accent-pink/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-pink/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-pink/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-pink/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -3355,7 +3358,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_pink"],
-      "layer1.texture": "Material Theme/assets/accent-pink/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-pink/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -3364,7 +3367,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_pink"],
-      "layer0.texture": "Material Theme/assets/accent-pink/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-pink/dirty_icon--hover.png",
     },
   
     {
@@ -3377,8 +3380,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_pink"],
-      "layer2.texture": "Material Theme/assets/accent-pink/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-pink/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-pink/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-pink/folder_opened--hover.png",
     },
   
     {
@@ -3389,19 +3392,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-pink/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-pink/folder_opened--hover-7.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-0.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-1.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-2.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-3.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-4.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-5.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-5.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-5.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-6.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-6.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-6.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-6.png",
+          "Materialize/assets/accent-pink/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -3417,14 +3420,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-pink/spinner7.png",
-          "Material Theme/assets/accent-pink/spinner6.png",
-          "Material Theme/assets/accent-pink/spinner5.png",
-          "Material Theme/assets/accent-pink/spinner4.png",
-          "Material Theme/assets/accent-pink/spinner3.png",
-          "Material Theme/assets/accent-pink/spinner2.png",
-          "Material Theme/assets/accent-pink/spinner1.png",
-          "Material Theme/assets/accent-pink/spinner.png",
+          "Materialize/assets/accent-pink/spinner7.png",
+          "Materialize/assets/accent-pink/spinner6.png",
+          "Materialize/assets/accent-pink/spinner5.png",
+          "Materialize/assets/accent-pink/spinner4.png",
+          "Materialize/assets/accent-pink/spinner3.png",
+          "Materialize/assets/accent-pink/spinner2.png",
+          "Materialize/assets/accent-pink/spinner1.png",
+          "Materialize/assets/accent-pink/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -3436,27 +3439,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_pink"],
-      "layer1.texture": "Material Theme/assets/accent-pink/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-pink/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_pink"],
-      "layer1.texture": "Material Theme/assets/accent-pink/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-pink/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_pink"],
-      "layer1.texture": "Material Theme/assets/accent-pink/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-pink/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_pink"],
-      "layer1.texture": "Material Theme/assets/accent-pink/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-pink/fold_down--hover.png"
     },
   
       // Panel labels
@@ -3502,7 +3505,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_pink"],
-      "layer1.texture": "Material Theme/assets/accent-pink/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-pink/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -3510,7 +3513,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_pink"],
-      "layer1.texture": "Material Theme/assets/accent-pink/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-pink/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -3520,7 +3523,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_pink"],
-      "layer0.texture": "Material Theme/assets/accent-pink/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-pink/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -3528,7 +3531,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_pink"],
-      "layer0.texture": "Material Theme/assets/accent-pink/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-pink/find_case--hover.png",
     },
   
       // Wholeword
@@ -3536,7 +3539,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_pink"],
-      "layer0.texture": "Material Theme/assets/accent-pink/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-pink/find_word--hover.png",
     },
   
       // Wrap
@@ -3544,7 +3547,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_pink"],
-      "layer0.texture": "Material Theme/assets/accent-pink/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-pink/find_wrap--hover.png",
     },
   
       // In selection
@@ -3552,7 +3555,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_pink"],
-      "layer0.texture": "Material Theme/assets/accent-pink/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-pink/find_inselection--hover.png",
     },
   
   
@@ -3561,7 +3564,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_pink"],
-      "layer0.texture": "Material Theme/assets/accent-pink/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-pink/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -3569,7 +3572,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_pink"],
-      "layer0.texture": "Material Theme/assets/accent-pink/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-pink/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -3577,7 +3580,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_pink"],
-      "layer0.texture": "Material Theme/assets/accent-pink/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-pink/find_context--hover.png",
     },
   
       // Use buffer
@@ -3585,7 +3588,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_pink"],
-      "layer0.texture": "Material Theme/assets/accent-pink/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-pink/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -3593,7 +3596,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_pink"],
-      "layer0.texture": "Material Theme/assets/accent-pink/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-pink/find_reverse--hover.png",
     },
   
   // Blue Accent Color
@@ -3603,7 +3606,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_blue"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-blue/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-blue/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -3638,7 +3641,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_blue"],
-      "layer1.texture": "Material Theme/assets/accent-blue/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-blue/tree_highlight.png",
     },
   
       // Tabs
@@ -3646,7 +3649,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_blue"],
-      "layer1.texture": "Material Theme/assets/accent-blue/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-blue/tab_current.png",
     },
   
       // Tabs close button
@@ -3654,8 +3657,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_blue"],
-      "layer1.texture": "Material Theme/assets/accent-blue/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-blue/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-blue/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-blue/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -3663,7 +3666,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_blue"],
-      "layer1.texture": "Material Theme/assets/accent-blue/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-blue/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -3672,7 +3675,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_blue"],
-      "layer0.texture": "Material Theme/assets/accent-blue/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-blue/dirty_icon--hover.png",
     },
   
     {
@@ -3685,8 +3688,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_blue"],
-      "layer2.texture": "Material Theme/assets/accent-blue/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-blue/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-blue/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-blue/folder_opened--hover.png",
     },
   
     {
@@ -3697,19 +3700,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-blue/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-blue/folder_opened--hover-7.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-0.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-1.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-2.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-3.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-4.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-5.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-5.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-5.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-6.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-6.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-6.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-6.png",
+          "Materialize/assets/accent-blue/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -3725,14 +3728,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-blue/spinner7.png",
-          "Material Theme/assets/accent-blue/spinner6.png",
-          "Material Theme/assets/accent-blue/spinner5.png",
-          "Material Theme/assets/accent-blue/spinner4.png",
-          "Material Theme/assets/accent-blue/spinner3.png",
-          "Material Theme/assets/accent-blue/spinner2.png",
-          "Material Theme/assets/accent-blue/spinner1.png",
-          "Material Theme/assets/accent-blue/spinner.png",
+          "Materialize/assets/accent-blue/spinner7.png",
+          "Materialize/assets/accent-blue/spinner6.png",
+          "Materialize/assets/accent-blue/spinner5.png",
+          "Materialize/assets/accent-blue/spinner4.png",
+          "Materialize/assets/accent-blue/spinner3.png",
+          "Materialize/assets/accent-blue/spinner2.png",
+          "Materialize/assets/accent-blue/spinner1.png",
+          "Materialize/assets/accent-blue/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -3744,27 +3747,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_blue"],
-      "layer1.texture": "Material Theme/assets/accent-blue/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-blue/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_blue"],
-      "layer1.texture": "Material Theme/assets/accent-blue/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-blue/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_blue"],
-      "layer1.texture": "Material Theme/assets/accent-blue/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-blue/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_blue"],
-      "layer1.texture": "Material Theme/assets/accent-blue/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-blue/fold_down--hover.png"
     },
   
       // Panel labels
@@ -3810,7 +3813,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_blue"],
-      "layer1.texture": "Material Theme/assets/accent-blue/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-blue/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -3818,7 +3821,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_blue"],
-      "layer1.texture": "Material Theme/assets/accent-blue/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-blue/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -3828,7 +3831,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_blue"],
-      "layer0.texture": "Material Theme/assets/accent-blue/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-blue/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -3836,7 +3839,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_blue"],
-      "layer0.texture": "Material Theme/assets/accent-blue/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-blue/find_case--hover.png",
     },
   
       // Wholeword
@@ -3844,7 +3847,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_blue"],
-      "layer0.texture": "Material Theme/assets/accent-blue/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-blue/find_word--hover.png",
     },
   
       // Wrap
@@ -3852,7 +3855,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_blue"],
-      "layer0.texture": "Material Theme/assets/accent-blue/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-blue/find_wrap--hover.png",
     },
   
       // In selection
@@ -3860,7 +3863,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_blue"],
-      "layer0.texture": "Material Theme/assets/accent-blue/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-blue/find_inselection--hover.png",
     },
   
   
@@ -3869,7 +3872,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_blue"],
-      "layer0.texture": "Material Theme/assets/accent-blue/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-blue/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -3877,7 +3880,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_blue"],
-      "layer0.texture": "Material Theme/assets/accent-blue/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-blue/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -3885,7 +3888,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_blue"],
-      "layer0.texture": "Material Theme/assets/accent-blue/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-blue/find_context--hover.png",
     },
   
       // Use buffer
@@ -3893,7 +3896,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_blue"],
-      "layer0.texture": "Material Theme/assets/accent-blue/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-blue/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -3901,7 +3904,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_blue"],
-      "layer0.texture": "Material Theme/assets/accent-blue/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-blue/find_reverse--hover.png",
     },
   
   // Cyan Accent Color
@@ -3911,7 +3914,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_cyan"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-cyan/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -3946,7 +3949,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_cyan"],
-      "layer1.texture": "Material Theme/assets/accent-cyan/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-cyan/tree_highlight.png",
     },
   
       // Tabs
@@ -3954,7 +3957,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_cyan"],
-      "layer1.texture": "Material Theme/assets/accent-cyan/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-cyan/tab_current.png",
     },
   
       // Tabs close button
@@ -3962,8 +3965,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_cyan"],
-      "layer1.texture": "Material Theme/assets/accent-cyan/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-cyan/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-cyan/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-cyan/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -3971,7 +3974,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_cyan"],
-      "layer1.texture": "Material Theme/assets/accent-cyan/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-cyan/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -3980,7 +3983,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_cyan"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-cyan/dirty_icon--hover.png",
     },
   
     {
@@ -3993,8 +3996,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_cyan"],
-      "layer2.texture": "Material Theme/assets/accent-cyan/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-cyan/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-cyan/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-cyan/folder_opened--hover.png",
     },
   
     {
@@ -4005,19 +4008,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-cyan/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-cyan/folder_opened--hover-7.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-0.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-1.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-2.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-3.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-4.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-5.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-5.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-5.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-6.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-6.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-6.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-6.png",
+          "Materialize/assets/accent-cyan/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -4033,14 +4036,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-cyan/spinner7.png",
-          "Material Theme/assets/accent-cyan/spinner6.png",
-          "Material Theme/assets/accent-cyan/spinner5.png",
-          "Material Theme/assets/accent-cyan/spinner4.png",
-          "Material Theme/assets/accent-cyan/spinner3.png",
-          "Material Theme/assets/accent-cyan/spinner2.png",
-          "Material Theme/assets/accent-cyan/spinner1.png",
-          "Material Theme/assets/accent-cyan/spinner.png",
+          "Materialize/assets/accent-cyan/spinner7.png",
+          "Materialize/assets/accent-cyan/spinner6.png",
+          "Materialize/assets/accent-cyan/spinner5.png",
+          "Materialize/assets/accent-cyan/spinner4.png",
+          "Materialize/assets/accent-cyan/spinner3.png",
+          "Materialize/assets/accent-cyan/spinner2.png",
+          "Materialize/assets/accent-cyan/spinner1.png",
+          "Materialize/assets/accent-cyan/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -4052,27 +4055,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_cyan"],
-      "layer1.texture": "Material Theme/assets/accent-cyan/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-cyan/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_cyan"],
-      "layer1.texture": "Material Theme/assets/accent-cyan/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-cyan/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_cyan"],
-      "layer1.texture": "Material Theme/assets/accent-cyan/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-cyan/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_cyan"],
-      "layer1.texture": "Material Theme/assets/accent-cyan/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-cyan/fold_down--hover.png"
     },
   
       // Panel labels
@@ -4118,7 +4121,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_cyan"],
-      "layer1.texture": "Material Theme/assets/accent-cyan/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-cyan/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -4126,7 +4129,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_cyan"],
-      "layer1.texture": "Material Theme/assets/accent-cyan/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-cyan/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -4136,7 +4139,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_cyan"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-cyan/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -4144,7 +4147,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_cyan"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-cyan/find_case--hover.png",
     },
   
       // Wholeword
@@ -4152,7 +4155,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_cyan"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-cyan/find_word--hover.png",
     },
   
       // Wrap
@@ -4160,7 +4163,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_cyan"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-cyan/find_wrap--hover.png",
     },
   
       // In selection
@@ -4168,7 +4171,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_cyan"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-cyan/find_inselection--hover.png",
     },
   
   
@@ -4177,7 +4180,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_cyan"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-cyan/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -4185,7 +4188,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_cyan"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-cyan/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -4193,7 +4196,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_cyan"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-cyan/find_context--hover.png",
     },
   
       // Use buffer
@@ -4201,7 +4204,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_cyan"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-cyan/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -4209,7 +4212,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_cyan"],
-      "layer0.texture": "Material Theme/assets/accent-cyan/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-cyan/find_reverse--hover.png",
     },
   
   // Bright Teal Accent Color
@@ -4219,7 +4222,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_bright-teal"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-bright-teal/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -4254,7 +4257,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer1.texture": "Material Theme/assets/accent-bright-teal/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-bright-teal/tree_highlight.png",
     },
   
       // Tabs
@@ -4262,7 +4265,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer1.texture": "Material Theme/assets/accent-bright-teal/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-bright-teal/tab_current.png",
     },
   
       // Tabs close button
@@ -4270,8 +4273,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer1.texture": "Material Theme/assets/accent-bright-teal/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-bright-teal/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-bright-teal/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-bright-teal/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -4279,7 +4282,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer1.texture": "Material Theme/assets/accent-bright-teal/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-bright-teal/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -4288,7 +4291,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_bright-teal"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-bright-teal/dirty_icon--hover.png",
     },
   
     {
@@ -4301,8 +4304,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer2.texture": "Material Theme/assets/accent-bright-teal/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-bright-teal/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-bright-teal/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-bright-teal/folder_opened--hover.png",
     },
   
     {
@@ -4313,19 +4316,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-bright-teal/folder_opened--hover-7.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-0.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-1.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-2.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-3.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-4.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-5.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-5.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-5.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-6.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-6.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-6.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-6.png",
+          "Materialize/assets/accent-bright-teal/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -4341,14 +4344,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-bright-teal/spinner7.png",
-          "Material Theme/assets/accent-bright-teal/spinner6.png",
-          "Material Theme/assets/accent-bright-teal/spinner5.png",
-          "Material Theme/assets/accent-bright-teal/spinner4.png",
-          "Material Theme/assets/accent-bright-teal/spinner3.png",
-          "Material Theme/assets/accent-bright-teal/spinner2.png",
-          "Material Theme/assets/accent-bright-teal/spinner1.png",
-          "Material Theme/assets/accent-bright-teal/spinner.png",
+          "Materialize/assets/accent-bright-teal/spinner7.png",
+          "Materialize/assets/accent-bright-teal/spinner6.png",
+          "Materialize/assets/accent-bright-teal/spinner5.png",
+          "Materialize/assets/accent-bright-teal/spinner4.png",
+          "Materialize/assets/accent-bright-teal/spinner3.png",
+          "Materialize/assets/accent-bright-teal/spinner2.png",
+          "Materialize/assets/accent-bright-teal/spinner1.png",
+          "Materialize/assets/accent-bright-teal/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -4360,27 +4363,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer1.texture": "Material Theme/assets/accent-bright-teal/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-bright-teal/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer1.texture": "Material Theme/assets/accent-bright-teal/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-bright-teal/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer1.texture": "Material Theme/assets/accent-bright-teal/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-bright-teal/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_bright-teal"],
-      "layer1.texture": "Material Theme/assets/accent-bright-teal/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-bright-teal/fold_down--hover.png"
     },
   
       // Panel labels
@@ -4426,7 +4429,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer1.texture": "Material Theme/assets/accent-bright-teal/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-bright-teal/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -4434,7 +4437,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer1.texture": "Material Theme/assets/accent-bright-teal/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-bright-teal/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -4444,7 +4447,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-bright-teal/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -4452,7 +4455,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-bright-teal/find_case--hover.png",
     },
   
       // Wholeword
@@ -4460,7 +4463,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-bright-teal/find_word--hover.png",
     },
   
       // Wrap
@@ -4468,7 +4471,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-bright-teal/find_wrap--hover.png",
     },
   
       // In selection
@@ -4476,7 +4479,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-bright-teal/find_inselection--hover.png",
     },
   
   
@@ -4485,7 +4488,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-bright-teal/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -4493,7 +4496,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-bright-teal/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -4501,7 +4504,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-bright-teal/find_context--hover.png",
     },
   
       // Use buffer
@@ -4509,7 +4512,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-bright-teal/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -4517,7 +4520,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_bright-teal"],
-      "layer0.texture": "Material Theme/assets/accent-bright-teal/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-bright-teal/find_reverse--hover.png",
     },
   
   // Acid Lime Accent Color
@@ -4527,7 +4530,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_acid-lime"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-acid-lime/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -4562,7 +4565,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer1.texture": "Material Theme/assets/accent-acid-lime/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-acid-lime/tree_highlight.png",
     },
   
       // Tabs
@@ -4570,7 +4573,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer1.texture": "Material Theme/assets/accent-acid-lime/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-acid-lime/tab_current.png",
     },
   
       // Tabs close button
@@ -4578,8 +4581,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer1.texture": "Material Theme/assets/accent-acid-lime/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-acid-lime/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-acid-lime/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-acid-lime/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -4587,7 +4590,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer1.texture": "Material Theme/assets/accent-acid-lime/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-acid-lime/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -4596,7 +4599,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_acid-lime"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-acid-lime/dirty_icon--hover.png",
     },
   
     {
@@ -4609,8 +4612,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer2.texture": "Material Theme/assets/accent-acid-lime/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-acid-lime/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-acid-lime/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-acid-lime/folder_opened--hover.png",
     },
   
     {
@@ -4621,19 +4624,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-acid-lime/folder_opened--hover-7.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-0.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-1.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-2.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-3.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-4.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-5.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-5.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-5.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-6.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-6.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-6.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-6.png",
+          "Materialize/assets/accent-acid-lime/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -4649,14 +4652,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-acid-lime/spinner7.png",
-          "Material Theme/assets/accent-acid-lime/spinner6.png",
-          "Material Theme/assets/accent-acid-lime/spinner5.png",
-          "Material Theme/assets/accent-acid-lime/spinner4.png",
-          "Material Theme/assets/accent-acid-lime/spinner3.png",
-          "Material Theme/assets/accent-acid-lime/spinner2.png",
-          "Material Theme/assets/accent-acid-lime/spinner1.png",
-          "Material Theme/assets/accent-acid-lime/spinner.png",
+          "Materialize/assets/accent-acid-lime/spinner7.png",
+          "Materialize/assets/accent-acid-lime/spinner6.png",
+          "Materialize/assets/accent-acid-lime/spinner5.png",
+          "Materialize/assets/accent-acid-lime/spinner4.png",
+          "Materialize/assets/accent-acid-lime/spinner3.png",
+          "Materialize/assets/accent-acid-lime/spinner2.png",
+          "Materialize/assets/accent-acid-lime/spinner1.png",
+          "Materialize/assets/accent-acid-lime/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -4668,27 +4671,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer1.texture": "Material Theme/assets/accent-acid-lime/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-acid-lime/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer1.texture": "Material Theme/assets/accent-acid-lime/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-acid-lime/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer1.texture": "Material Theme/assets/accent-acid-lime/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-acid-lime/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_acid-lime"],
-      "layer1.texture": "Material Theme/assets/accent-acid-lime/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-acid-lime/fold_down--hover.png"
     },
   
       // Panel labels
@@ -4734,7 +4737,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer1.texture": "Material Theme/assets/accent-acid-lime/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-acid-lime/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -4742,7 +4745,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer1.texture": "Material Theme/assets/accent-acid-lime/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-acid-lime/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -4752,7 +4755,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-acid-lime/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -4760,7 +4763,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-acid-lime/find_case--hover.png",
     },
   
       // Wholeword
@@ -4768,7 +4771,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-acid-lime/find_word--hover.png",
     },
   
       // Wrap
@@ -4776,7 +4779,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-acid-lime/find_wrap--hover.png",
     },
   
       // In selection
@@ -4784,7 +4787,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-acid-lime/find_inselection--hover.png",
     },
   
   
@@ -4793,7 +4796,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-acid-lime/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -4801,7 +4804,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-acid-lime/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -4809,7 +4812,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-acid-lime/find_context--hover.png",
     },
   
       // Use buffer
@@ -4817,7 +4820,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-acid-lime/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -4825,7 +4828,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_acid-lime"],
-      "layer0.texture": "Material Theme/assets/accent-acid-lime/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-acid-lime/find_reverse--hover.png",
     },
   
   // Graphite Accent Color
@@ -4835,7 +4838,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_graphite"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-graphite/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -4870,7 +4873,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_graphite"],
-      "layer1.texture": "Material Theme/assets/accent-graphite/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-graphite/tree_highlight.png",
     },
   
       // Tabs
@@ -4878,7 +4881,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_graphite"],
-      "layer1.texture": "Material Theme/assets/accent-graphite/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-graphite/tab_current.png",
     },
   
       // Tabs close button
@@ -4886,8 +4889,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_graphite"],
-      "layer1.texture": "Material Theme/assets/accent-graphite/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-graphite/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-graphite/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-graphite/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -4895,7 +4898,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_graphite"],
-      "layer1.texture": "Material Theme/assets/accent-graphite/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-graphite/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -4904,7 +4907,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_graphite"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-graphite/dirty_icon--hover.png",
     },
   
     {
@@ -4917,8 +4920,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_graphite"],
-      "layer2.texture": "Material Theme/assets/accent-graphite/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-graphite/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-graphite/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-graphite/folder_opened--hover.png",
     },
   
     {
@@ -4929,19 +4932,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-graphite/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-graphite/folder_opened--hover-7.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-0.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-1.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-2.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-3.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-4.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-5.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-5.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-5.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-6.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-6.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-6.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-6.png",
+          "Materialize/assets/accent-graphite/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -4957,14 +4960,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-graphite/spinner7.png",
-          "Material Theme/assets/accent-graphite/spinner6.png",
-          "Material Theme/assets/accent-graphite/spinner5.png",
-          "Material Theme/assets/accent-graphite/spinner4.png",
-          "Material Theme/assets/accent-graphite/spinner3.png",
-          "Material Theme/assets/accent-graphite/spinner2.png",
-          "Material Theme/assets/accent-graphite/spinner1.png",
-          "Material Theme/assets/accent-graphite/spinner.png",
+          "Materialize/assets/accent-graphite/spinner7.png",
+          "Materialize/assets/accent-graphite/spinner6.png",
+          "Materialize/assets/accent-graphite/spinner5.png",
+          "Materialize/assets/accent-graphite/spinner4.png",
+          "Materialize/assets/accent-graphite/spinner3.png",
+          "Materialize/assets/accent-graphite/spinner2.png",
+          "Materialize/assets/accent-graphite/spinner1.png",
+          "Materialize/assets/accent-graphite/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -4976,27 +4979,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_graphite"],
-      "layer1.texture": "Material Theme/assets/accent-graphite/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-graphite/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_graphite"],
-      "layer1.texture": "Material Theme/assets/accent-graphite/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-graphite/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_graphite"],
-      "layer1.texture": "Material Theme/assets/accent-graphite/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-graphite/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_graphite"],
-      "layer1.texture": "Material Theme/assets/accent-graphite/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-graphite/fold_down--hover.png"
     },
   
       // Panel labels
@@ -5042,7 +5045,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_graphite"],
-      "layer1.texture": "Material Theme/assets/accent-graphite/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-graphite/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -5050,7 +5053,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_graphite"],
-      "layer1.texture": "Material Theme/assets/accent-graphite/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-graphite/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -5060,7 +5063,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_graphite"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-graphite/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -5068,7 +5071,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_graphite"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-graphite/find_case--hover.png",
     },
   
       // Wholeword
@@ -5076,7 +5079,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_graphite"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-graphite/find_word--hover.png",
     },
   
       // Wrap
@@ -5084,7 +5087,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_graphite"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-graphite/find_wrap--hover.png",
     },
   
       // In selection
@@ -5092,7 +5095,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_graphite"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-graphite/find_inselection--hover.png",
     },
   
   
@@ -5101,7 +5104,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_graphite"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-graphite/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -5109,7 +5112,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_graphite"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-graphite/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -5117,7 +5120,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_graphite"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-graphite/find_context--hover.png",
     },
   
       // Use buffer
@@ -5125,7 +5128,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_graphite"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-graphite/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -5133,7 +5136,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_graphite"],
-      "layer0.texture": "Material Theme/assets/accent-graphite/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-graphite/find_reverse--hover.png",
     },
   
   // Breaking Bad Accent Color
@@ -5143,7 +5146,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_brba"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-brba/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-brba/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -5178,7 +5181,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_brba"],
-      "layer1.texture": "Material Theme/assets/accent-brba/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-brba/tree_highlight.png",
     },
   
       // Tabs
@@ -5186,7 +5189,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_brba"],
-      "layer1.texture": "Material Theme/assets/accent-brba/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-brba/tab_current.png",
     },
   
       // Tabs close button
@@ -5194,8 +5197,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_brba"],
-      "layer1.texture": "Material Theme/assets/accent-brba/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-brba/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-brba/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-brba/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -5203,7 +5206,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_brba"],
-      "layer1.texture": "Material Theme/assets/accent-brba/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-brba/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -5212,7 +5215,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_brba"],
-      "layer0.texture": "Material Theme/assets/accent-brba/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-brba/dirty_icon--hover.png",
     },
   
     {
@@ -5225,8 +5228,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_brba"],
-      "layer2.texture": "Material Theme/assets/accent-brba/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-brba/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-brba/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-brba/folder_opened--hover.png",
     },
   
     {
@@ -5237,19 +5240,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-brba/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-brba/folder_opened--hover-7.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-0.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-1.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-2.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-3.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-4.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-5.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-5.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-5.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-6.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-6.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-6.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-6.png",
+          "Materialize/assets/accent-brba/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -5265,14 +5268,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-brba/spinner7.png",
-          "Material Theme/assets/accent-brba/spinner6.png",
-          "Material Theme/assets/accent-brba/spinner5.png",
-          "Material Theme/assets/accent-brba/spinner4.png",
-          "Material Theme/assets/accent-brba/spinner3.png",
-          "Material Theme/assets/accent-brba/spinner2.png",
-          "Material Theme/assets/accent-brba/spinner1.png",
-          "Material Theme/assets/accent-brba/spinner.png",
+          "Materialize/assets/accent-brba/spinner7.png",
+          "Materialize/assets/accent-brba/spinner6.png",
+          "Materialize/assets/accent-brba/spinner5.png",
+          "Materialize/assets/accent-brba/spinner4.png",
+          "Materialize/assets/accent-brba/spinner3.png",
+          "Materialize/assets/accent-brba/spinner2.png",
+          "Materialize/assets/accent-brba/spinner1.png",
+          "Materialize/assets/accent-brba/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -5284,27 +5287,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_brba"],
-      "layer1.texture": "Material Theme/assets/accent-brba/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-brba/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_brba"],
-      "layer1.texture": "Material Theme/assets/accent-brba/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-brba/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_brba"],
-      "layer1.texture": "Material Theme/assets/accent-brba/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-brba/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_brba"],
-      "layer1.texture": "Material Theme/assets/accent-brba/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-brba/fold_down--hover.png"
     },
   
       // Panel labels
@@ -5350,7 +5353,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_brba"],
-      "layer1.texture": "Material Theme/assets/accent-brba/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-brba/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -5358,7 +5361,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_brba"],
-      "layer1.texture": "Material Theme/assets/accent-brba/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-brba/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -5368,7 +5371,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_brba"],
-      "layer0.texture": "Material Theme/assets/accent-brba/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-brba/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -5376,7 +5379,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_brba"],
-      "layer0.texture": "Material Theme/assets/accent-brba/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-brba/find_case--hover.png",
     },
   
       // Wholeword
@@ -5384,7 +5387,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_brba"],
-      "layer0.texture": "Material Theme/assets/accent-brba/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-brba/find_word--hover.png",
     },
   
       // Wrap
@@ -5392,7 +5395,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_brba"],
-      "layer0.texture": "Material Theme/assets/accent-brba/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-brba/find_wrap--hover.png",
     },
   
       // In selection
@@ -5400,7 +5403,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_brba"],
-      "layer0.texture": "Material Theme/assets/accent-brba/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-brba/find_inselection--hover.png",
     },
   
   
@@ -5409,7 +5412,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_brba"],
-      "layer0.texture": "Material Theme/assets/accent-brba/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-brba/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -5417,7 +5420,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_brba"],
-      "layer0.texture": "Material Theme/assets/accent-brba/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-brba/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -5425,7 +5428,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_brba"],
-      "layer0.texture": "Material Theme/assets/accent-brba/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-brba/find_context--hover.png",
     },
   
       // Use buffer
@@ -5433,7 +5436,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_brba"],
-      "layer0.texture": "Material Theme/assets/accent-brba/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-brba/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -5441,7 +5444,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_brba"],
-      "layer0.texture": "Material Theme/assets/accent-brba/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-brba/find_reverse--hover.png",
     },
   
   // Sky Accent Color
@@ -5451,7 +5454,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_sky"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-sky/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-sky/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -5486,7 +5489,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_sky"],
-      "layer1.texture": "Material Theme/assets/accent-sky/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-sky/tree_highlight.png",
     },
   
       // Tabs
@@ -5494,7 +5497,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_sky"],
-      "layer1.texture": "Material Theme/assets/accent-sky/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-sky/tab_current.png",
     },
   
       // Tabs close button
@@ -5502,8 +5505,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_sky"],
-      "layer1.texture": "Material Theme/assets/accent-sky/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-sky/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-sky/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-sky/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -5511,7 +5514,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_sky"],
-      "layer1.texture": "Material Theme/assets/accent-sky/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-sky/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -5520,7 +5523,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_sky"],
-      "layer0.texture": "Material Theme/assets/accent-sky/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-sky/dirty_icon--hover.png",
     },
   
     {
@@ -5533,8 +5536,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_sky"],
-      "layer2.texture": "Material Theme/assets/accent-sky/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-sky/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-sky/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-sky/folder_opened--hover.png",
     },
   
     {
@@ -5545,19 +5548,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-sky/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-sky/folder_opened--hover-7.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-0.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-1.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-2.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-3.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-4.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-5.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-5.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-5.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-6.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-6.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-6.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-6.png",
+          "Materialize/assets/accent-sky/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -5573,14 +5576,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-sky/spinner7.png",
-          "Material Theme/assets/accent-sky/spinner6.png",
-          "Material Theme/assets/accent-sky/spinner5.png",
-          "Material Theme/assets/accent-sky/spinner4.png",
-          "Material Theme/assets/accent-sky/spinner3.png",
-          "Material Theme/assets/accent-sky/spinner2.png",
-          "Material Theme/assets/accent-sky/spinner1.png",
-          "Material Theme/assets/accent-sky/spinner.png",
+          "Materialize/assets/accent-sky/spinner7.png",
+          "Materialize/assets/accent-sky/spinner6.png",
+          "Materialize/assets/accent-sky/spinner5.png",
+          "Materialize/assets/accent-sky/spinner4.png",
+          "Materialize/assets/accent-sky/spinner3.png",
+          "Materialize/assets/accent-sky/spinner2.png",
+          "Materialize/assets/accent-sky/spinner1.png",
+          "Materialize/assets/accent-sky/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -5592,27 +5595,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_sky"],
-      "layer1.texture": "Material Theme/assets/accent-sky/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-sky/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_sky"],
-      "layer1.texture": "Material Theme/assets/accent-sky/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-sky/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_sky"],
-      "layer1.texture": "Material Theme/assets/accent-sky/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-sky/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_sky"],
-      "layer1.texture": "Material Theme/assets/accent-sky/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-sky/fold_down--hover.png"
     },
   
       // Panel labels
@@ -5658,7 +5661,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_sky"],
-      "layer1.texture": "Material Theme/assets/accent-sky/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-sky/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -5666,7 +5669,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_sky"],
-      "layer1.texture": "Material Theme/assets/accent-sky/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-sky/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -5676,7 +5679,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_sky"],
-      "layer0.texture": "Material Theme/assets/accent-sky/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-sky/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -5684,7 +5687,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_sky"],
-      "layer0.texture": "Material Theme/assets/accent-sky/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-sky/find_case--hover.png",
     },
   
       // Wholeword
@@ -5692,7 +5695,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_sky"],
-      "layer0.texture": "Material Theme/assets/accent-sky/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-sky/find_word--hover.png",
     },
   
       // Wrap
@@ -5700,7 +5703,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_sky"],
-      "layer0.texture": "Material Theme/assets/accent-sky/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-sky/find_wrap--hover.png",
     },
   
       // In selection
@@ -5708,7 +5711,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_sky"],
-      "layer0.texture": "Material Theme/assets/accent-sky/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-sky/find_inselection--hover.png",
     },
   
   
@@ -5717,7 +5720,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_sky"],
-      "layer0.texture": "Material Theme/assets/accent-sky/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-sky/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -5725,7 +5728,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_sky"],
-      "layer0.texture": "Material Theme/assets/accent-sky/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-sky/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -5733,7 +5736,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_sky"],
-      "layer0.texture": "Material Theme/assets/accent-sky/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-sky/find_context--hover.png",
     },
   
       // Use buffer
@@ -5741,7 +5744,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_sky"],
-      "layer0.texture": "Material Theme/assets/accent-sky/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-sky/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -5749,7 +5752,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_sky"],
-      "layer0.texture": "Material Theme/assets/accent-sky/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-sky/find_reverse--hover.png",
     },
   
   // Tomato Accent Color
@@ -5759,7 +5762,7 @@
       "class": "panel_button_control",
       "settings": ["material_theme_accent_tomato"],
       "attributes": ["hover"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/overflow_menu--hover.png"
+      "layer0.texture": "Materialize/assets/accent-tomato/overflow_menu--hover.png"
     },
   
     // tooltip
@@ -5794,7 +5797,7 @@
     {
       "class": "tree_row",
       "settings": ["material_theme_accent_tomato"],
-      "layer1.texture": "Material Theme/assets/accent-tomato/tree_highlight.png",
+      "layer1.texture": "Materialize/assets/accent-tomato/tree_highlight.png",
     },
   
       // Tabs
@@ -5802,7 +5805,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_accent_tomato"],
-      "layer1.texture": "Material Theme/assets/accent-tomato/tab_current.png",
+      "layer1.texture": "Materialize/assets/accent-tomato/tab_current.png",
     },
   
       // Tabs close button
@@ -5810,8 +5813,8 @@
     {
       "class": "tab_close_button",
       "settings": ["material_theme_accent_tomato"],
-      "layer1.texture": "Material Theme/assets/accent-tomato/close_icon--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-tomato/dirty_icon--hover.png"
+      "layer1.texture": "Materialize/assets/accent-tomato/close_icon--hover.png",
+      "layer3.texture": "Materialize/assets/accent-tomato/dirty_icon--hover.png"
     },
   
       // Opened files
@@ -5819,7 +5822,7 @@
     {
       "class": "close_button",
       "settings": ["material_theme_accent_tomato"],
-      "layer1.texture": "Material Theme/assets/accent-tomato/close_icon--hover.png",
+      "layer1.texture": "Materialize/assets/accent-tomato/close_icon--hover.png",
     },
   
       // Dirty opened files
@@ -5828,7 +5831,7 @@
       "class": "close_button",
       "attributes": ["dirty"],
       "settings": ["material_theme_accent_tomato"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/dirty_icon--hover.png",
+      "layer0.texture": "Materialize/assets/accent-tomato/dirty_icon--hover.png",
     },
   
     {
@@ -5841,8 +5844,8 @@
     {
       "class": "icon_folder",
       "settings": ["material_theme_accent_tomato"],
-      "layer2.texture": "Material Theme/assets/accent-tomato/folder--hover.png",
-      "layer3.texture": "Material Theme/assets/accent-tomato/folder_opened--hover.png",
+      "layer2.texture": "Materialize/assets/accent-tomato/folder--hover.png",
+      "layer3.texture": "Materialize/assets/accent-tomato/folder_opened--hover.png",
     },
   
     {
@@ -5853,19 +5856,19 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-tomato/folder_opened--hover-0.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-1.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-2.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-3.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-4.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-5.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-6.png",
-          "Material Theme/assets/accent-tomato/folder_opened--hover-7.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-0.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-1.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-2.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-3.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-4.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-5.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-5.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-5.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-6.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-6.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-6.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-6.png",
+          "Materialize/assets/accent-tomato/folder_opened--hover-7.png",
         ],
         "loop": false,
         "frame_time": 0.020,
@@ -5881,14 +5884,14 @@
       {
         "keyframes":
         [
-          "Material Theme/assets/accent-tomato/spinner7.png",
-          "Material Theme/assets/accent-tomato/spinner6.png",
-          "Material Theme/assets/accent-tomato/spinner5.png",
-          "Material Theme/assets/accent-tomato/spinner4.png",
-          "Material Theme/assets/accent-tomato/spinner3.png",
-          "Material Theme/assets/accent-tomato/spinner2.png",
-          "Material Theme/assets/accent-tomato/spinner1.png",
-          "Material Theme/assets/accent-tomato/spinner.png",
+          "Materialize/assets/accent-tomato/spinner7.png",
+          "Materialize/assets/accent-tomato/spinner6.png",
+          "Materialize/assets/accent-tomato/spinner5.png",
+          "Materialize/assets/accent-tomato/spinner4.png",
+          "Materialize/assets/accent-tomato/spinner3.png",
+          "Materialize/assets/accent-tomato/spinner2.png",
+          "Materialize/assets/accent-tomato/spinner1.png",
+          "Materialize/assets/accent-tomato/spinner.png",
         ],
         "loop": true,
         "frame_time": 0.075,
@@ -5900,27 +5903,27 @@
     {
       "class": "scroll_tabs_left_button",
       "settings": ["material_theme_accent_tomato"],
-      "layer1.texture": "Material Theme/assets/accent-tomato/arrow_left--hover.png",
+      "layer1.texture": "Materialize/assets/accent-tomato/arrow_left--hover.png",
     },
   
     {
       "class": "scroll_tabs_right_button",
       "settings": ["material_theme_accent_tomato"],
-      "layer1.texture": "Material Theme/assets/accent-tomato/arrow_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-tomato/arrow_right--hover.png",
     },
   
   
     {
       "class": "fold_button_control",
       "settings": ["material_theme_accent_tomato"],
-      "layer1.texture": "Material Theme/assets/accent-tomato/fold_right--hover.png",
+      "layer1.texture": "Materialize/assets/accent-tomato/fold_right--hover.png",
     },
   
     {
       "class": "fold_button_control",
       "attributes": ["expanded"],
       "settings": ["material_theme_accent_tomato"],
-      "layer1.texture": "Material Theme/assets/accent-tomato/fold_down--hover.png"
+      "layer1.texture": "Materialize/assets/accent-tomato/fold_down--hover.png"
     },
   
       // Panel labels
@@ -5966,7 +5969,7 @@
     {
       "class": "show_tabs_dropdown_button",
       "settings": ["material_theme_accent_tomato"],
-      "layer1.texture": "Material Theme/assets/accent-tomato/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-tomato/overflow_menu--hover.png",
     },
   
       // Textline input oveflow menu
@@ -5974,7 +5977,7 @@
     {
       "class": "dropdown_button_control",
       "settings": ["material_theme_accent_tomato"],
-      "layer1.texture": "Material Theme/assets/accent-tomato/overflow_menu--hover.png",
+      "layer1.texture": "Materialize/assets/accent-tomato/overflow_menu--hover.png",
     },
   
     // Buttons icons settings
@@ -5984,7 +5987,7 @@
     {
       "class": "icon_regex",
       "settings": ["material_theme_accent_tomato"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/find_regex--hover.png",
+      "layer0.texture": "Materialize/assets/accent-tomato/find_regex--hover.png",
     },
   
       // Preserve case sensitive
@@ -5992,7 +5995,7 @@
     {
       "class": "icon_case",
       "settings": ["material_theme_accent_tomato"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/find_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-tomato/find_case--hover.png",
     },
   
       // Wholeword
@@ -6000,7 +6003,7 @@
     {
       "class": "icon_whole_word",
       "settings": ["material_theme_accent_tomato"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/find_word--hover.png",
+      "layer0.texture": "Materialize/assets/accent-tomato/find_word--hover.png",
     },
   
       // Wrap
@@ -6008,7 +6011,7 @@
     {
       "class": "icon_wrap",
       "settings": ["material_theme_accent_tomato"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/find_wrap--hover.png",
+      "layer0.texture": "Materialize/assets/accent-tomato/find_wrap--hover.png",
     },
   
       // In selection
@@ -6016,7 +6019,7 @@
     {
       "class": "icon_in_selection",
       "settings": ["material_theme_accent_tomato"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/find_inselection--hover.png",
+      "layer0.texture": "Materialize/assets/accent-tomato/find_inselection--hover.png",
     },
   
   
@@ -6025,7 +6028,7 @@
     {
       "class": "icon_highlight",
       "settings": ["material_theme_accent_tomato"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/find_highlight--hover.png",
+      "layer0.texture": "Materialize/assets/accent-tomato/find_highlight--hover.png",
     },
   
       // Preserve Case
@@ -6033,7 +6036,7 @@
     {
       "class": "icon_preserve_case",
       "settings": ["material_theme_accent_tomato"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/replace_preserve_case--hover.png",
+      "layer0.texture": "Materialize/assets/accent-tomato/replace_preserve_case--hover.png",
     },
   
       // Show context
@@ -6041,7 +6044,7 @@
     {
       "class": "icon_context",
       "settings": ["material_theme_accent_tomato"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/find_context--hover.png",
+      "layer0.texture": "Materialize/assets/accent-tomato/find_context--hover.png",
     },
   
       // Use buffer
@@ -6049,7 +6052,7 @@
     {
       "class": "icon_use_buffer",
       "settings": ["material_theme_accent_tomato"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/use_buffer--hover.png",
+      "layer0.texture": "Materialize/assets/accent-tomato/use_buffer--hover.png",
     },
   
       // Reverse direction
@@ -6057,7 +6060,7 @@
     {
       "class": "icon_reverse",
       "settings": ["material_theme_accent_tomato"],
-      "layer0.texture": "Material Theme/assets/accent-tomato/find_reverse--hover.png",
+      "layer0.texture": "Materialize/assets/accent-tomato/find_reverse--hover.png",
     },
   
   
@@ -6091,7 +6094,7 @@
     {
       "class": "tab_control",
       "settings": ["material_theme_tabs_separator"],
-      "layer3.texture": "Material Theme/assets/darker/tab_separator.png",
+      "layer3.texture": "Materialize/assets/darker/tab_separator.png",
       "layer3.inner_margin": [1, 1],
       "layer3.opacity": 1.0,
     },
@@ -6135,7 +6138,7 @@
     {
       "class": "panel_control",
       "settings": ["material_theme_panel_separator"],
-      "layer1.texture": "Material Theme/assets/commons/panel_separator.png",
+      "layer1.texture": "Materialize/assets/commons/panel_separator.png",
       "layer1.opacity": 0.2,
       "layer1.inner_margin": [2, 2, 2, 2],
     },

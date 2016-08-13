@@ -68,7 +68,7 @@
     // panel switcher
   {
     "class": "panel_button_control",
-    "layer0.texture": "Material Theme/assets/lighter/overflow_menu.png",
+    "layer0.texture": "Materialize/assets/lighter/overflow_menu.png",
     "layer0.opacity": 1.0,
     "content_margin": [10, 10]
   },
@@ -76,5 +76,5 @@
   {
     "class": "panel_button_control",
     "attributes": ["hover"],
-    "layer0.texture": "Material Theme/assets/commons/overflow_menu--hover.png",
+    "layer0.texture": "Materialize/assets/commons/overflow_menu--hover.png",
   },

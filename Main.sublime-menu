@@ -9,15 +9,15 @@
         "children":
         [
           {
-            "caption": "Material Theme",
+            "caption": "Materialize",
             "children":
             [
               {
-                  "caption": "Activate Material Theme",
+                  "caption": "Activate Materialize",
                   "command": "mt_activate"
               },
               {
-                "caption": "Material Theme Config",
+                "caption": "Materialize Config",
                 "command": "mt_config"
               },
               { "caption": "-" },
@@ -25,7 +25,7 @@
                 "caption": "Advanced config",
                 "command": "edit_settings", "args":
                 {
-                    "base_file": "${packages}/Material Theme/Preferences.sublime-settings",
+                    "base_file": "${packages}/Materialize/Preferences.sublime-settings",
                     "default": "// Settings in here override those in \"Default/Preferences.sublime-settings\",\n// and are overridden in turn by syntax-specific settings.\n{\n\t$0\n}\n"
                 }
               },

@@ -41,7 +41,7 @@
 
   {
      "class": "tree_row",
-     "layer1.texture": "Material Theme/assets/commons/tree_highlight.png",
+     "layer1.texture": "Materialize/assets/commons/tree_highlight.png",
      "layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
      "layer1.inner_margin": [22, 8, 0, 0]
   },
@@ -136,11 +136,11 @@
     "content_margin": [10, 8],
     "layer0.tint": [38, 50, 56],
     "layer0.opacity": 0,
-    "layer1.texture": "Material Theme/assets/darker/folder.png",
+    "layer1.texture": "Materialize/assets/darker/folder.png",
     "layer1.opacity": 1,
-    "layer2.texture": "Material Theme/assets/commons/folder--hover.png",
+    "layer2.texture": "Materialize/assets/commons/folder--hover.png",
     "layer2.opacity": 0.0,
-    "layer3.texture": "Material Theme/assets/commons/folder_opened--hover.png",
+    "layer3.texture": "Materialize/assets/commons/folder_opened--hover.png",
     "layer3.opacity": 0.0,
   },
 
@@ -176,19 +176,19 @@
     {
       "keyframes":
       [
-        "Material Theme/assets/commons/folder_opened--hover-0.png",
-        "Material Theme/assets/commons/folder_opened--hover-1.png",
-        "Material Theme/assets/commons/folder_opened--hover-2.png",
-        "Material Theme/assets/commons/folder_opened--hover-3.png",
-        "Material Theme/assets/commons/folder_opened--hover-4.png",
-        "Material Theme/assets/commons/folder_opened--hover-5.png",
-        "Material Theme/assets/commons/folder_opened--hover-5.png",
-        "Material Theme/assets/commons/folder_opened--hover-5.png",
-        "Material Theme/assets/commons/folder_opened--hover-6.png",
-        "Material Theme/assets/commons/folder_opened--hover-6.png",
-        "Material Theme/assets/commons/folder_opened--hover-6.png",
-        "Material Theme/assets/commons/folder_opened--hover-6.png",
-        "Material Theme/assets/commons/folder_opened--hover-7.png",
+        "Materialize/assets/commons/folder_opened--hover-0.png",
+        "Materialize/assets/commons/folder_opened--hover-1.png",
+        "Materialize/assets/commons/folder_opened--hover-2.png",
+        "Materialize/assets/commons/folder_opened--hover-3.png",
+        "Materialize/assets/commons/folder_opened--hover-4.png",
+        "Materialize/assets/commons/folder_opened--hover-5.png",
+        "Materialize/assets/commons/folder_opened--hover-5.png",
+        "Materialize/assets/commons/folder_opened--hover-5.png",
+        "Materialize/assets/commons/folder_opened--hover-6.png",
+        "Materialize/assets/commons/folder_opened--hover-6.png",
+        "Materialize/assets/commons/folder_opened--hover-6.png",
+        "Materialize/assets/commons/folder_opened--hover-6.png",
+        "Materialize/assets/commons/folder_opened--hover-7.png",
       ],
       "loop": false,
       "frame_time": 0.020,
@@ -204,7 +204,7 @@
     [
       { "class": "tree_row", "attributes": ["selected"] }
     ],
-    "layer1.texture": "Material Theme/assets/commons/folder--hover.png",
+    "layer1.texture": "Materialize/assets/commons/folder--hover.png",
   },
 
     // Folder loading
@@ -215,14 +215,14 @@
     {
       "keyframes":
       [
-        "Material Theme/assets/commons/spinner7.png",
-        "Material Theme/assets/commons/spinner6.png",
-        "Material Theme/assets/commons/spinner5.png",
-        "Material Theme/assets/commons/spinner4.png",
-        "Material Theme/assets/commons/spinner3.png",
-        "Material Theme/assets/commons/spinner2.png",
-        "Material Theme/assets/commons/spinner1.png",
-        "Material Theme/assets/commons/spinner.png",
+        "Materialize/assets/commons/spinner7.png",
+        "Materialize/assets/commons/spinner6.png",
+        "Materialize/assets/commons/spinner5.png",
+        "Materialize/assets/commons/spinner4.png",
+        "Materialize/assets/commons/spinner3.png",
+        "Materialize/assets/commons/spinner2.png",
+        "Materialize/assets/commons/spinner1.png",
+        "Materialize/assets/commons/spinner.png",
       ],
       "loop": true,
       "frame_time": 0.075,
@@ -236,7 +236,7 @@
 
   {
     "class": "icon_folder_dup",
-    "layer0.texture": "Material Theme/assets/darker/folder_dup.png",
+    "layer0.texture": "Materialize/assets/darker/folder_dup.png",
     "layer0.opacity": 1.0,
     "content_margin": [10, 8]
   },
@@ -245,23 +245,23 @@
     "class": "icon_folder_dup",
     "parents":
     [{ "class": "tree_row", "attributes": ["hover"] }],
-    "layer0.texture": "Material Theme/assets/commons/folder_dup--hover.png"
+    "layer0.texture": "Materialize/assets/commons/folder_dup--hover.png"
   },
 
   {
     "class": "icon_folder_dup",
     "parents": [{"class": "tree_row", "attributes": ["expanded"] }],
-    "layer0.texture": "Material Theme/assets/commons/folder_dup--hover.png"
+    "layer0.texture": "Materialize/assets/commons/folder_dup--hover.png"
   },
 
     // Hidden arrow icon before folder
 
   {
     "class": "disclosure_button_control",
-    "layer0.texture": "Material Theme/assets/darker/folder.png",
+    "layer0.texture": "Materialize/assets/darker/folder.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": 0,
-    "layer1.texture": "Material Theme/assets/commons/folder--hover.png",
+    "layer1.texture": "Materialize/assets/commons/folder--hover.png",
     "layer1.opacity": 0.0,
     "layer1.inner_margin": 0,
     "content_margin": [0, 0, 0, 0]
@@ -280,7 +280,7 @@
   {
     "class": "disclosure_button_control",
     "attributes": ["expanded"],
-    "layer0.texture": "Material Theme/assets/commons/folder_opened--hover.png",
+    "layer0.texture": "Materialize/assets/commons/folder_opened--hover.png",
   },
 
   {
@@ -301,12 +301,12 @@
     "content_margin": [8, 8],
 
     // Default Close icon
-    "layer0.texture": "Material Theme/assets/darker/close_icon.png",
+    "layer0.texture": "Materialize/assets/darker/close_icon.png",
     "layer0.opacity": { "target": 0.0, "speed": 7.0, "interpolation": "smoothstep" },
     "layer0.inner_margin": [0,0],
 
     // Hover close icon
-    "layer1.texture": "Material Theme/assets/commons/close_icon--hover.png",
+    "layer1.texture": "Materialize/assets/commons/close_icon--hover.png",
     "layer1.opacity": 0,
     "layer1.inner_margin": [0,0],
   },
@@ -320,7 +320,7 @@
       { "class": "tree_row", "attributes": ["hover"] }
     ],
     // Default Close icon
-    "layer0.texture": "Material Theme/assets/default/close_icon.png",
+    "layer0.texture": "Materialize/assets/default/close_icon.png",
     "layer0.opacity": { "target": 1.0, "speed": 7.0, "interpolation": "smoothstep" },
     "layer0.inner_margin": [0,0],
   },
@@ -328,7 +328,7 @@
   {
     "class": "close_button",
     "attributes": ["dirty"],
-    "layer0.texture": "Material Theme/assets/commons/dirty_icon--hover.png",
+    "layer0.texture": "Materialize/assets/commons/dirty_icon--hover.png",
     "layer0.opacity": 1.0,
   },
 

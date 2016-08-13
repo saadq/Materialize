@@ -28,7 +28,7 @@
   {
     "class": "tab_control",
     "settings": ["material_theme_tabs_separator"],
-    "layer3.texture": "Material Theme/assets/commons/tab_separator.png",
+    "layer3.texture": "Materialize/assets/commons/tab_separator.png",
     "layer3.inner_margin": [1, 1],
     "layer3.opacity": 1.0,
   },
@@ -59,7 +59,7 @@
     "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
     "layer1.opacity": 0.0,
     "layer2.opacity": 0.0,
-    "layer3.texture": "Material Theme/assets/commons/folder--hover.png",
+    "layer3.texture": "Materialize/assets/commons/folder--hover.png",
   },
 
     // Small status bar
@@ -83,7 +83,7 @@
   {
     "class": "panel_control",
     "settings": ["material_theme_panel_separator"],
-    "layer1.texture": "Material Theme/assets/commons/panel_separator.png",
+    "layer1.texture": "Materialize/assets/commons/panel_separator.png",
     "layer1.opacity": 0.2,
     "layer1.inner_margin": [2, 2, 2, 2],
   },

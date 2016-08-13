@@ -1,10 +1,10 @@
-![Material Theme](http://i.imgur.com/9PyxJMN.gif)
+![Materialize](http://i.imgur.com/9PyxJMN.gif)
 
 [![GitHub tag](https://img.shields.io/github/tag/equinusocio/material-theme.svg?style=flat-square)](https://github.com/equinusocio/material-theme/releases/latest)
 [![GitHub tag](https://img.shields.io/github/release/equinusocio/material-theme.svg?style=flat-square)](https://github.com/equinusocio/material-theme/releases)
 [![Downloads](https://img.shields.io/packagecontrol/dt/Material%20Theme.svg?colorB=80d4cd&style=flat-square)](https://packagecontrol.io/packages/Material%20Theme)
 [![Join the chat at https://gitter.im/equinusocio/material-theme](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg?style=flat-square)](https://gitter.im/equinusocio/material-theme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-<a style="display: inline-block !important;" target="_blank" href='https://pledgie.com/campaigns/29452'><img width="100" alt='Click here to lend your support to: Material Theme donations and make a donation at pledgie.com!' src='https://pledgie.com/campaigns/29452.png?skin_name=chrome' border='0' ></a>
+<a style="display: inline-block !important;" target="_blank" href='https://pledgie.com/campaigns/29452'><img width="100" alt='Click here to lend your support to: Materialize donations and make a donation at pledgie.com!' src='https://pledgie.com/campaigns/29452.png?skin_name=chrome' border='0' ></a>
 <a style="display: inline-block !important;" class="coinbase-button" data-code="977637f29fdd26f9fba47d9acc7f8d57" target="_blank" data-button-style="donation_large" href="https://www.coinbase.com/checkouts/977637f29fdd26f9fba47d9acc7f8d57"><img width="120" src="https://www.coinbase.com/assets/buttons/donation_large-5cf4f17cc2d2ae2f45b6b021ee498297409c94dcf0ba1bbf76fd5668e80b0d02.png"></a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
 
 
@@ -17,12 +17,12 @@ Please read the [Known Issues](https://github.com/equinusocio/material-theme#kno
 You can install this awesome theme through the [Package Control](https://packagecontrol.io/installation).
 
 1. Press <kbd>cmd/ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> to open the command palette.
-2. Type *"install package"* and press enter. Then search for *"Material Theme"*
+2. Type *"install package"* and press enter. Then search for *"Materialize"*
 
 
 # Manual installation
 
-1. Download the [latest release](https://github.com/equinusocio/material-theme/releases/latest), extract and rename the directory to **"Material Theme"**.
+1. Download the [latest release](https://github.com/equinusocio/material-theme/releases/latest), extract and rename the directory to **"Materialize"**.
 2. Move the directory inside your sublime `Packages` directory. **(Preferences > Browse packages...)**
 
 
@@ -30,33 +30,33 @@ You can install this awesome theme through the [Package Control](https://package
 
 You can active this theme from:
 - Command palette `Tools > Command Palette` (or <kbd>cmd/ctrl</kbd>+ <kbd>↑</kbd>+<kbd>p</
-kbd>) by typing `Material Theme: Activate theme`. 
-- Context menu (Right click on the editor) and choose `Material Theme > Activate Material Theme`
-- `Preferences > Packages Settings` and choose `Material Theme > Activate Material Theme`
+kbd>) by typing `Materialize: Activate theme`. 
+- Context menu (Right click on the editor) and choose `Materialize > Activate Materialize`
+- `Preferences > Packages Settings` and choose `Materialize > Activate Materialize`
 
 You can also manually activate this theme by adding these lines to your user settings (**Preferences > Settings - User**):
 
 ```json
-"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+"color_scheme": "Packages/Materialize/schemes/Material-Theme.tmTheme",
 "theme": "Material-Theme.sublime-theme",
 ```
 
 **NOTE:** Restart Sublime Text after activating the theme.
 
 # Configuration
-This theme provide a visual configuration tool that allow you to configure the theme by activating the available options from an inline popup. Just right click in your editor and choose `Material Theme > Material Theme Config`. You can also open the configurator from the command palette by searching `Material Theme > Configuration`
+This theme provide a visual configuration tool that allow you to configure the theme by activating the available options from an inline popup. Just right click in your editor and choose `Materialize > Materialize Config`. You can also open the configurator from the command palette by searching `Materialize > Configuration`
 
 #### Advanced configuration
-If you like the adnvaced text text-configuration you can use it by the `Material Theme > Advanced condiguration` command both form context menu and command palette.
+If you like the adnvaced text text-configuration you can use it by the `Materialize > Advanced condiguration` command both form context menu and command palette.
 
 #### Old Color Schemes
 
 You can still use the oldest and **unsupported** color schemes.
 
 ```json
-"color_scheme": "Packages/Material Theme/schemes/OLD/Material-Theme.tmTheme",
-"color_scheme": "Packages/Material Theme/schemes/OLD/Material-Theme-Darker.tmTheme",
-"color_scheme": "Packages/Material Theme/schemes/OLD/Material-Theme-Lighter.tmTheme",
+"color_scheme": "Packages/Materialize/schemes/OLD/Material-Theme.tmTheme",
+"color_scheme": "Packages/Materialize/schemes/OLD/Material-Theme-Darker.tmTheme",
+"color_scheme": "Packages/Materialize/schemes/OLD/Material-Theme-Lighter.tmTheme",
 ```
 
 # Known issues
@@ -68,13 +68,13 @@ Please see the issue [#67](https://github.com/equinusocio/material-theme/issues/
 
 #### App Bar
 
-[Material Theme Appbar](https://github.com/equinusocio/material-theme-appbar)
-This official addon enable a beautiful colored tab bar to your Material Theme. The color tint fits automagically the material theme accent color you choosed.
+[Materialize Appbar](https://github.com/equinusocio/material-theme-appbar)
+This official addon enable a beautiful colored tab bar to your Materialize. The color tint fits automagically the Materialize accent color you choosed.
 
 #### White panels
 
-[Material Theme White Panels](https://github.com/equinusocio/material-theme-white-panels)
-If you want to enable the white panels and inputs you can install the addon package through **Package Control**, search for "Material theme white panels". You have to disable it if you want to use the ```Lighter``` theme style.
+[Materialize White Panels](https://github.com/equinusocio/material-theme-white-panels)
+If you want to enable the white panels and inputs you can install the addon package through **Package Control**, search for "Materialize white panels". You have to disable it if you want to use the ```Lighter``` theme style.
 
 
 # Theme options
@@ -108,7 +108,7 @@ If you want to enable the white panels and inputs you can install the addon pack
 "material_theme_tabs_autowidth"           : true , // Enable autowidth for tabs
 "material_theme_tabs_separator"           : true , // Show tabs separator, this disables tab hover animation
 
-// If you use Material Theme - Appbar addon you can use additional settings:
+// If you use Materialize - Appbar addon you can use additional settings:
 "material_theme_tree_headings"            : true , // Show sidebar headings
 ```
 
@@ -144,10 +144,10 @@ You can now edit the source files under `/src` folder that will be compiled insi
 
 # Other Resources
 
-**App icon**: [Download](https://github.com/equinusocio/material-theme/files/396220/Material-Theme-Icon.zip) the official Material Theme icon.
+**App icon**: [Download](https://github.com/equinusocio/material-theme/files/396220/Material-Theme-Icon.zip) the official Materialize icon.
 
 # Official Portings
-Material Theme was also ported to:
+Materialize was also ported to:
 
 
 - Atom Editor: [atom-material-ui](https://github.com/silvestreh/atom-material-ui) (by [@silvestreh](https://github.com/silvestreh)) and [material-ui](https://github.com/leo/material-ui) (by [@leo](https://github.com/leo))

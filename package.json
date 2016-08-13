@@ -1,7 +1,7 @@
 {
   "name": "material-theme",
   "version": "3.1.8",
-  "description": "Material Theme for Sublime Text 3",
+  "description": "Materialize for Sublime Text 3",
   "main": "gulpfile.js",
   "devDependencies": {
     "colors": "^1.1.2",

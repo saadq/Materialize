@@ -20,7 +20,7 @@
     <string>#a7adba</string>
   </dict>
   <key>name</key>
-  <string>Material Theme</string>
+  <string>Materialize</string>
   <key>semanticClass</key>
   <string>theme.dark.material_theme</string>
   <key>settings</key>

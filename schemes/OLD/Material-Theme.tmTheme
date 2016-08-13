@@ -6,7 +6,7 @@
   <key>author</key>
   <string>Mattia Astorino (http://astorinomattia.it)</string>
   <key>name</key>
-  <string>Material Theme</string>
+  <string>Materialize</string>
   <key>semanticClass</key>
   <string>theme.material_theme</string>
   <key>colorSpaceName</key>

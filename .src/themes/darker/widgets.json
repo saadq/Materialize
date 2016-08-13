@@ -20,9 +20,9 @@
 
   {
     "class": "panel_close_button",
-    "layer0.texture": "Material Theme/assets/darker/close_icon.png",
+    "layer0.texture": "Materialize/assets/darker/close_icon.png",
     "layer0.opacity": 0.6,
-    "layer1.texture": "Material Theme/assets/commons/close_icon--hover.png",
+    "layer1.texture": "Materialize/assets/commons/close_icon--hover.png",
     "layer1.opacity": 0.0,
     "content_margin": [0, 0] // 8,8 to show
   },
@@ -38,7 +38,7 @@
 
   {
     "class": "text_line_control",
-    "layer0.texture": "Material Theme/assets/darker/input_field_border.png",
+    "layer0.texture": "Materialize/assets/darker/input_field_border.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": [20, 5, 20, 5],
     "tint_index": 1,
@@ -50,7 +50,7 @@
   {
     "class": "text_line_control",
     "parents": [{"class": "overlay_control"}],
-    "layer0.texture": "Material Theme/assets/darker/input_field_border--short.png",
+    "layer0.texture": "Materialize/assets/darker/input_field_border--short.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": [32, 2, 32, 2],
     "layer0.draw_center": true,
@@ -63,10 +63,10 @@
   {
     "class": "dropdown_button_control",
     "content_margin": [12, 12],
-    "layer0.texture": "Material Theme/assets/darker/overflow_menu.png",
+    "layer0.texture": "Materialize/assets/darker/overflow_menu.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": [0, 0],
-    "layer1.texture": "Material Theme/assets/commons/overflow_menu--hover.png",
+    "layer1.texture": "Materialize/assets/commons/overflow_menu--hover.png",
     "layer1.opacity": 0.0,
     "layer1.inner_margin": [0, 0],
   },

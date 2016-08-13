@@ -1,4 +1,4 @@
-#### Material Theme for Sublime Text 3
+#### Materialize for Sublime Text 3
 
 ## Version 3.1.8
 

@@ -1,5 +1,5 @@
 // =============================================================================
-// MATERIAL THEME PREFERENCES
+// Materialize PREFERENCES
 // =============================================================================
 
 // Source: https://github.com/equinusocio/material-theme#theme-options
@@ -109,7 +109,7 @@
   // Disable the current file tree indicator
   "material_theme_disable_tree_indicator": false,
 
-  // Hide headin titles from the sidebar (only with Material Theme Appbar)
+  // Hide headin titles from the sidebar (only with Materialize Appbar)
   "material_theme_tree_headings": false,
 
   //
