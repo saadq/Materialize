@@ -1,0 +1,15 @@
+# Development
+# =============================
+
+*.sublime-project
+*.sublime-workspace
+*.cache
+node_modules/
+
+images.cache
+
+
+# OS
+# =============================
+
+.DS_Store
