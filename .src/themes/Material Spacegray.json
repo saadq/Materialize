@@ -1,0 +1,19 @@
+[
+  //
+  //=include "spacegray/app.json"
+  //=include "spacegray/dialog.json"
+  //=include "spacegray/code_folding.json"
+  //=include "spacegray/autocomplete.json"
+  //=include "spacegray/tooltip.json"
+  //=include "spacegray/overlay_panels.json"
+  //=include "spacegray/tabs.json"
+  //=include "spacegray/sidebar.json"
+  //=include "spacegray/scrollbars.json"
+  //=include "spacegray/minimap.json"
+  //=include "spacegray/statusbar.json"
+  //=include "spacegray/widgets.json"
+  //=include "spacegray/buttons.json"
+  //=include "commons/accent.json"
+  //=include "spacegray/options.json"
+  //
+]
