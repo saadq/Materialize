@@ -9,7 +9,7 @@
 
 Bringing [Material theme](https://github.com/equinusocio/material-theme) to the some of the most popular color schemes for [Sublime Text 3](https://www.sublimetext.com/3) and [Sublime Text 3 dev](https://www.sublimetext.com/3dev). Click [here](/Screenshots.md) to see some more screenshots.
 
-![Material Spacegray](/screenshots/material-spacegray.png)
+![Material Spacegray](https://raw.githubusercontent.com/saadq/Materialize/master/screenshots/material-spacegray.png)
 
 **Materialize** is based upon the [Material](https://github.com/equinusocio/material-theme) theme created by [@equinusocio](https://github.com/equinusocio) and the following themes / color schemes:
 
