@@ -1,5 +1,8 @@
 # Materialize
 
+## Deprecation Notice
+This project is no longer under active development. Due to the fact that the original [Material Theme](https://github.com/equinusocio/material-theme) is no longer being developed and the fact that I switched from Sublime to [Atom](https://atom.io), Materialize will no longer be maintained. However, the project will continue to accept Pull Requests.
+
 [![Packagecontrol total downloads](https://img.shields.io/packagecontrol/dt/Materialize.svg?style=flat-square)](https://packagecontrol.io/packages/Materialize/)
 [![GitHub license](https://img.shields.io/github/license/saadq/materialize.svg?style=flat-square)](https://github.com/saadq/materialize/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/saadq/materialize.svg?style=flat-square)](https://github.com/saadq/materialize/issues?utf8=✓&q=is%3Aissue+is%3Aopen)
