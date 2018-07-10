@@ -10,7 +10,7 @@ https://github.com/saadq/Materialize
 
 Thanks for installing Materialize!
 
-Check out https://github.com/saadq/Materialize/screenshots.md for more visuals.
+Check out https://github.com/saadq/Materialize/blob/master/Screenshots.md for more visuals.
 
 ******************************************************************************
 
